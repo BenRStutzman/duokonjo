@@ -1,0 +1,126 @@
+@font-face {
+  font-family: Nunito;
+  src: url('fonts/Nunito-Regular.ttf');
+}
+
+@font-face {
+  font-family: Nunito-Light;
+  src: url('fonts/Nunito-Light.ttf');
+}
+
+@font-face {
+  font-family: Nunito-ExtraBold;
+  src: url('fonts/Nunito-ExtraBold.ttf');
+}
+
+html {
+  box-sizing: border-box;
+  background-color: #7af740;
+}
+
+* {
+  box-sizing: inherit;
+}
+
+body {
+  margin: 0px;
+}
+
+h1, h2, h3, h4, h5 {
+  margin: 0;
+  font-family: Nunito, sans-serif;
+  text-align: center;
+}
+
+#root {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+  height: 100vh;
+}
+
+#container {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+#game-box {
+  height: fit-content;
+  width: 350px;
+  padding: 10px;
+  border: 3px solid green;
+  border-radius: 5px;
+  display: grid;
+  grid-gap: 10px;
+  justify-content: center;
+  justify-items: center;
+  align-items: center;
+  grid-template-columns: minmax(0, 1fr);
+  grid-template-rows: 2fr 1fr 1fr 1fr;
+  background-color: white;
+}
+
+@media (max-width: 370px) {
+  #game-box {
+    width: 100%;
+  }
+}
+
+#duokonjo {
+  position: absolute;
+  bottom: 0;
+  left: 3px;
+}
+
+#options {
+  display: flex;
+  gap: 10px 10px;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+button {
+  width: fit-content;
+  font-size: 30px;
+  font-family: Nunito, sans-serif;
+  border: 3px solid green;
+  border-radius: 5px;
+  background-color: white;
+  outline: none;
+}
+
+button:hover {
+  color: white;
+  background-color: green;
+}
+
+#restart-button {
+  position: absolute;
+  bottom: 3px;
+  right: 3px;
+}
+
+#input {
+  height: 35px;
+  text-align: center;
+  font-size: 20px;
+  max-width: 100%;
+}
+
+.light-font {
+  font-family: Nunito-Light, sans-serif;
+}
+
+.extra-bold-font {
+  font-family: Nunito-ExtraBold, sans-serif;
+}
+
+#correct {
+  color: green;
+}
+
+#incorrect {
+  color: red;
+}

@@ -1,0 +1,41 @@
+Portugués
+write this in: Escreve isto em
+english: Inglés
+correct: Correto!/Ótimo!/Fixe!
+incorrect: Incorreto./Opa./Não.
+try: Tente
+or: ou
+
+Saludacoes
+good morning: bom dia
+good evening/good night/goodnight: boa noite
+hello/hi: olá/oi
+thank you: obrigado
+
+Comida
+banana: banana
+tea: shai
+fish: peixe
+
+
+Lukonjo
+write this in: Write this in
+english: English
+correct: Correct!/Great!/Cool!
+incorrect: Incorrect./Oops./Nope.
+try: Try
+or: or
+
+Greetings
+good morning: obukyire
+good evening: wasibire
+hello: kuthi
+hello back: ayihi
+thank you: wasinja
+
+Food
+starchy banana: matoke
+gnuts: ebinyobwa
+small sweet banana: ameru
+large sweet banana: bogoya
+tea: ekyai
