@@ -184,7 +184,8 @@ class App extends React.Component {
     clearTimeout(this.state.correctMessageTimeoutId);
     const correctMessageTimeoutId = setTimeout(this.clearCorrectMessage,
       1000 * correctMessageDisplayTimeSeconds)
-    const isCorrect = this.state.currentProblem.answers.includes(this.state.input.trim().toLowerCase());
+    const isCorrect = this.state.currentProblem.answers.map(answer => answer.toLowerCase())
+      .includes(this.state.input.trim().toLowerCase());
 
     const newState = Object.assign({}, this.state, {
       numberOfProblems: this.state.numberOfProblems + 1,

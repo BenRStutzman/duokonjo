@@ -18,24 +18,400 @@ tea: shai
 fish: peixe
 
 
-Lukonjo
+Olhukonzo
 write this in: Write this in
 english: English
 correct: Correct!/Great!/Cool!
 incorrect: Incorrect./Oops./Nope.
 try: Try
-or: or
+or: kwisi
 
 Greetings
-good morning: obukyire
-good evening: wasibire
-hello: kuthi
-hello back: ayihi
-thank you: wasinja
+good morning: obukyire/wabukire
+good afternoon/good evening: wasibire
+hello/hi: kuthi
+thank you/thanks: wasingya
+thank you for cooking/thanks for cooking: wasinja eritsumba
+thank you for eating/thanks for eating: wasinja erirya
+how are you?: uneyo?
+I am fine/I'm fine: nganeyo/nganeyo buholu
+have a good weekend: ghuthunge ewikende mbuya
+goodnight/good night: ukesayu buholu/ukesayanu buholu
+hey: sawa
+what are you speaking?: wukabughakyi?
+how is there?: yinewahi?
+there is good: yinuwene
+how was your day?: ekyiro kyaberekyithi?
+are you OK?: unakalire?
+I am OK/I'm OK: nganakalire
+yes?: wankyi?
 
-Food
-starchy banana: matoke
+Introductions
+my name is...: erinaryaghe ningye...
+what is your name?: erinaryagho ni wendi?
+I stay in...: ngikere...
+you stay in...: wihere...
+where are you from? (short): wukalhwahi?
+
+Ebyarya
+food: ebyarya
+starchy banana: eritoke
+starchy bananas: amatoke
+gnut: ekinyobwa
 gnuts: ebinyobwa
-small sweet banana: ameru
-large sweet banana: bogoya
+ripe banana: eryeru
+ripe bananas: ameru
+pancake: omugathi yameru
+pancakes: emigathi wameru
+small sweet banana: eryeru yasukali
+large sweet banana: eryeru bogoya
+plantain: gonja
 tea: ekyai
+egg: erya
+bread: omugathi
+milk: amathe
+porridge: obusara
+avocado: vakedo
+tomato: olhunyanya
+meat: nyama
+rice: muchere
+water: amaghetse
+fish: erehere
+fish (pl): amahere
+cabbage: ekabege
+greens: dodo/nakati
+pineapple: nanasi
+juice: juis
+turkey: sikoko
+sugar: sukali
+beer: obwabu
+beers: amabu
+mushroom: olokwe
+mushrooms: obokwe
+bean: ekihimba
+beans: ebihimba
+soybeans: esoya
+maize: ebikusa
+ear of maize: ekikusa
+yam: ekinyongyu
+onion: ekitunguru
+
+Nyumba
+house: enyumba
+houses: esyonyumba
+home: eka
+homes: amaka
+table: emeza
+tables: esyameza
+chair: ekithumbi
+chairs: ebithumbi
+bed: engyingo
+beds: esyongyingo
+window: eridirisa
+windows: amadirisa
+door: olhukyo
+doors: esyonukyo
+pen: ekalamu
+plate: esahani
+cup: ekikopo
+fork: efoko
+room: ekisenge
+rooms: ebisenge
+floor: olhubughabugha
+floors: esyobughabugha
+roof: olhuthwe
+roofs: esyothwe
+kitchen: ekitsumbyo
+kitchens: ebitsumbyo
+bathroom: ekyowero
+bathrooms: ebyowero
+dining room: ekisenge ekyeririramo
+living room: ekisenge ekyerihumuliramo
+bedroom: ekisenge ekyerikesyano
+
+Abandu
+person: omundu
+people: abandu
+boy: mojo
+girl: masika
+man: omulume
+men: abalume
+woman: omukali
+women: abakali
+white person: muzungu
+angel: malaika
+police: polisi
+kid: akana
+kids: obwana
+baby: olhumekeke
+babies: esyomekeke
+friend: munywani
+
+Body
+eyebrow: olhukigha
+eyebrows: esyongigha
+face: olhughuthu
+faces: esyonghuthu
+hair (s): olhuywire
+hair: esyonzwire
+arm: okubwoko
+arms: amabwoko
+leg: okuwolu
+toe: erenwe
+toes: amanwe
+finger: erinwe
+fingers: eminwe
+head: omotre
+foot: ekisando
+hand: ekiyala
+heart: muthima
+mouth: obuno
+mouths: amuno
+intestine: olhulha
+intestines: amalha
+
+Esyongyimba
+clothes: esyongyimba
+heeled shoe: akakondo
+shoe: engetha
+shoes: esyongetha
+trousers: embali
+trousers (pl): esyambali
+shorts: ekitsweka
+shorts (pl): ebitsweka
+shirt: esathi
+shirts: esyasathi
+
+Hobbies
+music: muziki
+book: ekitabo
+books: ebitabo
+radio: eradiyo
+song: olhwimbo
+songs: esyonyimbo
+ball: mupira
+bike: egali
+
+Basics
+very much/a lot: kutsibo
+Lukonjo: Olhukonzo
+yes/to/from/at: e
+no: ayihi
+and/with: na
+because: habwa
+or: kwisi
+I don't understand: si ngatakenga
+I don't hear you: si ngatowa/si ngowire
+sorry: bolobolo
+speak slowly: sasa kanaya bolobolo
+I: ingye
+you: iwe
+he/she: oyu
+we: itwe
+you (pl): inywe
+they: abo
+nothing: sihali
+good: wene
+bad: nabi
+in/into: omo
+here: hano
+on/a share of: oko
+
+Colors
+red: ered
+blue: eblu
+green: ekibabi
+yellow: ekisande
+orange: omutsungwe
+dark: omurima
+
+Numbers
+one: guma
+two: ibiri
+three: isathu
+four: inni
+five: itano
+six: mukagha
+seven: musanju
+eight: munani
+nine: mwenda
+ten: ikumi
+
+Time
+year: omwaka
+years: emyaka
+tomorrow: omungya
+yesterday: mulwolho
+
+Feelings
+I am tired/I'm tired: ngaluhire
+I am hungry/I'm hungry: ngakwire enzala
+
+Weather
+rain: embulha
+it is raining/it's raining: embulhayikayawa
+
+Verbs
+to throw: erighusa
+to sing/to give: erimba
+to open: erikyungula
+to close: erikyinga
+to dig: erilima
+to look: erisamalira
+to come (from): erilhwa
+to come (to)/to be back: eryasa
+to be: eribya
+to put: erihira
+to buy: eriwulha
+to drive: erivuga
+to untie: erikundulha
+to let out: erihulhukya
+to ask: eribulya
+to forgive: erighanyira
+to carry: eriheka
+to love: erisima
+to know: erimenya
+to speak: eribugha
+to have: erithunga
+to go: erighenda
+to stay/to sit: erikala
+to catch: erihamba
+to teach: erisomesya
+to read/to learn/to study: erisoma
+to write: handika
+to run: eritibitha
+to walk: eriryatha
+to bring: erileetha
+to eat: erirya
+to rest: erihumula
+to sleep: erikesya
+to want/to love: eryanza
+I have: ngawithe
+let's go forward: tughende embere
+we are praying: tukasaba
+let's pray: tusabe
+settle: tekana
+tell: tubwire
+go: ghenda
+drink: inywa
+take: thwala
+come: asa
+
+Family
+father/dad: thatha
+fathers/dads: abathatha
+mother/mom: mama
+mothers/moms: abamama
+child: omwana
+children: abana
+parents: ababuthi
+sister: mwaliwethu
+sisters: balibethu
+brother: mughalawethu
+brothers: baghalabethu
+first boy: Mumbere
+first boy, if a grandparent is dead: Baluku
+first child after opposite gender: Muhindo
+second boy: Bwambale
+third boy: Masereka
+fifth boy: Kakule
+sixth boy: MBusa
+third girl: Kabugho
+
+Animals
+dog: embwa
+cat: akagyangwa
+goat: embene
+goats: esyombene
+insect: akahuka
+insects: obuhuka
+hen: enkoko
+hens: esyonkoko
+rooster: engokolome
+roosters: esyongokolome
+dove: akalikuku
+doves: othulikuku
+feather: ekyeya
+feathers: ebyeya
+
+Nature
+dirt/soil: omuthaka
+star: ngununu
+raised land where you can't grow crops: obwerere
+raised lands where you can't grow crops: amerere
+uphill slope: obwiruka
+uphill slopes: amiruka
+hill: akathwa
+hills: ehithwa
+river: olhusi
+rivers: esyonyusi
+reed: olhuseke
+reeds: esiseke
+tree: omuthi
+trees: emithi
+stone: eribwe
+stones: amabwe
+grass: ebithi
+land: eririma
+mud: ebyondo
+
+Places
+market: akatale
+shop: eduka
+church: kanisa
+hotel: huteri
+playground: ekizaniro
+
+Questions
+where: hayi
+whom (s): ndi
+whom (pl): bahi
+how (I): nyithi/indi
+how (you): uthi
+how (he/she): athi
+how (we): thuthi
+how (you (pl)): muthi
+how (they): bathi
+
+Miscellaneous
+phone: esimu
+agreed/it's done: bas
+basin: ebafu
+jug: gyaga
+mat: ekiragho/omukeka
+motorcycle: epikyipikyi
+car: matoka
+jerry can: ekipido
+wood: obahu
+thread: omuhuha
+bag: isaho
+way/path: enzira
+street: ekikubo
+it's true/that's true: nikwenene
+oil: amaghuta
+case: olhubanza
+cases: esyombanza
+demarcation: olhubibi
+demarcations: esyombibi
+hole: ekyuna
+holes: ebyuna
+thing: ekindu
+things: ebindu
+hard: bikalire
+lock: ekoforo
+key: ekisomoligyo
+scissors: amakasi
+picture: sasani
+clock: saha
+glasses: amagabibendi
+weakness: butseke
+weaknesses: matseke
+bait: ekyambo
+baits: ebyambo
+stooge: ekyombolerya
+stooges: ebyombolerya
+ewethu: ours
+enyu: yours (pl)
+beauty: obubuya
+jealousy: obuha
+love: olwanzu
