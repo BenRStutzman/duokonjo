@@ -1,9 +1,9 @@
 # Duokonjo
 Welcome to *Duokonjo* - a lame version of [duolingo.com](https://www.duolingo.com) for learning vocab, but customizable with whatever language and words you want!
 <br><br>
-![gameplay](https://raw.githubusercontent.com/BenRStutzman/conjulameos/master/pictures/gameplay.png)
+![gameplay](https://raw.githubusercontent.com/BenRStutzman/duokonjo/master/pictures/gameplay.png)
 <br><br>
-![vocabSheet](https://raw.githubusercontent.com/BenRStutzman/conjulameos/master/pictures/vocabSheet.png)
+![vocabSheet](https://raw.githubusercontent.com/BenRStutzman/duokonjo/master/pictures/vocabSheet.png)
 <br>
 ## Running the program
 In the command prompt, navigate into the `duokonjo` folder. To run the program in development, run `npm start`. To run the program for production, run `npm run build` and then `serve build`. (You must first have npm and install `serve` with `npm install -g serve` if you haven't already.) You will then be directed to go to an address such as http://localhost:5000 in a browser.
