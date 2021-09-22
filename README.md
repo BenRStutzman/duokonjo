@@ -9,7 +9,7 @@ Welcome to *Duokonjo* - a lame version of [duolingo.com](https://www.duolingo.co
 In the command prompt, navigate into the `duokonjo` folder. To run the program in development, run `npm start`. To run the program for production, run `npm run build` and then `serve build`. (You must first have npm and install `serve` with `npm install -g serve` if you haven't already.) You will then be directed to go to an address such as http://localhost:5000 in a browser.
 
 ## Playing the game
-Choose your language to begin (see "adding vocab" to learn how to add another language). The game will prompt you with a word or phrase in English or the language you're learning. Translate the word or phrase and type your answer in the input box, then press enter to see if you're right. Repeat ad infinitum!
+Choose your language and category to begin (see "adding vocab" to learn how to add another language). The game will prompt you with a word or phrase in English or the language you're learning. Translate the word or phrase and type your answer in the input box, then press enter to see if you're right. Repeat ad infinitum!
 
 ## Adding vocab
 To add vocab, edit `src/vocab.txt` and then re-build the program with `npm run build`. Just follow the spacing pattern of the existing vocab, or use these instructions if you want them spelled out:

@@ -21,7 +21,7 @@ fish: peixe
 Olhukonzo
 write this in: Write this in
 english: English
-correct: Correct!/Great!/Cool!
+correct: Wene!
 incorrect: Incorrect./Oops./Nope.
 try: Try
 or: kwisi
@@ -415,3 +415,6 @@ enyu: yours (pl)
 beauty: obubuya
 jealousy: obuha
 love: olwanzu
+
+test
+good morning: obukyire
