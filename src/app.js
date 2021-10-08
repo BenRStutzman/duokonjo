@@ -54,6 +54,7 @@ class App extends React.Component {
     let categorySets;
     let language;
     let writeThisIn;
+    let languageName;
     let english;
     let correctMessages;
     let incorrectMessages;
@@ -70,9 +71,10 @@ class App extends React.Component {
     const languageSets = text.trim().split(/\s*\n\s*\n\s*\n\s*/);
     languageSets.forEach(languageSet => {
       [info, ...categorySets] = languageSet.split(/\s*\n\s*\n\s*/);
-      [language, writeThisIn, english, correctMessages, incorrectMessages, tryMessage, orMessage] = info.split(/\s*\n\s*/);
+      [language, writeThisIn, languageName, english, correctMessages, incorrectMessages, tryMessage, orMessage] = info.split(/\s*\n\s*/);
       languages[language] = {
         writeThisIn: writeThisIn.split(/:\s*/)[1],
+        languageName: languageName.split(/:\s*/)[1],
         english: english.split(/:\s*/)[1],
         correctMessages: correctMessages.split(/:\s*/)[1].split('/'),
         incorrectMessages: incorrectMessages.split(/:\s*/)[1].split('/'),
@@ -279,7 +281,7 @@ class App extends React.Component {
           <div id="game-box">
             <div>
               <h2 className="light-font">{this.state.languageInfo.writeThisIn} {question.toEnglish ?
-                this.state.languageInfo.english : this.state.language}:</h2>
+                this.state.languageInfo.english : this.state.languageInfo.languageName}:</h2>
               <h2><span className="extra-bold-font">{question.phrase}</span></h2>
             </div>
             <InputBox value={this.props.input}

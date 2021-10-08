@@ -1,6 +1,7 @@
-Portugués
+Portuguese
 write this in: Escreve isto em
-english: Inglés
+Portuguese: Portugués
+English: Inglés
 correct: Correto!/Ótimo!/Fixe!
 incorrect: Incorreto./Opa./Não.
 try: Tente
@@ -18,43 +19,73 @@ tea: shai
 fish: peixe
 
 
-Olhukonzo
-write this in: Write this in
-english: English
-correct: Wene!
-incorrect: Incorrect./Oops./Nope.
+Lukonjo
+write this in: Handika eki omo
+Lukonjo: Lhukonzo
+English: Lhusungu
+correct: Wene!/Ndeke!/Nikwenene!
+incorrect: Ayihi./Nabi./Bolobolo.
 try: Try
 or: kwisi
 
 Greetings
+how have things been?: biribithi?
+what's new?: wamathasyo wahi?
+how was your morning?: bwabirikya?
+how was your afternoon?: wabirisiba?
+how was your evening?: wabirira?
+how was your night?: wamakya?/bwamakya?
 good morning: obukyire/wabukire
 good afternoon/good evening: wasibire
 hello/hi: kuthi
 thank you/thanks: wasingya
-thank you for cooking/thanks for cooking: wasinja eritsumba
-thank you for eating/thanks for eating: wasinja erirya
-how are you?: uneyo?
-I am fine/I'm fine: nganeyo/nganeyo buholu
-have a good weekend: ghuthunge ewikende mbuya
-goodnight/good night: ukesayu buholu/ukesayanu buholu
+thank you for cooking/thanks for cooking: wasingya eritsumba
+thank you for eating/thanks for eating: wasingya erilya
+how are you?: wuneyo?
+I am fine/I'm fine/I am OK/I'm OK: nganeyo/nganeyo buholho/nganakalire/nganendeke
+have a good weekend: wuthunge ewikende mubuya
+goodnight/good night: wukesaye buholho/wukesayanu buholho
 hey: sawa
-what are you speaking?: wukabughakyi?
-how is there?: yinewahi?
-there is good: yinuwene
-how was your day?: ekyiro kyaberekyithi?
-are you OK?: unakalire?
-I am OK/I'm OK: nganakalire
+what are you speaking?: wukabughaki?
+how is there?: yinewahi?/yiriwahi?
+there is good/there is fine: yinuwene
+how was your day?: ekiro kyaberekyithi?
+are you OK?: wunakalire?/wunendeke?
 yes?: wankyi?
+welcome/we are fine/we're fine: thuneyo
+we are fine (specific)/we're fine (specific): thuneko
+we are fine (inside)/we're fine (inside): thunemo
+goodbye: bukyayi
 
 Introductions
 my name is...: erinaryaghe ningye...
-what is your name?: erinaryagho ni wendi?
-I stay in...: ngikere...
-you stay in...: wihere...
-where are you from? (short): wukalhwahi?
+what is your name?: erinaryawo ni wendi?
+where are you from?: wukalhwahi?/wukalhwa hayi?
 
-Ebyarya
-food: ebyarya
+Ebyalya
+food: ebyalya
+salt: omunyu
+tapioca: obundu
+papaya: epapayi
+mango: omuyembe
+mangoes: emiyembe
+palm oil: engasi
+large orange: omutsungwe
+large oranges: emitsungwe
+small orange: omukyungwe
+small oranges: emikyungwe
+lemon: endimu
+lemons: esyondimu
+pumpkin: eryoli
+sweet potato: ekithakuli
+sweet potatoes: ebithakuli
+cassava: omuhogo
+cassava (pl): emihogo
+efene: jackfruit
+eribese: potato
+amabese: potatoes
+anchovies: omukene
+sugarcane: ekiseke
 starchy banana: eritoke
 starchy bananas: amatoke
 gnut: ekinyobwa
@@ -66,55 +97,56 @@ pancakes: emigathi wameru
 small sweet banana: eryeru yasukali
 large sweet banana: eryeru bogoya
 plantain: gonja
+eggplant: ebirinkani
+small green eggplant: endakala
 tea: ekyai
-egg: erya
+egg: eriya
+eggs: amaya
 bread: omugathi
 milk: amathe
 porridge: obusara
 avocado: vakedo
-tomato: olhunyanya
-meat: nyama
-rice: muchere
+tomato: olhunyanya/ekinyanya
+tomatoes: esyonyanya/ebinyanya
+meat: enyama
+rice: omuchere
 water: amaghetse
-fish: erehere
+fish: erihere
 fish (pl): amahere
-cabbage: ekabege
+cabbage: ekabegye
 greens: dodo/nakati
-pineapple: nanasi
+pineapple: enanasi
 juice: juis
-turkey: sikoko
-sugar: sukali
+turkey: esikoko
+sugar: esukali
 beer: obwabu
 beers: amabu
 mushroom: olokwe
 mushrooms: obokwe
 bean: ekihimba
 beans: ebihimba
+fresh bean: omusekwa
 soybeans: esoya
 maize: ebikusa
 ear of maize: ekikusa
-yam: ekinyongyu
-onion: ekitunguru
+yam: ekinyangwa
+onion: ekithunguru
+garlic: akatunguru sumu
 
-Nyumba
+Enyumba
 house: enyumba
 houses: esyonyumba
+lamp: etara
 home: eka
 homes: amaka
 table: emeza
-tables: esyameza
+tables: esyomeza
 chair: ekithumbi
 chairs: ebithumbi
-bed: engyingo
-beds: esyongyingo
 window: eridirisa
 windows: amadirisa
 door: olhukyo
 doors: esyonukyo
-pen: ekalamu
-plate: esahani
-cup: ekikopo
-fork: efoko
 room: ekisenge
 rooms: ebisenge
 floor: olhubughabugha
@@ -128,138 +160,294 @@ bathrooms: ebyowero
 dining room: ekisenge ekyeririramo
 living room: ekisenge ekyerihumuliramo
 bedroom: ekisenge ekyerikesyano
+fence: olhughuthu
+fences: esyonghuthu
+
+Ekisenge Ekyerikesyano
+bed frame: ekitando
+bed: engyingo
+sheet: esithi
 
 Abandu
 person: omundu
 people: abandu
-boy: mojo
-girl: masika
+boy: omojo
+girl: omusika
 man: omulume
 men: abalume
 woman: omukali
 women: abakali
-white person: muzungu
+white person: omuzungu
 angel: malaika
-police: polisi
+police: epolisi
 kid: akana
 kids: obwana
 baby: olhumekeke
 babies: esyomekeke
 friend: munywani
+elder person: omukulu
+old man: muze
+old woman: mukade
 
-Body
+Omubiri
+nose: enyindo
+noses: esyonyindo
+ear: okuthwe
+ears: amathwe
+lip: omunywe
+lips: eminywe
+tooth: erino
+teeth: ameno
+chin: akaleghulu
+chins: ehileghulu
+cheek: erithema
+cheeks: amathema
+forehead: embumu
+foreheads: esyombumu
+eyelash: ekikoherya
+eyelashes: ebikoherya
+tongue: olhulimi
+tongues: esyonlimi
+eye: eriso
+eyes: ameso
+body/work: omubiri
+bodies: emibiri
 eyebrow: olhukigha
 eyebrows: esyongigha
-face: olhughuthu
-faces: esyonghuthu
+face: obusu
+faces: amasu
 hair (s): olhuywire
 hair: esyonzwire
 arm: okubwoko
 arms: amabwoko
-leg: okuwolu
-toe: erenwe
+lower leg: okuwulhu
+lower legs: amawulhu
+calf: embunda
+calves: esyombunda
+knee: okurwe
+knees: amarwe
+shin: omuhimbe
+shins: emihimbe
+ankle: akakungulhu
+ankles: ehikungulhu
+toe: erinwe
 toes: amanwe
-finger: erinwe
+finger: omunwe
 fingers: eminwe
-head: omotre
+head: omuthwe
+heads: emithwe
 foot: ekisando
-hand: ekiyala
+feet: ebisando
+hand: ekyala
+hands: ebyala
 heart: muthima
 mouth: obuno
 mouths: amuno
 intestine: olhulha
 intestines: amalha
+fingernail/toenail: ekinyala
+fingernails/toenails: ebinyala
+elbow: engokolo
+elbows: esyongokolo
+shoulder: ekithiwo
+shoulders: ebithiwo
+chest: ekikuba
+chests: ebikuba
+belly: eribunda
+bellies: amabunda
+neck/necks: ebikya
+back: omuwongo
+backs: emiwongo
+waist: embindi
+waists: esyombindi
+thigh: ekihinga
+thighs: ebihinga
 
 Esyongyimba
 clothes: esyongyimba
+glasses: amagaruventi
+mask: ekideghu
+masks: ebideghu
 heeled shoe: akakondo
 shoe: engetha
 shoes: esyongetha
 trousers: embali
-trousers (pl): esyambali
+trousers (pl): esyombali
 shorts: ekitsweka
 shorts (pl): ebitsweka
 shirt: esathi
-shirts: esyasathi
+shirts: esyosathi
+hat: esapeho
+hats: esyosapeho
+belt: omukaba
+belts: emikaba
+sock: estoking
+socks: esyostoking
+dress: ekiteteya
+dresses: ebiteteya
+skirt: esikathi
+skirts: esyosikathi
 
 Hobbies
-music: muziki
+music: omuziki
 book: ekitabo
 books: ebitabo
 radio: eradiyo
 song: olhwimbo
 songs: esyonyimbo
-ball: mupira
+ball/football: omupira
 bike: egali
+singer: mwimbi
+netball: omupira owabakali
+game: amasatha
 
 Basics
+English: Olhusungu
+language: omubughe
+but: bethu
 very much/a lot: kutsibo
+some: obwi
 Lukonjo: Olhukonzo
+of or relating to konjo: kikonjo
 yes/to/from/at: e
-no: ayihi
-and/with: na
+no: ayihi/eeyihi
+and/with/relative who: na
+and (verb): kandi
 because: habwa
-or: kwisi
-I don't understand: si ngatakenga
-I don't hear you: si ngatowa/si ngowire
-sorry: bolobolo
+or: kwisi/kutse
+I don't understand: singatakenga
+I don't hear: singatowa/singowire
+sorry/slowly: bolobolo
 speak slowly: sasa kanaya bolobolo
 I: ingye
 you: iwe
 he/she: oyu
-we: itwe
+we: ithwe
 you (pl): inywe
 they: abo
-nothing: sihali
-good: wene
-bad: nabi
+nothing: sihali/wapi
 in/into: omo
 here: hano
 on/a share of: oko
+this: oyu
+that: oyo
+this thing: eki
+that thing: eko
+again: thasa/sasa
 
 Colors
 red: ered
 blue: eblu
 green: ekibabi
 yellow: ekisande
-orange: omutsungwe
-dark: omurima
+darkness: omwirima
 
 Numbers
-one: guma
+one: nguma
 two: ibiri
 three: isathu
 four: inni
-five: itano
+five: ithano
 six: mukagha
 seven: musanju
 eight: munani
 nine: mwenda
 ten: ikumi
+twenty: makumi abiri
 
 Time
+what time is it?: ni saha singahi?/saha singahi?
+the time is...: ni saha.../saha...
+hour/clock/watch: esaha
+hours/clocks/watches: esyosaha
+minute: dukika
 year: omwaka
 years: emyaka
+day: ekiro
+days: ebiro
+night: ekyiro
+nights: ebyiro
+today: munabire
 tomorrow: omungya
-yesterday: mulwolho
+yesterday: muliwolho
+morning: omongyaka
+afternoon: omuthungyi
+at night: omokyiro
+evening: omuwolho
+Monday: kyabalaza
+Tuesday: kyakabiri
+Wednesday: kyakasathu
+Thursday: kyakani
+Friday: kyakathano
+Saturday: kyamukagha
+Sunday: kyasabithi/kyasande
 
 Feelings
 I am tired/I'm tired: ngaluhire
 I am hungry/I'm hungry: ngakwire enzala
+I am thirsty/I'm thirsty: ngakwire enyotha
 
 Weather
+heat: omwesi
+sun: eryuba
 rain: embulha
-it is raining/it's raining: embulhayikayawa
+it is about to rain/it's about to rain: embulha yikayawa
+it is raining/it's raining: embulha yinemuwa
 
 Verbs
+to cough: erikohola
+to try: erilengesya
+to be sick: erilwalha
+to light: eryakya
+to shine: eryaka
+to be hot: erihisya
+to manage: erithoka
+to articulate: erisobola
+to win/to beat: erisinga
+to beat: eriswirya
+to spoil: eritsandya
+to give birth: eributha
+to lay/to make (a bed): erisesa
+to ripen: eryera
+to bake: eribumba
+to be unfit: erisuha
+to get lost: erithala
+to mean: erimanyisya
+to lose/to sharpen: erithalya
+to hear: eryowa
+to bathe: eryogha
+to wash (body): erinaba
+to draw (water): eritheha
+to end: erihwa
+to find: eribana
+to meet: erisangana
+to finish: eriwunza
+to reach/family: erihika
+to look for: erisondya
+to return: erisubulha
+to suffer: erikwa
+to rain: eriwa
+to help: eriwathikya
+to fall: erithera
+to refuse/to oppose: erighanya
+to be full: erighutha/erisura
+to pray/to request: erisaba
+to play: erisatha
+to kick: erisamba/eripika
+to greet: eriramukya
+to stand: erihangana
+to wake up/to remember: eribuka
+to make/to do: erikola
 to throw: erighusa
-to sing/to give: erimba
+to take: erithwala
+to sing/to give me: erimba
+to give: eriha
 to open: erikyungula
 to close: erikyinga
 to dig: erilima
-to look: erisamalira
-to come (from): erilhwa
-to come (to)/to be back: eryasa
+to be from/to come from: erilhwa
+to be busy: erisurusutha
+to come/to be back: eryasa
 to be: eribya
 to put: erihira
 to buy: eriwulha
@@ -269,35 +457,68 @@ to let out: erihulhukya
 to ask: eribulya
 to forgive: erighanyira
 to carry: eriheka
-to love: erisima
+to thank: erisima
 to know: erimenya
-to speak: eribugha
-to have: erithunga
+to speak: eribugha/erikania
+to have (an animal): erithunga
 to go: erighenda
-to stay/to sit: erikala
+to force: erikaka
+to stay/to sit/to be hard/piece of charcoal: erikala
 to catch: erihamba
 to teach: erisomesya
 to read/to learn/to study: erisoma
-to write: handika
+to write: erihandika
 to run: eritibitha
 to walk: eriryatha
 to bring: erileetha
-to eat: erirya
+to eat: erilya
 to rest: erihumula
 to sleep: erikesya
-to want/to love: eryanza
-I have: ngawithe
-let's go forward: tughende embere
-we are praying: tukasaba
-let's pray: tusabe
-settle: tekana
-tell: tubwire
-go: ghenda
-drink: inywa
-take: thwala
-come: asa
+to want/to like: eryanza
+to settle: eritekana
+to tell: eribwira
+to see/to look at/to watch: erirebya/erisamalira/erilangera/erithungerera
+to have to: eritholera
 
-Family
+Irregular verbs
+I am: ngali/indi/nyiri
+you are: wuli
+you (pl) are: muli
+we are: thuli
+he is/she is: ali
+they are: bali
+I have: ngawithe/nganawithe/ngwithe
+you have: wuwithe
+he has/she has: awithe
+you (pl) have: muwithe
+we have: thuwithe
+they have: bawithe
+I can: ngina
+you can: wangina
+we can: thwangina
+you (pl) can: mwangina
+he can/she can: angina
+they can: bangina
+I know: nganasi
+you know: wunasi
+we know: thunisa
+you (pl) know: munasi
+he knows/she knows: anasi
+they know: banasi
+I stay: ngikere
+you stay: wihere
+we stay: thwikere
+you (pl) stay: mwikere
+he stays/she stays: ikere
+they stay: bikere
+I am sick: ngalwere
+you are sick: wulwere
+we are sick: thulwere
+you (pl) are sick: mulwere
+he is sick: alwere
+they are sick: balwere
+
+Erihika
 father/dad: thatha
 fathers/dads: abathatha
 mother/mom: mama
@@ -305,20 +526,32 @@ mothers/moms: abamama
 child: omwana
 children: abana
 parents: ababuthi
-sister: mwaliwethu
-sisters: balibethu
-brother: mughalawethu
-brothers: baghalabethu
+sister: mwali
+sisters: bali
+brother: mughala
+brothers: baghala
+grandmother: mukaka
+grandfather: sukulu
 first boy: Mumbere
 first boy, if a grandparent is dead: Baluku
 first child after opposite gender: Muhindo
 second boy: Bwambale
 third boy: Masereka
-fifth boy: Kakule
-sixth boy: MBusa
-third girl: Kabugho
+fourth boy: Kule
+fifth boy: Thembo
+sixth boy: Mbusa
+first girl: Musoki
+first girl, if a grandparent is dead: Masika
+second girl: Biira
+third girl: Kabugho/Kaswera
+fourth girl: Mbambu
+fifth girl: Thungu
+sixth girl: Kyakyimwa
+seventh girl: Nzabake
 
 Animals
+cow: ende
+pig: embunu
 dog: embwa
 cat: akagyangwa
 goat: embene
@@ -333,10 +566,12 @@ dove: akalikuku
 doves: othulikuku
 feather: ekyeya
 feathers: ebyeya
+elephant: enzowu
 
 Nature
+palm tree: omuthi owekyingase
 dirt/soil: omuthaka
-star: ngununu
+star: engununu
 raised land where you can't grow crops: obwerere
 raised lands where you can't grow crops: amerere
 uphill slope: obwiruka
@@ -354,39 +589,123 @@ stones: amabwe
 grass: ebithi
 land: eririma
 mud: ebyondo
+rainbow: ekime
+world: ekithaka
 
 Places
+place of worship: ehikalo
+catholic church: ekeleziya
+way/path: enzira
+street: ekikubo
+town: etawuni
 market: akatale
 shop: eduka
-church: kanisa
-hotel: huteri
+church: ekanisa
+hotel: ehuteri
 playground: ekizaniro
+school: esukuru
+schools: amasukuru
+village: ekyalo
+intersection: ekyaso
+there: erya
+they are there: babalya erya/banerya
+he is there/she is there: yolya erya/anerya
+we are there: thunerya
+you are there: wunerya
+I am there: nganerya
+you (pl) are there: munerya
+near: hakuhi
+far: hali
+
+Adjectives
+good: ndeke/wene
+bad: nabi
+beautiful/handsome: buya
+old: kulu/gulu
+small: ke
+young: lere/dere
 
 Questions
-where: hayi
-whom (s): ndi
+why: hawbaki
+where: hayi/hi
+who: nindi
+who (pl): nibahi
+whom: ndi
+what: ki
 whom (pl): bahi
-how (I): nyithi/indi
-how (you): uthi
-how (he/she): athi
-how (we): thuthi
-how (you (pl)): muthi
-how (they): bathi
+how (I)/that (I): nyithi
+how (you)/that (you): wuthi
+how (he)/how (she)/that (he)/that (she): athi
+how (we)/that (we): thuthi
+how (you (pl))/that (you (pl)): muthi
+how (they)/that (they): bathi
+when (relative): omughulhu
+when: mughulhu wahi/di
+which day: ekiro kyakangahi/kyakangahi
+
+Ekitsumbyo
+jug/jar: egyaga
+tap: etapu
+spoon: ekigyiko
+fork: ekigyiko ekyefoko
+plate: esahani/ebakuli
+cup: ekikopo
+soup: emboka/omukubi
+ghee: amaghuta awende
+knife: omuhamba
+panga: ekipanga
+mingling stick: omunko
+charcoal stove: esigiri
+gas: omuka
+parrafin: omuziwo
+piece of firewood: olhukwe
+firewood: esyongwe
+axe: embasa
+matchbox: ekibirithi
+akasongo: match
+amakala: charcoal
+
+Ekyaghanda
+office: ekyaghanda
+piece of paper: olhupapura
+paper: esyombapura
+pen: ekalamu
+pencil: ekikala
+computer: ekyuma ekyakalimagezi
+notebook: ekitabo ekyerihandikamu omwabikuhi
+meeting: endeko
+backpack: eyisaho eyokomuwongo
+class: ekitebe
 
 Miscellaneous
+truth: okwenene
+plastic bag: ekivera
+vowel: enzoboli
+consonant: enguthu
+metal: ekyuma
+air: embeho
+knowledge: amagezi
+shortness: obukuhi
+word: ekinywa
+peace: obuholho
+forward: embere
+fart: ekinyambo
+life: obuyingo
+money: esyosente
+website: ewebusayithi
+reason: esonga
+reasons: esyosonga
+why: maleka
 phone: esimu
 agreed/it's done: bas
 basin: ebafu
-jug: gyaga
 mat: ekiragho/omukeka
 motorcycle: epikyipikyi
 car: matoka
 jerry can: ekipido
-wood: obahu
+wood: embaho
 thread: omuhuha
-bag: isaho
-way/path: enzira
-street: ekikubo
+bag: eyisaho
 it's true/that's true: nikwenene
 oil: amaghuta
 case: olhubanza
@@ -397,24 +716,18 @@ hole: ekyuna
 holes: ebyuna
 thing: ekindu
 things: ebindu
-hard: bikalire
-lock: ekoforo
-key: ekisomoligyo
+lock: ekofiro
+key: ekisumuruzyo
 scissors: amakasi
-picture: sasani
-clock: saha
-glasses: amagabibendi
-weakness: butseke
-weaknesses: matseke
+picture: esasani
+weakness: obutseke
+weaknesses: amatseke
 bait: ekyambo
 baits: ebyambo
 stooge: ekyombolerya
 stooges: ebyombolerya
-ewethu: ours
-enyu: yours (pl)
+ours: ewethu
+yours (pl): enyu
 beauty: obubuya
 jealousy: obuha
 love: olwanzu
-
-test
-good morning: obukyire
