@@ -30,11 +30,10 @@ or: kwisi
 
 Greetings
 how have things been?: biribithi?
-what's new?: wamathasyo wahi?
-how was your morning?: bwabirikya?
+what's new?: wamathasyowa wahi?
 how was your afternoon?: wabirisiba?
 how was your evening?: wabirira?
-how was your night?: wamakya?/bwamakya?
+how was your night?: wamakya?/bwamakya?/bwabirikya?
 good morning: obukyire/wabukire
 good afternoon/good evening: wasibire
 hello/hi: kuthi
@@ -44,7 +43,7 @@ thank you for eating/thanks for eating: wasingya erilya
 how are you?: wuneyo?
 I am fine/I'm fine/I am OK/I'm OK: nganeyo/nganeyo buholho/nganakalire/nganendeke
 have a good weekend: wuthunge ewikende mubuya
-goodnight/good night: wukesaye buholho/wukesayanu buholho
+sleep in peace: wukesaye buholho/wukesayanu buholho
 hey: sawa
 what are you speaking?: wukabughaki?
 how is there?: yinewahi?/yiriwahi?
@@ -64,6 +63,8 @@ where are you from?: wukalhwahi?/wukalhwa hayi?
 
 Ebyalya
 food: ebyalya
+banana juice: eyisande
+pineapple juice: munanasi
 salt: omunyu
 tapioca: obundu
 papaya: epapayi
@@ -82,8 +83,8 @@ sweet potatoes: ebithakuli
 cassava: omuhogo
 cassava (pl): emihogo
 efene: jackfruit
-eribese: potato
-amabese: potatoes
+potato: eribese 
+potatoes: amabese
 anchovies: omukene
 sugarcane: ekiseke
 starchy banana: eritoke
@@ -96,7 +97,7 @@ pancake: omugathi yameru
 pancakes: emigathi wameru
 small sweet banana: eryeru yasukali
 large sweet banana: eryeru bogoya
-plantain: gonja
+plantain: egonja
 eggplant: ebirinkani
 small green eggplant: endakala
 tea: ekyai
@@ -321,26 +322,22 @@ sorry/slowly: bolobolo
 speak slowly: sasa kanaya bolobolo
 I: ingye
 you: iwe
-he/she: oyu
+this (person): oyu
+that (person)/he/she: oyo
 we: ithwe
 you (pl): inywe
-they: abo
+those (people)/they: abo
 nothing: sihali/wapi
 in/into: omo
 here: hano
 on/a share of: oko
-this: oyu
-that: oyo
-this thing: eki
-that thing: eko
+that (person): oyo
+this (thing): eki
+that (thing): ekyo
+these (things): ebi
+those (things): ebyo
 again: thasa/sasa
-
-Colors
-red: ered
-blue: eblu
-green: ekibabi
-yellow: ekisande
-darkness: omwirima
+and you: nawu
 
 Numbers
 one: nguma
@@ -370,10 +367,15 @@ nights: ebyiro
 today: munabire
 tomorrow: omungya
 yesterday: muliwolho
-morning: omongyaka
+morning: engyakya
+in the morning: omongyaka
+afternoon: erithungyi
 afternoon: omuthungyi
+night/day (24 hours): ekyiro
 at night: omokyiro
-evening: omuwolho
+evening: eriwolho
+in the evening: omuwolho
+after tomorrow/before yesterday: mwalindi
 Monday: kyabalaza
 Tuesday: kyakabiri
 Wednesday: kyakasathu
@@ -395,6 +397,9 @@ it is about to rain/it's about to rain: embulha yikayawa
 it is raining/it's raining: embulha yinemuwa
 
 Verbs
+to pick up: erihwenda
+to vomit: erisala
+to sew: erisona
 to cough: erikohola
 to try: erilengesya
 to be sick: erilwalha
@@ -403,8 +408,7 @@ to shine: eryaka
 to be hot: erihisya
 to manage: erithoka
 to articulate: erisobola
-to win/to beat: erisinga
-to beat: eriswirya
+to win/to beat: erisinga/eriswirya
 to spoil: eritsandya
 to give birth: eributha
 to lay/to make (a bed): erisesa
@@ -419,6 +423,7 @@ to bathe: eryogha
 to wash (body): erinaba
 to draw (water): eritheha
 to end: erihwa
+to run out: erihwako
 to find: eribana
 to meet: erisangana
 to finish: eriwunza
@@ -486,7 +491,6 @@ you are: wuli
 you (pl) are: muli
 we are: thuli
 he is/she is: ali
-they are: bali
 I have: ngawithe/nganawithe/ngwithe
 you have: wuwithe
 he has/she has: awithe
@@ -501,12 +505,12 @@ he can/she can: angina
 they can: bangina
 I know: nganasi
 you know: wunasi
-we know: thunisa
+we know: thunasi
 you (pl) know: munasi
 he knows/she knows: anasi
 they know: banasi
 I stay: ngikere
-you stay: wihere
+you stay: wikere
 we stay: thwikere
 you (pl) stay: mwikere
 he stays/she stays: ikere
@@ -527,9 +531,10 @@ child: omwana
 children: abana
 parents: ababuthi
 sister: mwali
-sisters: bali
+sisters/they are: bali
 brother: mughala
 brothers: baghala
+uncle: enyokolome
 grandmother: mukaka
 grandfather: sukulu
 first boy: Mumbere
@@ -550,6 +555,8 @@ sixth girl: Kyakyimwa
 seventh girl: Nzabake
 
 Animals
+gorilla: ekibandu
+child animal: ekyana
 cow: ende
 pig: embunu
 dog: embwa
@@ -558,6 +565,7 @@ goat: embene
 goats: esyombene
 insect: akahuka
 insects: obuhuka
+sheep: embuli/esyombuli
 hen: enkoko
 hens: esyonkoko
 rooster: engokolome
@@ -569,7 +577,7 @@ feathers: ebyeya
 elephant: enzowu
 
 Nature
-palm tree: omuthi owekyingase
+palm tree: omuthi owekyingasi
 dirt/soil: omuthaka
 star: engununu
 raised land where you can't grow crops: obwerere
@@ -626,7 +634,7 @@ small: ke
 young: lere/dere
 
 Questions
-why: hawbaki
+why: habwaki
 where: hayi/hi
 who: nindi
 who (pl): nibahi
@@ -640,6 +648,7 @@ how (we)/that (we): thuthi
 how (you (pl))/that (you (pl)): muthi
 how (they)/that (they): bathi
 when (relative): omughulhu
+why (relative): maleka
 when: mughulhu wahi/di
 which day: ekiro kyakangahi/kyakangahi
 
@@ -677,7 +686,21 @@ meeting: endeko
 backpack: eyisaho eyokomuwongo
 class: ekitebe
 
+Colors
+black: akakyinire
+red: engulha
+yellow/weaver bird: ekisande
+green: ekyithi kyibese
+white: enzero
+brown: omusukwe
+
 Miscellaneous
+news: amakoro/omwatsi
+look!: ohoyi!
+electricity: amasenyerezi
+name: erina
+names: amena
+darkness: omwirima
 truth: okwenene
 plastic bag: ekivera
 vowel: enzoboli
@@ -695,9 +718,8 @@ money: esyosente
 website: ewebusayithi
 reason: esonga
 reasons: esyosonga
-why: maleka
 phone: esimu
-agreed/it's done: bas
+agreed/it's done: basi
 basin: ebafu
 mat: ekiragho/omukeka
 motorcycle: epikyipikyi
@@ -726,8 +748,6 @@ bait: ekyambo
 baits: ebyambo
 stooge: ekyombolerya
 stooges: ebyombolerya
-ours: ewethu
-yours (pl): enyu
 beauty: obubuya
 jealousy: obuha
 love: olwanzu

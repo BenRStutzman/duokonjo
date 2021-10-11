@@ -91,7 +91,7 @@ button {
   outline: none;
 }
 
-button:hover {
+button:hover, button:focus {
   color: white;
   background-color: green;
 }
