@@ -57,8 +57,8 @@ we are fine (inside)/we're fine (inside): thunemo
 goodbye: bukyayi
 
 Introductions
-my name is...: erinaryaghe ningye...
-what is your name?: erinaryawo ni wendi?
+my name is...: erina ryaghe ningye...
+what is your name?: erina ryawo ni wendi?
 where are you from?: wukalhwahi?/wukalhwa hayi?
 
 Ebyalya
@@ -78,6 +78,7 @@ small oranges: emikyungwe
 lemon: endimu
 lemons: esyondimu
 pumpkin: eryoli
+pumpkins: amoli
 sweet potato: ekithakuli
 sweet potatoes: ebithakuli
 cassava: omuhogo
@@ -96,7 +97,7 @@ ripe bananas: ameru
 pancake: omugathi yameru
 pancakes: emigathi wameru
 small sweet banana: eryeru yasukali
-large sweet banana: eryeru bogoya
+large sweet banana: ebogoya
 plantain: egonja
 eggplant: ebirinkani
 small green eggplant: endakala
@@ -106,7 +107,7 @@ eggs: amaya
 bread: omugathi
 milk: amathe
 porridge: obusara
-avocado: vakedo
+avocado: evakedo
 tomato: olhunyanya/ekinyanya
 tomatoes: esyonyanya/ebinyanya
 meat: enyama
@@ -132,7 +133,7 @@ maize: ebikusa
 ear of maize: ekikusa
 yam: ekinyangwa
 onion: ekithunguru
-garlic: akatunguru sumu
+garlic: akathunguru sumu
 
 Enyumba
 house: enyumba
@@ -178,8 +179,8 @@ man: omulume
 men: abalume
 woman: omukali
 women: abakali
-white person: omuzungu
-angel: malaika
+white person: omusungu
+angel: emalaika
 police: epolisi
 kid: akana
 kids: obwana
@@ -229,8 +230,7 @@ knee: okurwe
 knees: amarwe
 shin: omuhimbe
 shins: emihimbe
-ankle: akakungulhu
-ankles: ehikungulhu
+ankle/joint of sugarcane: akakungulhu
 toe: erinwe
 toes: amanwe
 finger: omunwe
@@ -269,7 +269,6 @@ clothes: esyongyimba
 glasses: amagaruventi
 mask: ekideghu
 masks: ebideghu
-heeled shoe: akakondo
 shoe: engetha
 shoes: esyongetha
 trousers: embali
@@ -326,6 +325,7 @@ this (person): oyu
 that (person)/he/she: oyo
 we: ithwe
 you (pl): inywe
+these (people): aba
 those (people)/they: abo
 nothing: sihali/wapi
 in/into: omo
@@ -339,7 +339,8 @@ those (things): ebyo
 again: thasa/sasa
 and you: nawu
 
-Numbers
+Esyonamba
+number: enamba
 one: nguma
 two: ibiri
 three: isathu
@@ -351,6 +352,50 @@ eight: munani
 nine: mwenda
 ten: ikumi
 twenty: makumi abiri
+thirty: makumi asathu
+forty: makumi anni
+fifty: makumi athano
+sixty: nkagha
+seventy: sanju
+eighty: kyinani
+ninety: kyenda
+one hundred: kikumi
+two hundred: bikumi bibiri
+three hundred: bikumi bisathu
+four hundred: bikumi binni
+five hundred: bikumi bithano
+six hundred: rukagha
+seven hundred: rusanju
+eight hundred: runani
+nine hundred: rwenda
+one thousand: rukumi
+two thousand: nkumi ibiri
+three thousand: nkumi isathu
+four thousand: nkumi inni
+five thousand: nkumi ithano
+six thousand: kakagha
+seven thousand: kasanju
+eight thousand: kanani
+nine thousand: kenda
+ten thousand: omuthwalu
+twenty thousand: emithwalu ibiri
+thirty thousand: emithwalu isathu
+forty thousand: emithwalu inni
+fifty thousand: emithwalu ithano
+sixty thousand: emithwalu mukagha
+seventy thousand: emithwalu musanju
+eighty thousand: emithwalu munani
+ninety thousand: emithwalu mwenda
+one hundred thousand: emithwalu ikumi
+two hundred thousand: emithwalu abiri
+three hundred thousand: emithwalu asathu
+four hundred thousand: emithwalu anni
+five hundred thousand: emithwalu athano
+six hundred thousand: emithwalu nkagha
+seven thundred thousand: emithwalu sanju
+eight hundred thousand: emithwalu kyanani
+nine hundred thousand: emithwalu kyenda
+one million: emithwalu kikumi
 
 Time
 what time is it?: ni saha singahi?/saha singahi?
@@ -360,18 +405,14 @@ hours/clocks/watches: esyosaha
 minute: dukika
 year: omwaka
 years: emyaka
-day: ekiro
-days: ebiro
-night: ekyiro
-nights: ebyiro
 today: munabire
 tomorrow: omungya
 yesterday: muliwolho
 morning: engyakya
-in the morning: omongyaka
+in the morning: omongyakya
 afternoon: erithungyi
-afternoon: omuthungyi
-night/day (24 hours): ekyiro
+in the afternoon: omuthungyi
+night/24-hour period: ekiro
 at night: omokyiro
 evening: eriwolho
 in the evening: omuwolho
@@ -397,14 +438,23 @@ it is about to rain/it's about to rain: embulha yikayawa
 it is raining/it's raining: embulha yinemuwa
 
 Verbs
+to laugh: eriseka
+to dry: eryuma
+to build: erihimba
+to remain: erisighalha
+to be wet: eritsapa
+to wash: eryoya
+to show: erikangya
+to withdraw: erihako
 to pick up: erihwenda
 to vomit: erisala
 to sew: erisona
 to cough: erikohola
 to try: erilengesya
 to be sick: erilwalha
-to light: eryakya
+to light/to turn on: eryakya
 to shine: eryaka
+to turn off: eririmya
 to be hot: erihisya
 to manage: erithoka
 to articulate: erisobola
@@ -434,13 +484,13 @@ to suffer: erikwa
 to rain: eriwa
 to help: eriwathikya
 to fall: erithera
-to refuse/to oppose: erighanya
+to refuse/to oppose: erighanya/erighana
 to be full: erighutha/erisura
 to pray/to request: erisaba
 to play: erisatha
 to kick: erisamba/eripika
 to greet: eriramukya
-to stand: erihangana
+to stand: erihangana/erimana
 to wake up/to remember: eribuka
 to make/to do: erikola
 to throw: erighusa
@@ -449,19 +499,19 @@ to sing/to give me: erimba
 to give: eriha
 to open: erikyungula
 to close: erikyinga
-to dig: erilima
+to dig/land: eririma
 to be from/to come from: erilhwa
 to be busy: erisurusutha
 to come/to be back: eryasa
 to be: eribya
 to put: erihira
 to buy: eriwulha
+to sell: eriwulhya
 to drive: erivuga
 to untie: erikundulha
 to let out: erihulhukya
 to ask: eribulya
 to forgive: erighanyira
-to carry: eriheka
 to thank: erisima
 to know: erimenya
 to speak: eribugha/erikania
@@ -534,9 +584,14 @@ sister: mwali
 sisters/they are: bali
 brother: mughala
 brothers: baghala
-uncle: enyokolome
+maternal aunt younger than mother: mama mulere/mamulere
+maternal aunt older than mother: mama mukulu/mamukulu
+paternal aunt: sungali
+maternal uncle: nyokolome
+paternal uncle younger than father: thatha mulere/somulere
+paternal uncle older than father: thatha mukulu/somukulu
 grandmother: mukaka
-grandfather: sukulu
+grandfather: sokulu
 first boy: Mumbere
 first boy, if a grandparent is dead: Baluku
 first child after opposite gender: Muhindo
@@ -555,14 +610,17 @@ sixth girl: Kyakyimwa
 seventh girl: Nzabake
 
 Animals
+rabbit: esongura
+guinea pig: epanya
 gorilla: ekibandu
-child animal: ekyana
+child (animal): ekyana
 cow: ende
 pig: embunu
 dog: embwa
 cat: akagyangwa
 goat: embene
 goats: esyombene
+large insect: ekihuka
 insect: akahuka
 insects: obuhuka
 sheep: embuli/esyombuli
@@ -572,11 +630,16 @@ rooster: engokolome
 roosters: esyongokolome
 dove: akalikuku
 doves: othulikuku
+dovelike brown bird in bush: ekilikuku
 feather: ekyeya
 feathers: ebyeya
 elephant: enzowu
 
 Nature
+ditch: omufleghe
+mountain: ekithwa
+pit: ekighuma
+seed: akaghuma
 palm tree: omuthi owekyingasi
 dirt/soil: omuthaka
 star: engununu
@@ -592,10 +655,10 @@ reed: olhuseke
 reeds: esiseke
 tree: omuthi
 trees: emithi
+kind of tree in mountains: omuthi owekisungu
 stone: eribwe
 stones: amabwe
 grass: ebithi
-land: eririma
 mud: ebyondo
 rainbow: ekime
 world: ekithaka
@@ -607,6 +670,7 @@ way/path: enzira
 street: ekikubo
 town: etawuni
 market: akatale
+large market: ekitale
 shop: eduka
 church: ekanisa
 hotel: ehuteri
@@ -615,7 +679,7 @@ school: esukuru
 schools: amasukuru
 village: ekyalo
 intersection: ekyaso
-there: erya
+there: erya/eyo
 they are there: babalya erya/banerya
 he is there/she is there: yolya erya/anerya
 we are there: thunerya
@@ -626,12 +690,15 @@ near: hakuhi
 far: hali
 
 Adjectives
+dried: mire
+fresh: bisi
 good: ndeke/wene
 bad: nabi
 beautiful/handsome: buya
 old: kulu/gulu
 small: ke
 young: lere/dere
+short: kuhi
 
 Questions
 why: habwaki
@@ -671,7 +738,7 @@ piece of firewood: olhukwe
 firewood: esyongwe
 axe: embasa
 matchbox: ekibirithi
-akasongo: match
+match/small white person: akasungu
 amakala: charcoal
 
 Ekyaghanda
@@ -685,9 +752,10 @@ notebook: ekitabo ekyerihandikamu omwabikuhi
 meeting: endeko
 backpack: eyisaho eyokomuwongo
 class: ekitebe
+file: efayiro
 
 Colors
-black: akakyinire
+black: ekyinire
 red: engulha
 yellow/weaver bird: ekisande
 green: ekyithi kyibese
@@ -695,6 +763,10 @@ white: enzero
 brown: omusukwe
 
 Miscellaneous
+bump: ekikungulhu
+pole: ekikondo
+laughter: amaseka
+question: ekibulyo
 news: amakoro/omwatsi
 look!: ohoyi!
 electricity: amasenyerezi
@@ -723,7 +795,7 @@ agreed/it's done: basi
 basin: ebafu
 mat: ekiragho/omukeka
 motorcycle: epikyipikyi
-car: matoka
+car: emotoka
 jerry can: ekipido
 wood: embaho
 thread: omuhuha
