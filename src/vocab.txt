@@ -60,6 +60,7 @@ Introductions
 my name is...: erina ryaghe ningye...
 what is your name?: erina ryawo ni wendi?
 where are you from?: wukalhwahi?/wukalhwa hayi?
+nice to meet you: ngatsemire ingakusangana
 
 Ebyalya
 food: ebyalya
@@ -120,6 +121,7 @@ greens: dodo/nakati
 pineapple: enanasi
 juice: juis
 turkey: esikoko
+turkeys: ebisikoko/esyosikoko
 sugar: esukali
 beer: obwabu
 beers: amabu
@@ -192,6 +194,7 @@ old man: muze
 old woman: mukade
 
 Omubiri
+saliva: amathande/ebithande
 nose: enyindo
 noses: esyonyindo
 ear: okuthwe
@@ -329,6 +332,7 @@ these (people): aba
 those (people)/they: abo
 nothing: sihali/wapi
 in/into: omo
+about: okwa
 here: hano
 on/a share of: oko
 that (person): oyo
@@ -393,7 +397,7 @@ four hundred thousand: emithwalu anni
 five hundred thousand: emithwalu athano
 six hundred thousand: emithwalu nkagha
 seven thundred thousand: emithwalu sanju
-eight hundred thousand: emithwalu kyanani
+eight hundred thousand: emithwalu kyinani
 nine hundred thousand: emithwalu kyenda
 one million: emithwalu kikumi
 
@@ -402,7 +406,7 @@ what time is it?: ni saha singahi?/saha singahi?
 the time is...: ni saha.../saha...
 hour/clock/watch: esaha
 hours/clocks/watches: esyosaha
-minute: dukika
+minute: edakika
 year: omwaka
 years: emyaka
 today: munabire
@@ -438,6 +442,12 @@ it is about to rain/it's about to rain: embulha yikayawa
 it is raining/it's raining: embulha yinemuwa
 
 Verbs
+to be happy: eristema
+to break: eribuna
+to bifurcate/to spit: erithwa
+to understand: erikenga
+erisubano: to answer/to repeat after
+to cut: erisara
 to laugh: eriseka
 to dry: eryuma
 to build: erihimba
@@ -520,7 +530,7 @@ to go: erighenda
 to force: erikaka
 to stay/to sit/to be hard/piece of charcoal: erikala
 to catch: erihamba
-to teach: erisomesya
+to teach: erisomesya/erithendeka
 to read/to learn/to study: erisoma
 to write: erihandika
 to run: eritibitha
@@ -571,6 +581,7 @@ we are sick: thulwere
 you (pl) are sick: mulwere
 he is sick: alwere
 they are sick: balwere
+he can go/she can go: iniaghenda
 
 Erihika
 father/dad: thatha
@@ -661,9 +672,10 @@ stones: amabwe
 grass: ebithi
 mud: ebyondo
 rainbow: ekime
-world: ekithaka
 
 Places
+world: ekithaka/ekihuwo
+country: erihanga
 place of worship: ehikalo
 catholic church: ekeleziya
 way/path: enzira
@@ -690,6 +702,7 @@ near: hakuhi
 far: hali
 
 Adjectives
+happy: tsema
 dried: mire
 fresh: bisi
 good: ndeke/wene
@@ -741,7 +754,9 @@ matchbox: ekibirithi
 match/small white person: akasungu
 amakala: charcoal
 
-Ekyaghanda
+Esukuru
+teacher: omuhalimu/omuthendeki
+student: omuthendekwa/omwana owesukuru
 office: ekyaghanda
 piece of paper: olhupapura
 paper: esyombapura
@@ -763,6 +778,10 @@ white: enzero
 brown: omusukwe
 
 Miscellaneous
+gift: ekisembo/ekihembo
+difference: empaghane
+middle/between: ahakathikathi
+razor: egiritha
 bump: ekikungulhu
 pole: ekikondo
 laughter: amaseka
@@ -795,7 +814,7 @@ agreed/it's done: basi
 basin: ebafu
 mat: ekiragho/omukeka
 motorcycle: epikyipikyi
-car: emotoka
+car: ematoka
 jerry can: ekipido
 wood: embaho
 thread: omuhuha
