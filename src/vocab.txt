@@ -30,7 +30,7 @@ or: kwisi
 
 Greetings
 how have things been?: biribithi?
-what's new?: wamathasyowa wahi?
+what's new?: wamathasyowa wahi?/wundi wahi?
 how was your afternoon?: wabirisiba?
 how was your evening?: wabirira?
 how was your night?: wamakya?/bwamakya?/bwabirikya?
@@ -55,6 +55,7 @@ welcome/we are fine/we're fine: thuneyo
 we are fine (specific)/we're fine (specific): thuneko
 we are fine (inside)/we're fine (inside): thunemo
 goodbye: bukyayi
+have a good day: wusibe buholho
 
 Introductions
 my name is...: erina ryaghe ningye...
@@ -64,8 +65,9 @@ nice to meet you: ngatsemire ingakusangana
 
 Ebyalya
 food: ebyalya
+sweet bread: erindazi
 banana juice: eyisande
-pineapple juice: munanasi
+pineapple juice: omunanasi
 salt: omunyu
 tapioca: obundu
 papaya: epapayi
@@ -84,6 +86,7 @@ sweet potato: ekithakuli
 sweet potatoes: ebithakuli
 cassava: omuhogo
 cassava (pl): emihogo
+cassava leaf: esombe
 efene: jackfruit
 potato: eribese 
 potatoes: amabese
@@ -102,7 +105,7 @@ large sweet banana: ebogoya
 plantain: egonja
 eggplant: ebirinkani
 small green eggplant: endakala
-tea: ekyai
+tea: ekyayi
 egg: eriya
 eggs: amaya
 bread: omugathi
@@ -189,7 +192,7 @@ kids: obwana
 baby: olhumekeke
 babies: esyomekeke
 friend: munywani
-elder person: omukulu
+old person: omukulu
 old man: muze
 old woman: mukade
 
@@ -262,7 +265,7 @@ bellies: amabunda
 neck/necks: ebikya
 back: omuwongo
 backs: emiwongo
-waist: embindi
+waist/half: embindi
 waists: esyombindi
 thigh: ekihinga
 thighs: ebihinga
@@ -303,15 +306,17 @@ bike: egali
 singer: mwimbi
 netball: omupira owabakali
 game: amasatha
+card: eritatu
 
 Basics
 English: Olhusungu
 language: omubughe
 but: bethu
 very much/a lot: kutsibo
+very very much: kutsibutsibo
 some: obwi
 Lukonjo: Olhukonzo
-of or relating to konjo: kikonjo
+of or relating to Konjo: kikonzo
 yes/to/from/at: e
 no: ayihi/eeyihi
 and/with/relative who: na
@@ -324,8 +329,8 @@ sorry/slowly: bolobolo
 speak slowly: sasa kanaya bolobolo
 I: ingye
 you: iwe
-this (person): oyu
-that (person)/he/she: oyo
+this (person): oyu/iyu
+that (person)/he/she: oyo/iyo
 we: ithwe
 you (pl): inywe
 these (people): aba
@@ -396,7 +401,7 @@ three hundred thousand: emithwalu asathu
 four hundred thousand: emithwalu anni
 five hundred thousand: emithwalu athano
 six hundred thousand: emithwalu nkagha
-seven thundred thousand: emithwalu sanju
+seven hundred thousand: emithwalu sanju
 eight hundred thousand: emithwalu kyinani
 nine hundred thousand: emithwalu kyenda
 one million: emithwalu kikumi
@@ -416,7 +421,7 @@ morning: engyakya
 in the morning: omongyakya
 afternoon: erithungyi
 in the afternoon: omuthungyi
-night/24-hour period: ekiro
+night/day (24 hours): ekiro
 at night: omokyiro
 evening: eriwolho
 in the evening: omuwolho
@@ -428,6 +433,8 @@ Thursday: kyakani
 Friday: kyakathano
 Saturday: kyamukagha
 Sunday: kyasabithi/kyasande
+early: luba
+late: kerererwa
 
 Feelings
 I am tired/I'm tired: ngaluhire
@@ -442,11 +449,20 @@ it is about to rain/it's about to rain: embulha yikayawa
 it is raining/it's raining: embulha yinemuwa
 
 Verbs
-to be happy: eristema
+to visit: eribunga
+to repent: erisiba
+to extend: erisegherya
+to bend over: eryunama
+to be late: erikerererwa
+to bend: erikata
+to roll: erilinga
+to hang: erihanika
+to count: eribala
+to be happy: eritsema
 to break: eribuna
 to bifurcate/to spit: erithwa
 to understand: erikenga
-erisubano: to answer/to repeat after
+to answer/to repeat after: erisubano
 to cut: erisara
 to laugh: eriseka
 to dry: eryuma
@@ -493,7 +509,8 @@ to return: erisubulha
 to suffer: erikwa
 to rain: eriwa
 to help: eriwathikya
-to fall: erithera
+to fall over: erithera
+to fall: erithogha
 to refuse/to oppose: erighanya/erighana
 to be full: erighutha/erisura
 to pray/to request: erisaba
@@ -510,7 +527,7 @@ to give: eriha
 to open: erikyungula
 to close: erikyinga
 to dig/land: eririma
-to be from/to come from: erilhwa
+to be from/to come from/to fight/to leak: erilhwa
 to be busy: erisurusutha
 to come/to be back: eryasa
 to be: eribya
@@ -535,7 +552,7 @@ to read/to learn/to study: erisoma
 to write: erihandika
 to run: eritibitha
 to walk: eriryatha
-to bring: erileetha
+to bring: eriletha
 to eat: erilya
 to rest: erihumula
 to sleep: erikesya
@@ -544,6 +561,7 @@ to settle: eritekana
 to tell: eribwira
 to see/to look at/to watch: erirebya/erisamalira/erilangera/erithungerera
 to have to: eritholera
+to take back/to restore/to talk about a story someone else is talking about: erisubya
 
 Irregular verbs
 I am: ngali/indi/nyiri
@@ -712,6 +730,7 @@ old: kulu/gulu
 small: ke
 young: lere/dere
 short: kuhi
+only: sa
 
 Questions
 why: habwaki
