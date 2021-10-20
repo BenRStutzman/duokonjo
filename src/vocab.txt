@@ -61,7 +61,7 @@ Introductions
 my name is...: erina ryaghe ningye...
 what is your name?: erina ryawo ni wendi?
 where are you from?: wukalhwahi?/wukalhwa hayi?
-nice to meet you: ngatsemire ingakusangana
+nice to meet you: ngatsemire ingakusangana/ngatsemire erikusangana
 
 Ebyalya
 food: ebyalya
@@ -120,9 +120,9 @@ water: amaghetse
 fish: erihere
 fish (pl): amahere
 cabbage: ekabegye
-greens: dodo/nakati
+greens: edodo/enakati
 pineapple: enanasi
-juice: juis
+juice: ejuis
 turkey: esikoko
 turkeys: ebisikoko/esyosikoko
 sugar: esukali
@@ -164,7 +164,7 @@ kitchen: ekitsumbyo
 kitchens: ebitsumbyo
 bathroom: ekyowero
 bathrooms: ebyowero
-dining room: ekisenge ekyeririramo
+dining room: ekisenge ekyeriryamo
 living room: ekisenge ekyerihumuliramo
 bedroom: ekisenge ekyerikesyano
 fence: olhughuthu
@@ -307,8 +307,10 @@ singer: mwimbi
 netball: omupira owabakali
 game: amasatha
 card: eritatu
+drumbeat: ekighasa
 
 Basics
+is there.../are there...: eyo yine...
 English: Olhusungu
 language: omubughe
 but: bethu
@@ -326,7 +328,7 @@ or: kwisi/kutse
 I don't understand: singatakenga
 I don't hear: singatowa/singowire
 sorry/slowly: bolobolo
-speak slowly: sasa kanaya bolobolo
+repeat that slowly: sasa kanaya bolobolo
 I: ingye
 you: iwe
 this (person): oyu/iyu
@@ -449,6 +451,12 @@ it is about to rain/it's about to rain: embulha yikayawa
 it is raining/it's raining: embulha yinemuwa
 
 Verbs
+to slaughter: erikera
+to forget: eribirirwa
+to be dead: erikwa
+to taste/to taste good: erisiha
+to leave: erisigha
+to whistle: erisuwunda
 to visit: eribunga
 to repent: erisiba
 to extend: erisegherya
@@ -638,7 +646,8 @@ fifth girl: Thungu
 sixth girl: Kyakyimwa
 seventh girl: Nzabake
 
-Animals
+Ebisoro
+animal: ekisoro
 rabbit: esongura
 guinea pig: epanya
 gorilla: ekibandu
@@ -665,6 +674,7 @@ feathers: ebyeya
 elephant: enzowu
 
 Nature
+the wild: omoli/omwali
 ditch: omufleghe
 mountain: ekithwa
 pit: ekighuma
@@ -692,6 +702,7 @@ mud: ebyondo
 rainbow: ekime
 
 Places
+sub-county: egomporo
 world: ekithaka/ekihuwo
 country: erihanga
 place of worship: ehikalo
@@ -718,6 +729,7 @@ I am there: nganerya
 you (pl) are there: munerya
 near: hakuhi
 far: hali
+beside: ahali
 
 Adjectives
 happy: tsema
@@ -752,6 +764,8 @@ when: mughulhu wahi/di
 which day: ekiro kyakangahi/kyakangahi
 
 Ekitsumbyo
+gourd container: endekwa
+gourd container for alcohol: ekisya
 jug/jar: egyaga
 tap: etapu
 spoon: ekigyiko
@@ -797,6 +811,8 @@ white: enzero
 brown: omusukwe
 
 Miscellaneous
+corpse: omulambo
+energy/strength: amani
 gift: ekisembo/ekihembo
 difference: empaghane
 middle/between: ahakathikathi
