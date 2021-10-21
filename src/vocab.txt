@@ -31,10 +31,10 @@ or: kwisi
 Greetings
 how have things been?: biribithi?
 what's new?: wamathasyowa wahi?/wundi wahi?
-how was your afternoon?: wabirisiba?
-how was your evening?: wabirira?
-how was your night?: wamakya?/bwamakya?/bwabirikya?
-good morning: obukyire/wabukire
+it's afternoon: bwabirisiba/bwamasiba/bwamabirisiba
+it's night: bwamabirira/bwabirira/bwamira
+it's morning: bwamakya/bwabirikya/bwamabirikya
+good morning: obukyire/wabukire/bwakere
 good afternoon/good evening: wasibire
 hello/hi: kuthi
 thank you/thanks: wasingya
@@ -408,7 +408,8 @@ eight hundred thousand: emithwalu kyinani
 nine hundred thousand: emithwalu kyenda
 one million: emithwalu kikumi
 
-Time
+Obuthuku
+time: obuthuku
 what time is it?: ni saha singahi?/saha singahi?
 the time is...: ni saha.../saha...
 hour/clock/watch: esaha
@@ -451,14 +452,17 @@ it is about to rain/it's about to rain: embulha yikayawa
 it is raining/it's raining: embulha yinemuwa
 
 Verbs
+to be left/to pierce: erisaka
+to tie: eriboha
+to get dark: erira
+to get light: erikya
 to slaughter: erikera
 to forget: eribirirwa
-to be dead: erikwa
 to taste/to taste good: erisiha
 to leave: erisigha
 to whistle: erisuwunda
 to visit: eribunga
-to repent: erisiba
+to fast/to afternoon: erisiba
 to extend: erisegherya
 to bend over: eryunama
 to be late: erikerererwa
@@ -475,6 +479,7 @@ to cut: erisara
 to laugh: eriseka
 to dry: eryuma
 to build: erihimba
+to go to work: erihinga
 to remain: erisighalha
 to be wet: eritsapa
 to wash: eryoya
@@ -514,7 +519,7 @@ to finish: eriwunza
 to reach/family: erihika
 to look for: erisondya
 to return: erisubulha
-to suffer: erikwa
+to suffer/to die: erikwa
 to rain: eriwa
 to help: eriwathikya
 to fall over: erithera
@@ -589,7 +594,7 @@ we can: thwangina
 you (pl) can: mwangina
 he can/she can: angina
 they can: bangina
-I know: nganasi
+I know: ngasi
 you know: wunasi
 we know: thunasi
 you (pl) know: munasi
@@ -702,6 +707,9 @@ mud: ebyondo
 rainbow: ekime
 
 Places
+ekabuno: lower/downhill
+eyiwulho: upper/uphill
+olhuhandi: side/part
 sub-county: egomporo
 world: ekithaka/ekihuwo
 country: erihanga
@@ -811,6 +819,7 @@ white: enzero
 brown: omusukwe
 
 Miscellaneous
+elastic/old tire/large ball: ekipira
 corpse: omulambo
 energy/strength: amani
 gift: ekisembo/ekihembo
@@ -852,7 +861,9 @@ motorcycle: epikyipikyi
 car: ematoka
 jerry can: ekipido
 wood: embaho
-thread: omuhuha
+thread/clothes line: omuhuha
+sisal thread: ekihuha
+article tied around waist/stole: omulemba
 bag: eyisaho
 it's true/that's true: nikwenene
 oil: amaghuta
