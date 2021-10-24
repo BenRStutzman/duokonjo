@@ -25,18 +25,20 @@ Lukonjo: Lhukonzo
 English: Lhusungu
 correct: Wene!/Ndeke!/Nikwenene!
 incorrect: Ayihi./Nabi./Bolobolo.
-try: Try
+try: Lengesya
 or: kwisi
 
 Greetings
 how have things been?: biribithi?
-what's new?: wamathasyowa wahi?/wundi wahi?
-it's afternoon: bwabirisiba/bwamasiba/bwamabirisiba
-it's night: bwamabirira/bwabirira/bwamira
-it's morning: bwamakya/bwabirikya/bwamabirikya
 good morning: obukyire/wabukire/bwakere
 good afternoon/good evening: wasibire
+what's new?: wamathasyowa wahi?/wundi wahi?
+it's morning/it is morning: bwamakya/bwabirikya/bwamabirikya
+it's afternoon/it is afternoon: bwabirisiba/bwamasiba/bwamabirisiba
+it's night/it is night: bwamabirira/bwabirira/bwamira
+how is your evening?: bwamakwirako?
 hello/hi: kuthi
+hi, person whose name I don't know: kuthi nani
 thank you/thanks: wasingya
 thank you for cooking/thanks for cooking: wasingya eritsumba
 thank you for eating/thanks for eating: wasingya erilya
@@ -164,7 +166,7 @@ kitchen: ekitsumbyo
 kitchens: ebitsumbyo
 bathroom: ekyowero
 bathrooms: ebyowero
-dining room: ekisenge ekyeriryamo
+dining room: ekisenge ekyeririramo
 living room: ekisenge ekyerihumuliramo
 bedroom: ekisenge ekyerikesyano
 fence: olhughuthu
@@ -224,8 +226,8 @@ eyebrow: olhukigha
 eyebrows: esyongigha
 face: obusu
 faces: amasu
-hair (s): olhuywire
-hair: esyonzwire
+hair: olhuywire
+hair (pl): esyonzwire
 arm: okubwoko
 arms: amabwoko
 lower leg: okuwulhu
@@ -310,6 +312,7 @@ card: eritatu
 drumbeat: ekighasa
 
 Basics
+and then: neribwa
 is there.../are there...: eyo yine...
 English: Olhusungu
 language: omubughe
@@ -325,8 +328,8 @@ and/with/relative who: na
 and (verb): kandi
 because: habwa
 or: kwisi/kutse
-I don't understand: singatakenga
-I don't hear: singatowa/singowire
+I don't understand: singathakenga
+I don't hear: singathowa/singowire
 sorry/slowly: bolobolo
 repeat that slowly: sasa kanaya bolobolo
 I: ingye
@@ -437,7 +440,6 @@ Friday: kyakathano
 Saturday: kyamukagha
 Sunday: kyasabithi/kyasande
 early: luba
-late: kerererwa
 
 Feelings
 I am tired/I'm tired: ngaluhire
@@ -452,6 +454,10 @@ it is about to rain/it's about to rain: embulha yikayawa
 it is raining/it's raining: embulha yinemuwa
 
 Verbs
+to drink: erinywa
+to be late: erikerererwa
+to move around: erikoha/eribungabunga
+to start/to begin: erithandika
 to be left/to pierce: erisaka
 to tie: eriboha
 to get dark: erira
@@ -530,7 +536,7 @@ to pray/to request: erisaba
 to play: erisatha
 to kick: erisamba/eripika
 to greet: eriramukya
-to stand: erihangana/erimana
+to stand/to stay: erihangana/erimana
 to wake up/to remember: eribuka
 to make/to do: erikola
 to throw: erighusa
@@ -558,13 +564,14 @@ to speak: eribugha/erikania
 to have (an animal): erithunga
 to go: erighenda
 to force: erikaka
-to stay/to sit/to be hard/piece of charcoal: erikala
+to live/to sit/to be hard/charcoal: erikala
 to catch: erihamba
 to teach: erisomesya/erithendeka
 to read/to learn/to study: erisoma
 to write: erihandika
 to run: eritibitha
 to walk: eriryatha
+to hit/to cane: erihumba
 to bring: eriletha
 to eat: erilya
 to rest: erihumula
@@ -600,12 +607,12 @@ we know: thunasi
 you (pl) know: munasi
 he knows/she knows: anasi
 they know: banasi
-I stay: ngikere
-you stay: wikere
-we stay: thwikere
-you (pl) stay: mwikere
-he stays/she stays: ikere
-they stay: bikere
+I live: ngikere
+you live: wikere
+we live: thwikere
+you (pl) live: mwikere
+he stays/she lives: ikere
+they live: bikere
 I am sick: ngalwere
 you are sick: wulwere
 we are sick: thulwere
@@ -669,8 +676,8 @@ insects: obuhuka
 sheep: embuli/esyombuli
 hen: enkoko
 hens: esyonkoko
-rooster: engokolome
-roosters: esyongokolome
+cock: engokolome
+cocks: esyongokolome
 dove: akalikuku
 doves: othulikuku
 dovelike brown bird in bush: ekilikuku
@@ -679,6 +686,7 @@ feathers: ebyeya
 elephant: enzowu
 
 Nature
+wind: erihunga/omuyagha
 the wild: omoli/omwali
 ditch: omufleghe
 mountain: ekithwa
@@ -741,7 +749,7 @@ beside: ahali
 
 Adjectives
 happy: tsema
-dried: mire
+dried/dry: mire
 fresh: bisi
 good: ndeke/wene
 bad: nabi
@@ -788,19 +796,19 @@ mingling stick: omunko
 charcoal stove: esigiri
 gas: omuka
 parrafin: omuziwo
-piece of firewood: olhukwe
-firewood: esyongwe
+firewood: olhukwe
+firewood (pl): esyongwe
 axe: embasa
 matchbox: ekibirithi
 match/small white person: akasungu
-amakala: charcoal
+charcoal (pl): amakala
 
 Esukuru
 teacher: omuhalimu/omuthendeki
 student: omuthendekwa/omwana owesukuru
 office: ekyaghanda
-piece of paper: olhupapura
-paper: esyombapura
+paper: olhupapura
+paper (pl): esyombapura
 pen: ekalamu
 pencil: ekikala
 computer: ekyuma ekyakalimagezi
