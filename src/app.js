@@ -166,7 +166,6 @@ class App extends React.Component {
       Object.values(this.state.languageInfo.categories).forEach(category => {
         problems = [...problems, ...category];
       });
-      console.log('problems', problems);
     } else {
       problems = this.state.languageInfo.categories[category];
     }
@@ -320,7 +319,7 @@ class App extends React.Component {
             <FontAwesomeIcon
               id="mute-button"
               onClick={this.toggleMute}
-              icon={this.state.muted ? faVolumeUp : faVolumeMute}
+              icon={this.state.muted ? faVolumeMute : faVolumeUp }
             />
             <FontAwesomeIcon id="restart-button" onClick={this.restart} icon={faSyncAlt} />
           </>
