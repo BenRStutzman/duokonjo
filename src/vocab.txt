@@ -313,7 +313,7 @@ drumbeat: ekighasa
 
 Basics
 and then: neribwa
-is there.../are there...: eyo yine...
+is there.../are there.../there is.../there are...: eyo yine...
 English: Olhusungu
 language: omubughe
 but: bethu

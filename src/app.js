@@ -146,6 +146,7 @@ class App extends React.Component {
     this.setState((state) => Object.assign({}, defaultState, {
       phase: 'chooseLanguage',
       languages: this.state.languages,
+      muted: this.state.muted,
     }));
   }
 
