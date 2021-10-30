@@ -72,6 +72,7 @@ h1, h2, h3, h4, h5 {
   position: absolute;
   bottom: 0;
   left: 3px;
+  cursor: default;
 }
 
 #options {
@@ -97,13 +98,6 @@ button:hover, button:focus {
 }
 
 #mute-button {
-  position: absolute;
-  bottom: 3px;
-  right: 50px;
-  font-size: 30px;
-}
-
-#restart-button {
   position: absolute;
   bottom: 3px;
   right: 3px;

@@ -187,14 +187,14 @@ men: abalume
 woman: omukali
 women: abakali
 white person: omusungu
-angel: emalayika
+angel: emalaika
 police: epolisi
 kid: akana
 kids: obwana
 baby: olhumekeke
 babies: esyomekeke
 friend: munywani
-old person: omukulu
+old person: mukulu
 old man: muze
 old woman: mukade
 
@@ -519,7 +519,6 @@ to lay/to make (a bed): erisesa
 to ripen: eryera
 to bake: eribumba
 to be unfit: erisuha
-to get lost: erithala
 to mean: erimanyisya
 to lose/to sharpen: erithalya
 to hear: eryowa
@@ -566,7 +565,7 @@ to drive: erivuga
 to untie: erikundulha
 to let out: erihulhukya
 to ask: eribulya
-to get lost/to be away for a long time: eribula
+to get lost/to be away for a long time: eribula/erithala
 to forgive: erighanyira
 to go home from work: erilumbuka
 to knock: eritomera
@@ -733,7 +732,7 @@ lower/downhill: ekabuno
 upper/uphill: eyiwulho
 side/part: olhuhandi
 sub-county: egomporo
-world: ekithaka/ekihuwo
+world/earth: ekithaka/ekihuwo
 country: erihanga
 place of worship: ehikalo
 catholic church: ekeleziya

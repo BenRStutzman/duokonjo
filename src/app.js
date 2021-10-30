@@ -3,7 +3,7 @@ import verbsFile from './vocab.txt';
 import correctSoundFile from './sounds/correct.wav';
 import incorrectSoundFile from './sounds/incorrect.wav';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
-import { faVolumeMute, faVolumeUp, faSyncAlt } from '@fortawesome/free-solid-svg-icons'
+import { faVolumeMute, faVolumeUp } from '@fortawesome/free-solid-svg-icons'
 
 const correctSound = new Audio(correctSoundFile);
 const incorrectSound = new Audio(incorrectSoundFile);
@@ -314,17 +314,12 @@ class App extends React.Component {
     return(
       <div id="container">
         {content}
-        <h1 id="duokonjo">Duokonjo</h1>
-        {this.state.phase === 'play' &&
-          <>
-            <FontAwesomeIcon
-              id="mute-button"
-              onClick={this.toggleMute}
-              icon={this.state.muted ? faVolumeMute : faVolumeUp }
-            />
-            <FontAwesomeIcon id="restart-button" onClick={this.restart} icon={faSyncAlt} />
-          </>
-        }
+        <h1 id="duokonjo" onClick={this.restart}>Duokonjo</h1>
+        <FontAwesomeIcon
+          id="mute-button"
+          onClick={this.toggleMute}
+          icon={this.state.muted ? faVolumeMute : faVolumeUp }
+        />
       </div>
     );
   }
