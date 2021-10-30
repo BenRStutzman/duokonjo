@@ -2,6 +2,8 @@ import React from 'react';
 import verbsFile from './vocab.txt';
 import correctSoundFile from './sounds/correct.wav';
 import incorrectSoundFile from './sounds/incorrect.wav';
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+import { faVolumeMute, faVolumeUp, faSyncAlt } from '@fortawesome/free-solid-svg-icons'
 
 const correctSound = new Audio(correctSoundFile);
 const incorrectSound = new Audio(incorrectSoundFile);
@@ -30,7 +32,8 @@ const defaultState = {
   },
   correctMessageTimeoutId: null,
   numberOfProblems: 0,
-  numberCorrect: 0
+  numberCorrect: 0,
+  muted: false,
 };
 
 class App extends React.Component {
@@ -46,6 +49,7 @@ class App extends React.Component {
     this.begin = this.begin.bind(this);
     this.chooseLanguage = this.chooseLanguage.bind(this);
     this.restart = this.restart.bind(this);
+    this.toggleMute = this.toggleMute.bind(this);
   }
 
   async componentDidMount() {
@@ -196,7 +200,9 @@ class App extends React.Component {
 
     let newestState;
     if (isCorrect) {
-      correctSound.play();
+      if (!this.state.muted) {
+        correctSound.play();
+      }
       const [currentProblem, ...problemQueue] = this.state.problemQueue;
       const queuedQuestion = this.state.mistakesOnCurrentProblem ?
         this.state.currentProblem : this.getRandomProblem();
@@ -211,7 +217,9 @@ class App extends React.Component {
       }
       document.querySelector('input').value = '';
     } else {
-      incorrectSound.play();
+      if (!this.state.muted) {
+        incorrectSound.play();
+      }
       const correctMessage = this.state.mistakesOnCurrentProblem >= 2 ? {
         isCorrect: false,
         message: `${this.state.languageInfo.tryMessage} ${this.state.currentProblem.answers.map(answer => `"${answer}"`)
@@ -242,6 +250,13 @@ class App extends React.Component {
     if (event.charCode === 13) {
       this.checkAnswer();
     }
+  }
+
+  toggleMute() {
+    this.setState((state) => ({
+      ...state,
+      muted: !state.muted,
+    }));
   }
 
   render() {
@@ -300,8 +315,16 @@ class App extends React.Component {
       <div id="container">
         {content}
         <h1 id="duokonjo">Duokonjo</h1>
-        {this.state.phase === 'play' ?
-          <button id="restart-button" onClick={this.restart}>Restart</button> : ''}
+        {this.state.phase === 'play' &&
+          <>
+            <FontAwesomeIcon
+              id="mute-button"
+              onClick={this.toggleMute}
+              icon={this.state.muted ? faVolumeUp : faVolumeMute}
+            />
+            <FontAwesomeIcon id="restart-button" onClick={this.restart} icon={faSyncAlt} />
+          </>
+        }
       </div>
     );
   }

@@ -334,8 +334,8 @@ sorry/slowly: bolobolo
 repeat that slowly: sasa kanaya bolobolo
 I: ingye
 you: iwe
-this (person): oyu/iyu
-that (person)/he/she: oyo/iyo
+(this)he/(this) she: oyu/iyu
+(that) he/(that) she: oyo/iyo
 we: ithwe
 you (pl): inywe
 these (people): aba

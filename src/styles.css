@@ -96,10 +96,18 @@ button:hover, button:focus {
   background-color: green;
 }
 
+#mute-button {
+  position: absolute;
+  bottom: 3px;
+  right: 50px;
+  font-size: 30px;
+}
+
 #restart-button {
   position: absolute;
   bottom: 3px;
   right: 3px;
+  font-size: 30px;
 }
 
 #input {
