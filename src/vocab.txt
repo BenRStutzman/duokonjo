@@ -249,7 +249,7 @@ foot: ekisando
 feet: ebisando
 hand: ekyala
 hands: ebyala
-heart: muthima
+heart: omuthima
 mouth: obuno
 mouths: amuno
 intestine: olhulha
@@ -787,7 +787,7 @@ what: ki
 whom (pl): bahi
 how (I)/that (I): nyithi
 how (you)/that (you): wuthi
-how (he)/how (she)/that (he)/that (she): athi
+how (he)/how (she)/that (he)/that (she)/quote: athi
 how (we)/that (we): thuthi
 how (you (pl))/that (you (pl)): muthi
 how (they)/that (they): bathi
@@ -844,7 +844,6 @@ white: enzero
 brown: omusukwe
 
 Miscellaneous
-quote: athi
 quickly/hurry up: lubaluba/anguha
 come on: bathami
 elastic/old tire/large ball: ekipira
