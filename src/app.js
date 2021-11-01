@@ -19,6 +19,7 @@ const InputBox = (props) => (
 const defaultState = {
   languages: null,
   language: null,
+  languageInfo: null,
   categories: null,
   phase: 'loading',
   problemQueue: [],
@@ -230,7 +231,7 @@ class App extends React.Component {
         correctMessage: correctMessage
       }
     }
-    this.setState((state) => Object.assign({}, newState, newestState));
+    this.setState(() => Object.assign({}, newState, newestState));
   }
 
   clearCorrectMessage() {
@@ -302,9 +303,9 @@ class App extends React.Component {
             <InputBox value={this.props.input}
               handleChange={(event) => this.updateInput(event)}
               handleKeyPress={(event) => this.handleKeyPress(event)}/>
-            <h2 className="correct-message" id={correctMessageId}>
+            <h2 className="bottom-message" id={correctMessageId}>
               {this.state.correctMessage.message}</h2>
-            <h2>{score}</h2>
+            <h2 className="bottom-message">{score}</h2>
           </div>
         );
         break;

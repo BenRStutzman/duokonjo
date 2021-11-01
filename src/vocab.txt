@@ -23,7 +23,7 @@ Lukonjo
 write this in: Handika eki omo
 Lukonjo: Lhukonzo
 English: Lhusungu
-correct: Wene!/Ndeke!/Nikwenene!
+correct: Wasingya!/Ndeke!/Nikwenene!
 incorrect: Ayihi./Nabi./Bolobolo.
 try: Lengesya
 or: kwisi
@@ -777,7 +777,7 @@ short: kuhi
 only: sa
 long: ri
 
-Questions
+Ebibulyo
 why: habwaki
 where: hayi/hi
 who: nindi
