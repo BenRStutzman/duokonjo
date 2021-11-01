@@ -68,11 +68,21 @@ h1, h2, h3, h4, h5 {
   }
 }
 
-#duokonjo {
+.bottom-button {
   position: absolute;
-  bottom: 0;
-  left: 3px;
+  bottom: 3px;
+  font-size: 30px;
   cursor: default;
+  background-color: transparent;
+  border: none;
+}
+
+#home-button {
+  left: 3px;
+}
+
+#mute-button {
+  right: 3px;
 }
 
 #options {
@@ -95,13 +105,6 @@ button {
 button:hover, button:focus {
   color: white;
   background-color: green;
-}
-
-#mute-button {
-  position: absolute;
-  bottom: 3px;
-  right: 3px;
-  font-size: 30px;
 }
 
 #input {

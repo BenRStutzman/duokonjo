@@ -314,12 +314,10 @@ class App extends React.Component {
     return(
       <div id="container">
         {content}
-        <h1 id="duokonjo" onClick={this.restart}>Duokonjo</h1>
-        <FontAwesomeIcon
-          id="mute-button"
-          onClick={this.toggleMute}
-          icon={this.state.muted ? faVolumeMute : faVolumeUp }
-        />
+        <button className="bottom-button" id="home-button" onClick={this.restart}>Duokonjo</button>
+        <button className="bottom-button" id="mute-button" onClick={this.toggleMute}>
+          <FontAwesomeIcon icon={this.state.muted ? faVolumeMute : faVolumeUp } />
+        </button>
       </div>
     );
   }
