@@ -56,16 +56,17 @@ yes?: wankyi?
 welcome/we are fine/we're fine: thuneyo
 we are fine (specific)/we're fine (specific): thuneko
 we are fine (inside)/we're fine (inside): thunemo
-goodbye: bukyayi
+goodbye/bye: bukyayi
 have a good day: wusibe buholho
 
 Introductions
-my name is...: erina ryaghe ningye...
-what is your name?: erina ryawo ni wendi?
+my name is...: erina lyaghe ningye...
+what is your name?: erina lyawu ni wendi?
 where are you from?: wukalhwahi?/wukalhwa hayi?
 nice to meet you: ngatsemire ingakusangana/ngatsemire erikusangana
 
 Ebyalya
+sauce: omukubi
 food: ebyalya
 sweet bread: erindazi
 banana juice: eyisande
@@ -94,17 +95,20 @@ potato: eribese
 potatoes: amabese
 anchovies: omukene
 sugarcane: ekiseke
+imported banana: enadiz
 starchy banana: eritoke
 starchy bananas: amatoke
 gnut: ekinyobwa
 gnuts: ebinyobwa
 ripe banana: eryeru
 ripe bananas: ameru
-pancake: omugathi yameru
-pancakes: emigathi wameru
-small sweet banana: eryeru yasukali
-large sweet banana: ebogoya
-plantain: egonja
+pancake: omugathi owameru
+pancakes: emigathi eyameru
+small sweet banana: embaragara
+large sweet banana: embogoya
+plantain: egongya
+banana for juicing: ekisubi
+boiled banan: emangyaya
 eggplant: ebirinkani
 small green eggplant: endakala
 tea: ekyayi
@@ -121,7 +125,7 @@ rice: omuchere
 water: amaghetse
 fish: erihere
 fish (pl): amahere
-cabbage: ekabegye
+cabbage: ekabegyi
 greens: edodo/enakati
 pineapple: enanasi
 juice: ejuis
@@ -457,6 +461,8 @@ it is about to rain/it's about to rain: embulha yikayawa
 it is raining/it's raining: embulha yinemuwa
 
 Verbs
+to harvest: erisoloma
+to hurry: eryanguha
 to chew: eritakunya
 to swallow: erimera
 to chase: eribinga
@@ -526,7 +532,8 @@ to bathe: eryogha
 to wash (body): erinaba
 to draw (water): eritheha
 to end: erihwa
-to run out: erihwako
+to run out (on): erihwako
+to run out (in): erihwamo
 to find: eribana
 to meet: erisangana
 to finish: eriwunza
@@ -579,7 +586,7 @@ to force: erikaka
 to live/to sit/to be hard/charcoal: erikala
 to catch: erihamba
 to teach: erisomesya/erithendeka
-to read/to learn/to study: erisoma
+to read/to learn/to study: erisoma/eriyigha
 to write: erihandika
 to run: eritibitha
 to walk: eriryatha
@@ -776,6 +783,7 @@ young: lere/dere
 short: kuhi
 only: sa
 long: ri
+ripe: rire
 
 Ebibulyo
 why: habwaki
@@ -797,13 +805,17 @@ when: mughulhu wahi/di
 which day: ekiro kyakangahi/kyakangahi
 
 Ekitsumbyo
+bottle: etsupa
+tray: etureya
+bowl: ebakuli eyomukubi/esahani eyomukubi
+plate: ebakuli eyebyalya/esahani eyebyalya
 gourd container: endekwa
 gourd container for alcohol: ekisya
 jug/jar: egyaga
 tap: etapu
 spoon: ekigyiko
 fork: ekigyiko ekyefoko
-plate: esahani/ebakuli
+dish: esahani/ebakuli
 cup: ekikopo
 soup: emboka/omukubi
 ghee: amaghuta awende
