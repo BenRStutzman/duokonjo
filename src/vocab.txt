@@ -29,6 +29,7 @@ try: Lengesya
 or: kwisi
 
 Greetings
+how is it?: kyithikyi?
 how have things been?: biribithi?
 good morning: obukyire/wabukire/bwakere
 good afternoon/good evening: wasibire
@@ -172,7 +173,7 @@ bathroom: ekyowero
 bathrooms: ebyowero
 dining room: ekisenge ekyeririramo
 living room: ekisenge ekyerihumuliramo
-bedroom: ekisenge ekyerikesyano
+bedroom: ekisenge ekyerikesyano/ekathi
 fence: olhughuthu
 fences: esyonghuthu
 
@@ -316,6 +317,7 @@ card: eritatu
 drumbeat: ekighasa
 
 Basics
+so/because: kusangwa
 and then: neribwa
 is there.../are there.../there is.../there are...: eyo yine...
 English: Olhusungu
@@ -332,8 +334,8 @@ and/with/relative who: na
 and (verb): kandi
 because: habwa
 or: kwisi/kutse
-I don't understand: singathakenga
-I don't hear: singathowa/singowire
+I didn't understand: singathakenga
+I didn't hear: singathowa/singowire
 sorry/slowly: bolobolo
 repeat that slowly: sasa kanaya bolobolo
 I: ingye
@@ -349,7 +351,6 @@ in/into: omo
 about: okwa
 here: hano
 on/a share of: oko
-that (person): oyo
 this (thing): eki
 that (thing): ekyo
 these (things): ebi
@@ -461,6 +462,8 @@ it is about to rain/it's about to rain: embulha yikayawa
 it is raining/it's raining: embulha yinemuwa
 
 Verbs
+to rub/to mash/to knead: erikama
+to be there: eribyayo
 to harvest: erisoloma
 to hurry: eryanguha
 to chew: eritakunya
@@ -495,7 +498,9 @@ to be happy: eritsema
 to break: eribuna
 to bifurcate/to spit: erithwa
 to understand: erikenga
-to answer/to repeat after: erisubano
+to answer/to repeat after/to reply: erisubano
+to be next/to reach abruptly: eritsubuka
+to follow: erikwama
 to cut: erisara
 to laugh: eriseka
 to dry: eryuma
@@ -734,6 +739,8 @@ mud: ebyondo
 rainbow: ekime
 
 Places
+outside: eyisya
+inside: omwakathi
 heaven: olhubula
 lower/downhill: ekabuno
 upper/uphill: eyiwulho
@@ -791,8 +798,8 @@ where: hayi/hi
 who: nindi
 who (pl): nibahi
 whom: ndi
-what: ki
 whom (pl): bahi
+what: ki
 how (I)/that (I): nyithi
 how (you)/that (you): wuthi
 how (he)/how (she)/that (he)/that (she)/quote: athi
@@ -800,7 +807,7 @@ how (we)/that (we): thuthi
 how (you (pl))/that (you (pl)): muthi
 how (they)/that (they): bathi
 when (relative): omughulhu
-why (relative): maleka
+why (relative): maleka/habwa
 when: mughulhu wahi/di
 which day: ekiro kyakangahi/kyakangahi
 
@@ -832,6 +839,9 @@ matchbox: ekibirithi
 match/small white person: akasungu
 charcoal (pl): amakala
 
+Ekyowero
+soap: esabuni
+
 Esukuru
 teacher: omuhalimu/omuthendeki
 student: omuthendekwa/omwana owesukuru
@@ -856,6 +866,7 @@ white: enzero
 brown: omusukwe
 
 Miscellaneous
+that's good: hakyire
 quickly/hurry up: lubaluba/anguha
 come on: bathami
 elastic/old tire/large ball: ekipira
