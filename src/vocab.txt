@@ -67,6 +67,7 @@ where are you from?: wukalhwahi?/wukalhwa hayi?
 nice to meet you: ngatsemire ingakusangana/ngatsemire erikusangana
 
 Ebyalya
+chapati and beans: ekikomando
 sauce: omukubi
 food: ebyalya
 sweet bread: erindazi
@@ -192,7 +193,7 @@ men: abalume
 woman: omukali
 women: abakali
 white person: omusungu
-angel: emalaika
+angel: emalayika
 police: epolisi
 kid: akana
 kids: obwana
@@ -317,6 +318,7 @@ card: eritatu
 drumbeat: ekighasa
 
 Basics
+don't: wuleke
 so/because: kusangwa
 and then: neribwa
 is there.../are there.../there is.../there are...: eyo yine...
@@ -458,10 +460,15 @@ Weather
 heat: omwesi
 sun: eryuba
 rain: embulha
+cloud: ekithu
 it is about to rain/it's about to rain: embulha yikayawa
 it is raining/it's raining: embulha yinemuwa
 
 Verbs
+to fear: erisagha
+to be good: eriwana
+to be strong: eriwuma
+to go over: erilenga
 to rub/to mash/to knead: erikama
 to be there: eribyayo
 to harvest: erisoloma
@@ -680,7 +687,7 @@ third girl: Kabugho/Kaswera
 fourth girl: Mbambu
 fifth girl: Thungu
 sixth girl: Kyakyimwa
-seventh girl: Nzabake
+seventh girl/seventh boy: Nzabake
 
 Ebisoro
 animal: ekisoro
@@ -721,7 +728,7 @@ dirt/soil: omuthaka
 star: engununu
 raised land where you can't grow crops: obwerere
 raised lands where you can't grow crops: amerere
-uphill slope: obwiruka
+uphill slope/north: obwiruka
 uphill slopes: amiruka
 hill: akathwa
 hills: ehithwa
@@ -739,9 +746,11 @@ mud: ebyondo
 rainbow: ekime
 
 Places
+east: ebulhwa lyuba
+west: ebulengera lyuba
 outside: eyisya
 inside: omwakathi
-heaven: olhubula
+heaven/sky: olhubula
 lower/downhill: ekabuno
 upper/uphill: eyiwulho
 side/part: olhuhandi
@@ -766,12 +775,12 @@ intersection: ekyaso
 there (close): halya
 there (far): erya
 there (where you are): eyo
-they are there: babalya erya/banerya
-he is there/she is there: yolya erya/anerya
-we are there: thunerya
-you are there: wunerya
-I am there: nganerya
-you (pl) are there: munerya
+they are there (far): babalya erya/banerya
+he is there/she is there (far): yolya erya/anerya
+we are there (far): thunerya
+you are there (far): wunerya
+I am there (far): nganerya
+you (pl) are there (far): munerya
 near/close: hakuhi
 far: hali
 beside: ahali
@@ -866,7 +875,7 @@ white: enzero
 brown: omusukwe
 
 Miscellaneous
-that's good: hakyire
+that's good: hakyire/kyowene
 quickly/hurry up: lubaluba/anguha
 come on: bathami
 elastic/old tire/large ball: ekipira
