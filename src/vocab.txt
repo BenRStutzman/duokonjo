@@ -110,7 +110,7 @@ small sweet banana: embaragara
 large sweet banana: embogoya
 plantain: egongya
 banana for juicing: ekisubi
-boiled banan: emangyaya
+boiled banana: emangyaya
 eggplant: ebirinkani
 small green eggplant: endakala
 tea: ekyayi
@@ -129,6 +129,7 @@ fish: erihere
 fish (pl): amahere
 cabbage: ekabegyi
 greens: edodo/enakati
+spinach: sokumuwiki
 pineapple: enanasi
 juice: ejuis
 turkey: esikoko
@@ -582,7 +583,7 @@ to buy: eriwulha
 to sell: eriwulhya
 to drive: erivuga
 to untie: erikundulha
-to let out: erihulhukya
+to air out: erihulhukya
 to ask: eribulya
 to get lost/to be away for a long time: eribula/erithala
 to forgive: erighanyira
@@ -704,7 +705,8 @@ goats: esyombene
 large insect: ekihuka
 insect: akahuka
 insects: obuhuka
-sheep: embuli/esyombuli
+sheep: embuli
+sheep (pl): esyombuli
 hen: enkoko
 hens: esyonkoko
 cock: engokolome
