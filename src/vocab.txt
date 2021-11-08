@@ -95,7 +95,7 @@ cassava leaf: esombe
 efene: jackfruit
 potato: eribese 
 potatoes: amabese
-anchovies: omukene
+silverfish: omukene
 sugarcane: ekiseke
 imported banana: enadiz
 starchy banana: eritoke
@@ -319,8 +319,8 @@ card: eritatu
 drumbeat: ekighasa
 
 Basics
-don't: wuleke
 so/because: kusangwa
+because of: habwa
 and then: neribwa
 is there.../are there.../there is.../there are...: eyo yine...
 English: Olhusungu
@@ -466,10 +466,17 @@ it is about to rain/it's about to rain: embulha yikayawa
 it is raining/it's raining: embulha yinemuwa
 
 Verbs
+to return: erisubulya
+to turn: eribinduka
+to be late morning: erikererera
+to be taught: erisomesibwa/erithendekwa
+to stop/to not: erileka
+to shave: erighemba
+to be shaved: erighebwa
 to fear: erisagha
 to be good: eriwana
 to be strong: eriwuma
-to go over: erilenga
+to go over/to set: erilenga
 to rub/to mash/to knead: erikama
 to be there: eribyayo
 to harvest: erisoloma
@@ -483,7 +490,7 @@ to welcome: erithangerira
 to drink: erinywa
 to be late: erikerererwa
 to move around: erikoha/eribungabunga
-to start/to begin: erithandika
+to start/to begin: erithandika/eritsuka
 to be left/to pierce: erisaka
 to tie: eriboha
 to get dark: erira
@@ -506,10 +513,10 @@ to be happy: eritsema
 to break: eribuna
 to bifurcate/to spit: erithwa
 to understand: erikenga
-to answer/to repeat after/to reply: erisubano
+to answer/to repeat after/to reply: erisubamo
 to be next/to reach abruptly: eritsubuka
 to follow: erikwama
-to cut: erisara
+to cut: erisara/erithema
 to laugh: eriseka
 to dry: eryuma
 to build: erihimba
@@ -726,12 +733,10 @@ mountain: ekithwa
 pit: ekighuma
 seed: akaghuma
 palm tree: omuthi owekyingasi
-dirt/soil: omuthaka
+dirt/soil/earth: omuthaka
 star: engununu
 raised land where you can't grow crops: obwerere
 raised lands where you can't grow crops: amerere
-uphill slope/north: obwiruka
-uphill slopes: amiruka
 hill: akathwa
 hills: ehithwa
 river: olhusi
@@ -748,8 +753,14 @@ mud: ebyondo
 rainbow: ekime
 
 Places
-east: ebulhwa lyuba
-west: ebulengera lyuba
+right: okulya
+left: okulembe
+behind/bedbug: enyuma
+uphill slope/north: obwiruka
+uphill slopes: amiruka
+downhill slope/south: obwandaghala
+east: ebulhwa ryuba
+west: ebulengera ryuba
 outside: eyisya
 inside: omwakathi
 heaven/sky: olhubula
@@ -778,7 +789,7 @@ there (close): halya
 there (far): erya
 there (where you are): eyo
 they are there (far): babalya erya/banerya
-he is there/she is there (far): yolya erya/anerya
+he is there (far)/she is there (far): yolya erya/anerya
 we are there (far): thunerya
 you are there (far): wunerya
 I am there (far): nganerya
@@ -788,6 +799,7 @@ far: hali
 beside: ahali
 
 Adjectives
+new: hyaka
 first: kubanza
 happy: tsema
 dried/dry: mire
@@ -818,7 +830,6 @@ how (we)/that (we): thuthi
 how (you (pl))/that (you (pl)): muthi
 how (they)/that (they): bathi
 when (relative): omughulhu
-why (relative): maleka/habwa
 when: mughulhu wahi/di
 which day: ekiro kyakangahi/kyakangahi
 
@@ -877,6 +888,8 @@ white: enzero
 brown: omusukwe
 
 Miscellaneous
+that's why: kyalekire
+letter: ebaruha
 that's good: hakyire/kyowene
 quickly/hurry up: lubaluba/anguha
 come on: bathami
