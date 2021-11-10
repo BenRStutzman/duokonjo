@@ -150,6 +150,7 @@ onion: ekithunguru
 garlic: akathunguru sumu
 
 Enyumba
+ekidongo: wall
 house: enyumba
 houses: esyonyumba
 lamp: etara
@@ -161,8 +162,9 @@ chair: ekithumbi
 chairs: ebithumbi
 window: eridirisa
 windows: amadirisa
-door: olhukyo
-doors: esyonukyo
+door: olhuyi
+doorway: olhukyo
+doorways: esyonukyo
 room: ekisenge
 rooms: ebisenge
 floor: olhubughabugha
@@ -204,6 +206,8 @@ friend: munywani
 old person: mukulu
 old man: muze
 old woman: mukade
+doctor: omunganga
+creator: omuhangiki
 
 Omubiri
 saliva: amathande/ebithande
@@ -279,7 +283,13 @@ waists: esyombindi
 thigh: ekihinga
 thighs: ebihinga
 
+Ekanisa
+God: nyamuhanga
+
+
 Esyongyimba
+article tied around waist/stole: omulemba
+bag: eyisaho
 clothes: esyongyimba
 glasses: amagaruventi
 mask: ekideghu
@@ -351,9 +361,7 @@ they (here): aba
 they (there): abo
 nothing: sihali/wapi
 in/into: omo
-about: okwa
-here: hano
-on/a share of: oko
+on/a share of/by/about: oko/okwa
 this (thing): eki
 that (thing): ekyo
 these (things): ebi
@@ -466,15 +474,21 @@ it is about to rain/it's about to rain: embulha yikayawa
 it is raining/it's raining: embulha yinemuwa
 
 Verbs
+to create/country: erihanga
+to look behind/to mark: erikebera
+to send: eritsindika
+to open with hands: erihatha
+to be about to: erikisiya
+to wear/to put on: eryambala
 to return: erisubulya
 to turn: eribinduka
 to be late morning: erikererera
 to be taught: erisomesibwa/erithendekwa
 to stop/to not: erileka
 to shave: erighemba
-to be shaved: erighebwa
+to be shaved: erighembwa
 to fear: erisagha
-to be good: eriwana
+to be good/to be smart: eriwana
 to be strong: eriwuma
 to go over/to set: erilenga
 to rub/to mash/to knead: erikama
@@ -623,7 +637,7 @@ to have to: eritholera
 to take back/to restore/to talk about a story someone else is talking about: erisubya
 
 Irregular verbs
-I am: ngali/indi/nyiri
+I am: ngali/nyiri
 you are: wuli
 you (pl) are: muli
 we are: thuli
@@ -634,7 +648,8 @@ he has/she has: awithe
 you (pl) have: muwithe
 we have: thuwithe
 they have: bawithe
-I can: ngina
+I can't: sinanga
+I can: nangina
 you can: wangina
 we can: thwangina
 you (pl) can: mwangina
@@ -753,6 +768,8 @@ mud: ebyondo
 rainbow: ekime
 
 Places
+here: hano
+this side: eno
 right: okulya
 left: okulembe
 behind/bedbug: enyuma
@@ -769,7 +786,6 @@ upper/uphill: eyiwulho
 side/part: olhuhandi
 sub-county: egomporo
 world/earth: ekithaka/ekihuwo
-country: erihanga
 place of worship: ehikalo
 catholic church: ekeleziya
 way/path: enzira
@@ -785,7 +801,7 @@ school: esukuru
 schools: amasukuru
 village: ekyalo
 intersection: ekyaso
-there (close): halya
+there (close): halya/aho
 there (far): erya
 there (where you are): eyo
 they are there (far): babalya erya/banerya
@@ -799,6 +815,7 @@ far: hali
 beside: ahali
 
 Adjectives
+other: indi
 new: hyaka
 first: kubanza
 happy: tsema
@@ -834,6 +851,8 @@ when: mughulhu wahi/di
 which day: ekiro kyakangahi/kyakangahi
 
 Ekitsumbyo
+basin: ebafu
+small basin: etasi
 bottle: etsupa
 tray: etureya
 bowl: ebakuli eyomukubi/esahani eyomukubi
@@ -888,6 +907,12 @@ white: enzero
 brown: omusukwe
 
 Miscellaneous
+by myself: ingyuwene
+by yourself: iwuwene
+by himself/by herself: iyowene
+by ourselves: ithubene
+by yourselves: inyubene
+by themselves: ibabene
 that's why: kyalekire
 letter: ebaruha
 that's good: hakyire/kyowene
@@ -929,7 +954,6 @@ reason: esonga
 reasons: esyosonga
 phone: esimu
 agreed/it's done: basi
-basin: ebafu
 mat: ekiragho/omukeka
 motorcycle: epikyipikyi
 car: ematoka
@@ -937,8 +961,6 @@ jerry can: ekipido
 wood: embaho
 thread/clothes line: omuhuha
 sisal thread: ekihuha
-article tied around waist/stole: omulemba
-bag: eyisaho
 it's true/that's true: nikwenene
 oil: amaghuta
 case: olhubanza
