@@ -67,6 +67,9 @@ where are you from?: wukalhwahi?/wukalhwa hayi?
 nice to meet you: ngatsemire ingakusangana/ngatsemire erikusangana
 
 Ebyalya
+breakfast: ekyengyakya
+lunch: ekyemisana
+dinner: ekyakiro
 chapati and beans: ekikomando
 sauce: omukubi
 food: ebyalya
@@ -286,10 +289,9 @@ thighs: ebihinga
 Ekanisa
 God: nyamuhanga
 
-
 Esyongyimba
 article tied around waist/stole: omulemba
-bag: eyisaho
+bag/pocket: eyisaho
 clothes: esyongyimba
 glasses: amagaruventi
 mask: ekideghu
@@ -331,7 +333,8 @@ drumbeat: ekighasa
 Basics
 so/because: kusangwa
 because of: habwa
-and then: neribwa
+and then/and now: eryo/ibwa/ibwa/neribwa
+now: hathia
 is there.../are there.../there is.../there are...: eyo yine...
 English: Olhusungu
 language: omubughe
@@ -474,6 +477,8 @@ it is about to rain/it's about to rain: embulha yikayawa
 it is raining/it's raining: embulha yinemuwa
 
 Verbs
+to get annoyed: eripona
+to think: erilengekania
 to create/country: erihanga
 to look behind/to mark: erikebera
 to send: eritsindika
@@ -608,7 +613,7 @@ to air out: erihulhukya
 to ask: eribulya
 to get lost/to be away for a long time: eribula/erithala
 to forgive: erighanyira
-to go home from work: erilumbuka
+to go home from work: erilumbuka/erikuluka
 to knock: eritomera
 to eat greedily: erithomera
 to thank: erisima
@@ -815,6 +820,7 @@ far: hali
 beside: ahali
 
 Adjectives
+correct: hikire
 other: indi
 new: hyaka
 first: kubanza
@@ -822,7 +828,7 @@ happy: tsema
 dried/dry: mire
 fresh: bisi
 good: ndeke/wene
-bad: nabi
+bad: bi
 beautiful/handsome: buya
 old: kulu/gulu
 small: ke
@@ -831,6 +837,7 @@ short: kuhi
 only: sa
 long: ri
 ripe: rire
+all: si
 
 Ebibulyo
 why: habwaki
@@ -878,7 +885,7 @@ firewood (pl): esyongwe
 axe: embasa
 matchbox: ekibirithi
 match/small white person: akasungu
-charcoal (pl): amakala
+charcoal (pl)/difficulty: amakala
 
 Ekyowero
 soap: esabuni
@@ -897,6 +904,7 @@ meeting: endeko
 backpack: eyisaho eyokomuwongo
 class: ekitebe
 file: efayiro
+math: ekibalo
 
 Colors
 black: ekyinire
@@ -907,6 +915,7 @@ white: enzero
 brown: omusukwe
 
 Miscellaneous
+example: ekyerirebyako
 by myself: ingyuwene
 by yourself: iwuwene
 by himself/by herself: iyowene
