@@ -38,6 +38,7 @@ it's morning/it is morning: bwamakya/bwabirikya/bwamabirikya
 it's afternoon/it is afternoon: bwabirisiba/bwamasiba/bwamabirisiba
 it's night/it is night: bwamabirira/bwabirira/bwamira
 how is your evening?: bwamakwirako?
+how is your afternoon?: wamasiba?
 hello/hi: kuthi
 hi, person whose name I don't know: kuthi nani
 thank you/thanks: wasingya
@@ -48,7 +49,7 @@ I am fine/I'm fine/I am OK/I'm OK: nganeyo/nganeyo buholho/nganakalire/nganendek
 have a good weekend: wuthunge ewikende mubuya
 sleep in peace: wukesaye buholho/wukesayanu buholho
 hey: sawa
-what are you speaking?: wukabughaki?
+what are you speaking?/how's it going?: wukabughaki?
 how is there?: yinewahi?/yiriwahi?
 there is good/there is fine: yinuwene
 how was your day?: ekiro kyaberekyithi?
@@ -67,9 +68,10 @@ where are you from?: wukalhwahi?/wukalhwa hayi?
 nice to meet you: ngatsemire ingakusangana/ngatsemire erikusangana
 
 Ebyalya
+sour fruit with sections: ekyamba
 breakfast: ekyengyakya
 lunch: ekyemisana
-dinner: ekyakiro
+dinner/supper: ekyakiro
 chapati and beans: ekikomando
 sauce: omukubi
 food: ebyalya
@@ -107,8 +109,8 @@ gnut: ekinyobwa
 gnuts: ebinyobwa
 ripe banana: eryeru
 ripe bananas: ameru
-pancake: omugathi owameru
-pancakes: emigathi eyameru
+pancake: omugathi wameru
+pancakes: emigathi yameru
 small sweet banana: embaragara
 large sweet banana: embogoya
 plantain: egongya
@@ -190,6 +192,8 @@ bed: engyingo
 sheet: esithi
 
 Abandu
+reverend/shepherd: omulisya
+stooge: ekyombolerya
 person: omundu
 people: abandu
 boy: omojo
@@ -211,8 +215,12 @@ old man: muze
 old woman: mukade
 doctor: omunganga
 creator: omuhangiki
+Muslim: omusilamu
+Catholic: omukatuliki
+guide: omusondolya
 
 Omubiri
+cold (illness): ekihinzi
 saliva: amathande/ebithande
 nose: enyindo
 noses: esyonyindo
@@ -322,7 +330,7 @@ books: ebitabo
 radio: eradiyo
 song: olhwimbo
 songs: esyonyimbo
-ball/football: omupira
+ball/football/Protestant: omupira
 bike: egali
 singer: mwimbi
 netball: omupira owabakali
@@ -331,9 +339,10 @@ card: eritatu
 drumbeat: ekighasa
 
 Basics
+every: oboli
 so/because: kusangwa
 because of: habwa
-and then/and now: eryo/ibwa/ibwa/neribwa
+and then/and now: neryo/ibwa/ibwa/neribwa
 now: hathia
 is there.../are there.../there is.../there are...: eyo yine...
 English: Olhusungu
@@ -346,7 +355,7 @@ Lukonjo: Olhukonzo
 of or relating to Konjo: kikonzo
 yes/to/from/at: e
 no: ayihi/eeyihi
-and/with/relative who: na
+and/with/who (relative): na
 and (verb): kandi
 because: habwa
 or: kwisi/kutse
@@ -362,6 +371,12 @@ we: ithwe
 you (pl): inywe
 they (here): aba
 they (there): abo
+I am (noun): ningye
+you are (noun): niwe
+he is (noun)/she is (noun): niya
+we are (noun): nithwe
+you (pl) are (noun): ninywe
+they are (noun): nibo
 nothing: sihali/wapi
 in/into: omo
 on/a share of/by/about: oko/okwa
@@ -477,6 +492,11 @@ it is about to rain/it's about to rain: embulha yikayawa
 it is raining/it's raining: embulha yinemuwa
 
 Verbs
+to jump: eriyitsada
+to skip: erikyuruka
+to pluck/to tear out: eritsupa
+to guide: erisondola
+to join/to put together: erimathikani
 to get annoyed: eripona
 to think: erilengekania
 to create/country: erihanga
@@ -485,7 +505,7 @@ to send: eritsindika
 to open with hands: erihatha
 to be about to: erikisiya
 to wear/to put on: eryambala
-to return: erisubulya
+to return: erisubulya/erisubulha/erisubulyo
 to turn: eribinduka
 to be late morning: erikererera
 to be taught: erisomesibwa/erithendekwa
@@ -578,7 +598,6 @@ to meet: erisangana
 to finish: eriwunza
 to reach/family: erihika
 to look for: erisondya
-to return: erisubulha
 to suffer/to die: erikwa
 to rain: eriwa
 to help: eriwathikya
@@ -627,7 +646,7 @@ to catch: erihamba
 to teach: erisomesya/erithendeka
 to read/to learn/to study: erisoma/eriyigha
 to write: erihandika
-to run: eritibitha
+to run: erithibitha
 to walk: eriryatha
 to hit/to cane: erihumba
 to bring: eriletha
@@ -719,6 +738,7 @@ seventh girl/seventh boy: Nzabake
 
 Ebisoro
 animal: ekisoro
+cicada: ekigyororo
 rabbit: esongura
 guinea pig: epanya
 gorilla: ekibandu
@@ -746,6 +766,7 @@ feathers: ebyeya
 elephant: enzowu
 
 Nature
+eucalyptus: akaliptus
 wind: erihunga/omuyagha
 the wild: omoli/omwali
 ditch: omufleghe
@@ -829,6 +850,7 @@ dried/dry: mire
 fresh: bisi
 good: ndeke/wene
 bad: bi
+badly: nabi
 beautiful/handsome: buya
 old: kulu/gulu
 small: ke
@@ -915,6 +937,8 @@ white: enzero
 brown: omusukwe
 
 Miscellaneous
+lunchtime: emisana
+line: elayina
 example: ekyerirebyako
 by myself: ingyuwene
 by yourself: iwuwene
@@ -962,7 +986,7 @@ website: ewebusayithi
 reason: esonga
 reasons: esyosonga
 phone: esimu
-agreed/it's done: basi
+agreed/done/finished: basi
 mat: ekiragho/omukeka
 motorcycle: epikyipikyi
 car: ematoka
@@ -988,8 +1012,6 @@ weakness: obutseke
 weaknesses: amatseke
 bait: ekyambo
 baits: ebyambo
-stooge: ekyombolerya
-stooges: ebyombolerya
 beauty: obubuya
 jealousy: obuha
 love: olwanzu
