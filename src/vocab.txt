@@ -68,6 +68,8 @@ where are you from?: wukalhwahi?/wukalhwa hayi?
 nice to meet you: ngatsemire ingakusangana/ngatsemire erikusangana
 
 Ebyalya
+coffee: omwani
+passion fruit: erithunda
 sour fruit with sections: ekyamba
 breakfast: ekyengyakya
 lunch: ekyemisana
@@ -182,11 +184,11 @@ bathroom: ekyowero
 bathrooms: ebyowero
 dining room: ekisenge ekyeririramo
 living room: ekisenge ekyerihumuliramo
-bedroom: ekisenge ekyerikesyano/ekathi
+bedroom: ekisenge ekyerikesyamo/ekathi
 fence: olhughuthu
 fences: esyonghuthu
 
-Ekisenge Ekyerikesyano
+Ekathi
 bed frame: ekitando
 bed: engyingo
 sheet: esithi
@@ -196,6 +198,7 @@ reverend/shepherd: omulisya
 stooge: ekyombolerya
 person: omundu
 people: abandu
+king: omusinga
 boy: omojo
 girl: omusika
 man: omulume
@@ -296,6 +299,7 @@ thighs: ebihinga
 
 Ekanisa
 God: nyamuhanga
+prayer: erisabira
 
 Esyongyimba
 article tied around waist/stole: omulemba
@@ -343,6 +347,7 @@ every: oboli
 so/because: kusangwa
 because of: habwa
 and then/and now: neryo/ibwa/ibwa/neribwa
+but now: neru
 now: hathia
 is there.../are there.../there is.../there are...: eyo yine...
 English: Olhusungu
@@ -377,7 +382,8 @@ he is (noun)/she is (noun): niya
 we are (noun): nithwe
 you (pl) are (noun): ninywe
 they are (noun): nibo
-nothing: sihali/wapi
+nothing: wapi
+there is not: sihali
 in/into: omo
 on/a share of/by/about: oko/okwa
 this (thing): eki
@@ -454,7 +460,7 @@ hours/clocks/watches: esyosaha
 minute: edakika
 year: omwaka
 years: emyaka
-today: munabire
+today: munabwire
 tomorrow: omungya
 yesterday: muliwolho
 morning: engyakya
@@ -492,6 +498,7 @@ it is about to rain/it's about to rain: embulha yikayawa
 it is raining/it's raining: embulha yinemuwa
 
 Verbs
+to enter: eringira
 to jump: eriyitsada
 to skip: erikyuruka
 to pluck/to tear out: eritsupa
@@ -509,7 +516,7 @@ to return: erisubulya/erisubulha/erisubulyo
 to turn: eribinduka
 to be late morning: erikererera
 to be taught: erisomesibwa/erithendekwa
-to stop/to not: erileka
+to stop/to not/to cause: erileka
 to shave: erighemba
 to be shaved: erighembwa
 to fear: erisagha
@@ -555,7 +562,7 @@ to understand: erikenga
 to answer/to repeat after/to reply: erisubamo
 to be next/to reach abruptly: eritsubuka
 to follow: erikwama
-to cut: erisara/erithema
+to cut: erisara
 to laugh: eriseka
 to dry: eryuma
 to build: erihimba
@@ -609,7 +616,7 @@ to pray/to request: erisaba
 to play: erisatha
 to kick: erisamba/eripika
 to greet: eriramukya
-to stand/to stay: erihangana/erimana
+to stand: erihangana/erimana
 to wake up/to remember: eribuka
 to make/to do: erikola
 to throw: erighusa
@@ -641,7 +648,7 @@ to speak: eribugha/erikania
 to have (an animal): erithunga
 to go: erighenda
 to force: erikaka
-to live/to sit/to be hard/charcoal: erikala
+to stay/to sit/to be hard/charcoal: erikala
 to catch: erihamba
 to teach: erisomesya/erithendeka
 to read/to learn/to study: erisoma/eriyigha
@@ -685,12 +692,12 @@ we know: thunasi
 you (pl) know: munasi
 he knows/she knows: anasi
 they know: banasi
-I live: ngikere
-you live: wikere
-we live: thwikere
-you (pl) live: mwikere
-he lives/she lives: ikere
-they live: bikere
+I stay: ngikere
+you stay: wikere
+we stay: thwikere
+you (pl) stay: mwikere
+he stays/she stays: ikere
+they stay: bikere
 I am sick: ngalwere
 you are sick: wulwere
 we are sick: thulwere
@@ -738,6 +745,7 @@ seventh girl/seventh boy: Nzabake
 
 Ebisoro
 animal: ekisoro
+duck: embata
 cicada: ekigyororo
 rabbit: esongura
 guinea pig: epanya
@@ -794,6 +802,7 @@ mud: ebyondo
 rainbow: ekime
 
 Places
+kingdom: obusinga
 here: hano
 this side: eno
 right: okulya
