@@ -58,7 +58,7 @@ yes?: wankyi?
 welcome/we are fine/we're fine: thuneyo
 we are fine (specific)/we're fine (specific): thuneko
 we are fine (inside)/we're fine (inside): thunemo
-goodbye/bye: bukyayi
+goodbye/bye: bukyaghe
 have a good day: wusibe buholho
 
 Introductions
@@ -125,7 +125,7 @@ egg: eriya
 eggs: amaya
 bread: omugathi
 milk: amathe
-porridge: obusara
+porridge/flour: obusara
 avocado: evakedo
 tomato: olhunyanya/ekinyanya
 tomatoes: esyonyanya/ebinyanya
@@ -194,6 +194,7 @@ bed: engyingo
 sheet: esithi
 
 Abandu
+omukristayo: Christian
 reverend/shepherd: omulisya
 stooge: ekyombolerya
 person: omundu
@@ -297,13 +298,17 @@ waists: esyombindi
 thigh: ekihinga
 thighs: ebihinga
 
-Ekanisa
+Edini
+religion: edini
 God: nyamuhanga
 prayer: erisabira
+Islam: ekisilamu
+Catholicisim: ekikatuliki
+elastic/old tire/large ball/Protestantism: ekipira
 
 Esyongyimba
 article tied around waist/stole: omulemba
-bag/pocket: eyisaho
+bag/pocket: eyisaho/ekikapa
 clothes: esyongyimba
 glasses: amagaruventi
 mask: ekideghu
@@ -341,6 +346,7 @@ netball: omupira owabakali
 game: amasatha
 card: eritatu
 drumbeat: ekighasa
+toy: ekidole
 
 Basics
 every: oboli
@@ -376,12 +382,12 @@ we: ithwe
 you (pl): inywe
 they (here): aba
 they (there): abo
-I am (noun): ningye
-you are (noun): niwe
-he is (noun)/she is (noun): niya
-we are (noun): nithwe
-you (pl) are (noun): ninywe
-they are (noun): nibo
+I am (name): ningye
+you are (name): niwe
+he is (name)/she is (name): niya
+we are (name): nithwe
+you (pl) are (name): ninywe
+they are (name): nibo
 nothing: wapi
 there is not: sihali
 in/into: omo
@@ -498,6 +504,7 @@ it is about to rain/it's about to rain: embulha yikayawa
 it is raining/it's raining: embulha yinemuwa
 
 Verbs
+to resemble: erisosa
 to enter: eringira
 to jump: eriyitsada
 to skip: erikyuruka
@@ -512,11 +519,12 @@ to send: eritsindika
 to open with hands: erihatha
 to be about to: erikisiya
 to wear/to put on: eryambala
-to return: erisubulya/erisubulha/erisubulyo
+to return (intransitive): erisubulha
+to return (transitive): erisubulya
 to turn: eribinduka
 to be late morning: erikererera
 to be taught: erisomesibwa/erithendekwa
-to stop/to not/to cause: erileka
+to stop/to not/to cause/to let: erileka
 to shave: erighemba
 to be shaved: erighembwa
 to fear: erisagha
@@ -593,7 +601,7 @@ to bake: eribumba
 to be unfit: erisuha
 to mean: erimanyisya
 to lose/to sharpen: erithalya
-to hear: eryowa
+to hear/to feel: eryowa
 to bathe: eryogha
 to wash (body): erinaba
 to draw (water): eritheha
@@ -639,6 +647,7 @@ to air out: erihulhukya
 to ask: eribulya
 to get lost/to be away for a long time: eribula/erithala
 to forgive: erighanyira
+to hurt: eriluma
 to go home from work: erilumbuka/erikuluka
 to knock: eritomera
 to eat greedily: erithomera
@@ -745,6 +754,7 @@ seventh girl/seventh boy: Nzabake
 
 Ebisoro
 animal: ekisoro
+bird: ekinyonyi
 duck: embata
 cicada: ekigyororo
 rabbit: esongura
@@ -798,6 +808,7 @@ kind of tree in mountains: omuthi owekisungu
 stone: eribwe
 stones: amabwe
 grass: ebithi
+leaf: ekithi
 mud: ebyondo
 rainbow: ekime
 
@@ -889,6 +900,8 @@ when: mughulhu wahi/di
 which day: ekiro kyakangahi/kyakangahi
 
 Ekitsumbyo
+millet: obulho
+sorghum: omuhenda
 basin: ebafu
 small basin: etasi
 bottle: etsupa
@@ -937,15 +950,20 @@ class: ekitebe
 file: efayiro
 math: ekibalo
 
-Colors
+Esyokala
+color: ekala
 black: ekyinire
-red: engulha
+red/blood: omusasi
 yellow/weaver bird: ekisande
-green: ekyithi kyibese
+green/fresh leaf: ekithi kibisi
 white: enzero
-brown: omusukwe
+tan: omusukwe
+brown: mweru
 
 Miscellaneous
+pain: obulumi
+gun: embundu
+grace: eneema
 lunchtime: emisana
 line: elayina
 example: ekyerirebyako
@@ -960,7 +978,6 @@ letter: ebaruha
 that's good: hakyire/kyowene
 quickly/hurry up: lubaluba/anguha
 come on: bathami
-elastic/old tire/large ball: ekipira
 corpse: omulambo
 energy/strength: amani
 gift: ekisembo/ekihembo
