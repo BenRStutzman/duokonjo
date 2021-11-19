@@ -195,6 +195,10 @@ bed: engyingo
 sheet: esithi
 
 Abandu
+lover: omwanzi
+cook: omutsumbi
+singer: omwimbi
+driver: omuvugi
 pregnant person: omukule
 Christian: omukristayo
 reverend/shepherd: omulisya
@@ -307,6 +311,9 @@ God: nyamuhanga
 Islam: ekisilamu
 Catholicisim: ekikatuliki
 elastic/old tire/large ball/Protestantism: ekipira
+Mary, mother of Jesus: Bikira Maliya
+Christmas: ekiro kikulu kyeributhwa yayesu
+Easter: ekiro kikulu kyerikwa yayesu
 
 Esyongyimba
 article tied around waist/stole: omulemba
@@ -343,7 +350,6 @@ song: olhwimbo
 songs: esyonyimbo
 ball/football/Protestant: omupira
 bike: egali
-singer: mwimbi
 netball: omupira owabakali
 game: amasatha
 card: eritatu
@@ -505,6 +511,9 @@ it is about to rain/it's about to rain: embulha yikayawa
 it is raining/it's raining: embulha yinemuwa
 
 Verbs
+to go up: erihethuka
+to go down: erindaghala
+to be said: eribughwa
 to resemble: erisosa
 to enter: eringira
 to jump: eriyitsada
@@ -582,6 +591,7 @@ to build: erihimba
 to go to work: erihinga
 to remain: erisighalha
 to be wet: eritsapa
+to wait: erilinda
 to wash: eryoya
 to show: erikangya
 to withdraw: erihako
@@ -601,6 +611,7 @@ to articulate: erisobola
 to win/to beat: erisinga/eriswirya
 to spoil: eritsandya
 to give birth: eributha
+to be born: eributhwa
 to lay/to make (a bed): erisesa
 to ripen: eryera
 to bake: eribumba
@@ -688,6 +699,7 @@ you are: wuli
 you (pl) are: muli
 we are: thuli
 he is/she is: ali
+they are: bali
 I have: ngawithe/nganawithe/ngwithe
 you have: wuwithe
 he has/she has: awithe
@@ -730,7 +742,7 @@ child: omwana
 children: abana
 parents: ababuthi
 sister: omwali
-sisters/they are: abali
+sisters/dear: bali
 brother: omughala
 brothers: abaghala
 maternal aunt younger than mother: mama mulere/mamulere
@@ -793,7 +805,7 @@ Nature
 acacia: akasiya
 eucalyptus: akaliptus
 wind: erihunga/omuyagha
-the wild: omoli/omwali
+the wild: omoli
 ditch: omufleghe
 mountain: ekithwa
 pit: ekighuma
@@ -819,8 +831,11 @@ leaf: ekithi
 mud: ebyondo
 rainbow: ekime
 
-Places
+Emyanya
+above/over: ahiwulhu
+below/beneath/under: ahikwa
 place: omwanya
+places: emyanya
 kingdom: obusinga
 here: hano
 this side: eno
@@ -835,8 +850,8 @@ west: ebulengera ryuba
 outside: eyisya
 inside: omwakathi
 heaven/sky: olhubula
-lower/downhill: ekabuno
-upper/uphill: eyiwulho
+down/lower/downhill: ekabunu
+up/upper/uphill: eyiwulhu
 side/part: olhuhandi
 sub-county: egomporo
 world/earth: ekithaka/ekihuwo
@@ -892,6 +907,7 @@ ripe: rire
 all: si
 
 Ebibulyo
+how much: ngahi
 why: habwaki
 where: hayi/hi
 who: nindi
@@ -904,7 +920,7 @@ how (you)/that (you): wuthi
 how (he)/how (she)/that (he)/that (she): athi
 how (we)/that (we): thuthi
 how (you (pl))/that (you (pl)): muthi
-how (they)/that (they): bathi
+how (they)/that (they): bathi/ambuki
 when (relative): omughulhu
 when: mughulhu wahi/di
 which day: ekiro kyakangahi/kyakangahi
@@ -945,7 +961,7 @@ Ekyowero
 soap: esabuni
 
 Esukuru
-teacher: omuhalimu/omuthendeki
+teacher: omuhalimu/omuthendeki/omusomesya
 student: omuthendekwa/omwana wesukuru
 office: ekyaghanda
 paper: olhupapura
@@ -971,6 +987,10 @@ tan: omusukwe
 brown: mweru
 
 Miscellaneous
+like (verb): ngoko
+like (noun): nge
+eve: ekyamaraliyo
+religious holiday: ekiro kikulu
 noise: ethoko
 pain: obulumi
 gun: embundu
