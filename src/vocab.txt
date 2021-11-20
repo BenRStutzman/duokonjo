@@ -50,7 +50,7 @@ I am fine/I'm fine/I am OK/I'm OK: nganeyo/nganeyo buholho/nganakalire/nganendek
 have a good weekend: wuthunge ewikende mubuya
 sleep in peace: wukesaye buholho/wukesayanu buholho
 hey: sawa
-what are you speaking?/how's it going?: wukabughaki?
+what are you speaking?/what are you saying?/how's it going?: wukabughaki?
 how is there?: yinewahi?/yiriwahi?
 there is good/there is fine: yinuwene
 how was your day?: ekiro kyaberekyithi?
@@ -312,8 +312,9 @@ Islam: ekisilamu
 Catholicisim: ekikatuliki
 elastic/old tire/large ball/Protestantism: ekipira
 Mary, mother of Jesus: Bikira Maliya
-Christmas: ekiro kikulu kyeributhwa yayesu
-Easter: ekiro kikulu kyerikwa yayesu
+Christmas: ekiro kikulu kyeributhwa lyayesu
+Good Frieday: ekiro kikulu kyerikwa lyayesu
+Easter: ekiro kikulu kyerilubuka lyayesu
 
 Esyongyimba
 article tied around waist/stole: omulemba
@@ -487,7 +488,7 @@ months/moons: amezi
 at night: omokyiro
 evening: eriwolho
 in the evening: omuwolho
-after tomorrow/before yesterday: mwalindi
+the day after tomorrow/the day before yesterday: mwalindi
 Monday: kyabalaza
 Tuesday: kyakabiri
 Wednesday: kyakasathu
@@ -513,7 +514,7 @@ it is raining/it's raining: embulha yinemuwa
 Verbs
 to go up: erihethuka
 to go down: erindaghala
-to be said: eribughwa
+to be said/to be spoken: eribughwa
 to resemble: erisosa
 to enter: eringira
 to jump: eriyitsada
@@ -549,6 +550,7 @@ to harvest: erisoloma
 to hurry: eryanguha
 to speed up: eryanguhya
 to chew: eritakunya
+to sweep: eribirya
 to swallow: erimera
 to chase: eribinga
 to be found: eribanika
@@ -631,6 +633,7 @@ to finish: eriwunza
 to reach/family: erihika
 to look for: erisondya
 to suffer/to die: erikwa
+to resurrect: erilubuka
 to rain: eriwa
 to help: eriwathikya
 to fall over: erithera
@@ -670,8 +673,8 @@ to knock: eritomera
 to eat greedily: erithomera
 to thank: erisima
 to know: erimenya
-to speak: eribugha/erikania
-to have (an animal): erithunga
+to speak/to say: eribugha/erikania
+to have: erithunga
 to go: erighenda
 to force: erikaka
 to stay/to sit/to be hard/charcoal: erikala
@@ -729,7 +732,7 @@ I am sick: ngalwere
 you are sick: wulwere
 we are sick: thulwere
 you (pl) are sick: mulwere
-he is sick: alwere
+he is sick/she is sick: alwere
 they are sick: balwere
 he can go/she can go: iniaghenda
 
@@ -932,18 +935,18 @@ basin: ebafu
 small basin: etasi
 bottle: etsupa
 tray: etureya
-bowl: ebakuli eyomukubi/esahani eyomukubi
-plate: ebakuli eyebyalya/esahani eyebyalya
+bowl: ebakuli eyomukubi/esahani yomukubi
+plate: ebakuli eyebyalya/esahani yebyalya
 gourd container: endekwa
 gourd container for alcohol: ekisya
 jug/jar: egyaga
 tap: etapu
 spoon: ekigyiko
-fork: ekigyiko ekyefoko
+fork: ekigyiko kyefoko
 dish: esahani/ebakuli
 cup: ekikopo
 soup: emboka/omukubi
-ghee: amaghuta awende
+ghee: amaghuta wende
 knife: omuhamba
 panga: ekipanga
 mingling stick: omunko
@@ -984,9 +987,10 @@ yellow/weaver bird: ekisande
 green/fresh leaf: ekithi kibisi
 white: enzero
 tan: omusukwe
-brown: mweru
+brown: eru
 
 Miscellaneous
+broom: obubiryo
 like (verb): ngoko
 like (noun): nge
 eve: ekyamaraliyo
@@ -1030,7 +1034,7 @@ plastic bag: ekivera
 vowel: enzoboli
 consonant: enguthu
 metal: ekyuma
-air: embeho
+air/cold: embeho
 knowledge: amagezi
 shortness: obukuhi
 word: ekinywa
