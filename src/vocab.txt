@@ -29,7 +29,7 @@ try: Lengesya
 or: kwisi
 
 Greetings
-how is it?: kyithikyi?
+how is it?: kithiki?
 how have things been?: biribithi?
 good morning: obukyire/wabukire/bwakere
 good afternoon/good evening: wasibire
@@ -64,7 +64,7 @@ have a good day: wusibe buholho
 
 Introductions
 my name is...: erina lyaghe ningye...
-what is your name?: erina lyawu ni wendi?
+what is your name?: erina lyawu niwendi?
 where are you from?: wukalhwahi?/wukalhwa hayi?
 nice to meet you: ngatsemire ngakusangana/ngatsemire rikusangana
 
@@ -144,15 +144,15 @@ turkey: esikoko
 turkeys: ebisikoko/esyosikoko
 sugar: esukali
 beer: obwabu
-beers: amabu
+beer (pl): amabu
 mushroom: olokwe
 mushrooms: obokwe
 bean: ekihimba
 beans: ebihimba
 fresh bean: omusekwa
 soybeans: esoya
-maize: ebikusa
-ear of maize: ekikusa
+maize: ekikusa
+maize (pl): ebikusa
 yam: ekinyangwa
 onion: ekithunguru
 garlic: akathunguru sumu
@@ -367,7 +367,7 @@ is there.../are there.../there is.../there are...: eyo yine...
 English: Olhusungu
 language: omubughe
 but: bethu
-very much/a lot: kutsibo
+very much: kutsibo
 very very much: kutsibutsibo
 some: obwi
 Lukonjo: Olhukonzo
@@ -397,7 +397,7 @@ we are (name): nithwe
 you (pl) are (name): ninywe
 they are (name): nibo
 nothing: wapi
-there is not: sihali
+there is not/there isn't: sihali
 in/into: omo
 on/a share of/by/about: oko/okwa
 this (thing): eki
@@ -607,7 +607,7 @@ to listen: erihulikirira
 to light/to turn on: eryakya
 to shine: eryaka
 to turn off: eririmya
-to be hot: erihisya
+to be hot/to burn: erihisya
 to manage: erithoka
 to articulate: erisobola
 to win/to beat: erisinga/eriswirya
@@ -898,7 +898,7 @@ fresh: bisi
 good: ndeke/wene
 bad: bi
 badly: nabi
-beautiful/handsome: buya
+beautiful/handsome/pretty: buya
 old: kulu/gulu
 small/a little/few/less/fewer/smaller: ke
 big/large/a lot/many/more/bigger/larger: nene
@@ -935,8 +935,8 @@ basin: ebafu
 small basin: etasi
 bottle: etsupa
 tray: etureya
-bowl: ebakuli eyomukubi/esahani yomukubi
-plate: ebakuli eyebyalya/esahani yebyalya
+bowl: ebakuli yomukubi/esahani yomukubi
+plate: ebakuli yebyalya/esahani yebyalya
 gourd container: endekwa
 gourd container for alcohol: ekisya
 jug/jar: egyaga
@@ -995,7 +995,7 @@ like (verb): ngoko
 like (noun): nge
 eve: ekyamaraliyo
 religious holiday: ekiro kikulu
-noise: ethoko
+noise/sound: ethoko
 pain: obulumi
 gun: embundu
 grace: eneema
