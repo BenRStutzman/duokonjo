@@ -120,7 +120,7 @@ plantain: egongya
 banana for juicing: ekisubi
 boiled banana: emangyaya
 eggplant: ebirinkani
-small green eggplant: endakala
+lil' green eggplant: endakala
 tea: ekyayi
 egg: eriya
 eggs: amaya
@@ -137,7 +137,7 @@ fish: erihere
 fish (pl): amahere
 cabbage: ekabegyi
 greens: edodo/enakati
-spinach: sokumuwiki
+spinach: sokumawiki
 pineapple: enanasi
 juice: ejuis
 turkey: esikoko
@@ -198,7 +198,7 @@ Abandu
 lover: omwanzi
 cook: omutsumbi
 singer: omwimbi
-driver: omuvugi
+driver: omuvugi/omudirevu
 pregnant person: omukule
 Christian: omukristayo
 reverend/shepherd: omulisya
@@ -405,7 +405,12 @@ that (thing): ekyo
 these (things): ebi
 those (things): ebyo
 again: thasa/sasa
+and me: naghe
 and you: nawu
+and him/and her: nayo
+and us: nethu
+and you (pl): nenyu
+and them: nabo
 
 Esyonamba
 number: enamba
@@ -512,6 +517,8 @@ it is about to rain/it's about to rain: embulha yikayawa
 it is raining/it's raining: embulha yinemuwa
 
 Verbs
+to be swept away: erisendya
+to collect/to gather: erisenya
 to go up: erihethuka
 to go down: erindaghala
 to be said/to be spoken: eribughwa
@@ -635,7 +642,7 @@ to look for: erisondya
 to suffer/to die: erikwa
 to resurrect: erilubuka
 to rain: eriwa
-to help: eriwathikya
+to help: eriwathikya/eritsuna
 to fall over: erithera
 to fall: erithogha
 to refuse/to oppose: erighania/erighana
@@ -646,7 +653,7 @@ to kick: erisamba/eripika
 to greet: eriramukya
 to stand: erihangana/erimana
 to wake up/to remember: eribuka
-to make/to do: erikola
+to make/to do/to work: erikola
 to throw: erighusa
 to take: erithwala
 to sing/to give me: erimba
@@ -744,13 +751,13 @@ mothers/moms: abamama
 child: omwana
 children: abana
 parents: ababuthi
-sister: omwali
+sister: mwali
 sisters/dear: bali
-brother: omughala
+brother: mughala
 brothers: abaghala
 maternal aunt younger than mother: mama mulere/mamulere
 maternal aunt older than mother: mama mukulu/mamukulu
-paternal aunt: sungali
+paternal aunt: sungali/isengali
 maternal uncle: nyokolome
 paternal uncle younger than father: thatha mulere/somulere
 paternal uncle older than father: thatha mukulu/somukulu
@@ -808,7 +815,7 @@ Nature
 acacia: akasiya
 eucalyptus: akaliptus
 wind: erihunga/omuyagha
-the wild: omoli
+the wild: omoli/omwali
 ditch: omufleghe
 mountain: ekithwa
 pit: ekighuma
@@ -839,6 +846,7 @@ above/over: ahiwulhu
 below/beneath/under: ahikwa
 place: omwanya
 places: emyanya
+hospital: esipatara
 kingdom: obusinga
 here: hano
 this side: eno
@@ -981,7 +989,7 @@ math: ekibalo
 
 Esyokala
 color: ekala
-black: ekirima
+black/darkness: ekirima
 red/blood: omusasi
 yellow/weaver bird: ekisande
 green/fresh leaf: ekithi kibisi
@@ -990,7 +998,10 @@ tan: omusukwe
 brown: eru
 
 Miscellaneous
-broom: obubiryo
+boats: eryathu
+shadow/shade: ekitsutsu
+omuliro: fire
+broom: olhubiryo
 like (verb): ngoko
 like (noun): nge
 eve: ekyamaraliyo
@@ -1028,7 +1039,8 @@ look!: ohoyi!
 electricity: amasenyerezi
 name: erina
 names: amena
-darkness: omwirima
+light: ekyubanu
+darkness of night: omwirima
 truth: okwenene
 plastic bag: ekivera
 vowel: enzoboli
