@@ -405,12 +405,12 @@ that (thing): ekyo
 these (things): ebi
 those (things): ebyo
 again: thasa/sasa
-and me: naghe
-and you: nawu
-and him/and her: nayo
-and us: nethu
-and you (pl): nenyu
-and them: nabo
+and me/with me: naghe
+and you/with you: nawu
+and him/and her/with him/with her: nayo
+and us/with us: nethu
+and you (pl)/with you (pl): nenyu
+and them/with them: nabo
 
 Esyonamba
 number: enamba
