@@ -793,6 +793,12 @@ fourth girl: Mbambu
 fifth girl: Thungu
 sixth girl: Kyakyimwa
 seventh girl/seventh boy: Nzabake
+older boy twin: Singoma
+younger boy twin: Kato
+older girl twin: Nyangoma
+younger girl twin: Nyakato
+first child after twins: Kiza
+second child after twins: Kamala
 
 Ebisoro
 animal: ekisoro
