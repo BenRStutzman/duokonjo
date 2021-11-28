@@ -48,7 +48,7 @@ how are you?: wuneyo?/wune wuthi?
 how are you (pl)?: muneyo?/mune muthi?
 I am fine/I'm fine/I am OK/I'm OK: nganeyo/nganeyo buholho/nganakalire/nganendeke
 have a good weekend: wuthunge wikende mubuya
-sleep in peace: wukesaye buholho/wukesayanu buholho
+sleep in peace/goodnight: wukesaye buholho/wukesayanu buholho
 hey: sawa
 what are you speaking?/what are you saying?/how's it going?: wukabughaki?
 how is there?: yinewahi?/yiriwahi?
@@ -106,22 +106,21 @@ potato: eribese
 potatoes: amabese
 silverfish: omukene
 sugarcane: ekiseke
-imported banana: enadiz
-starchy banana: eritoke
-starchy bananas: amatoke
-starchy banana bunch: ekitoke
-starchy banana bunches: ebitoke
 gnut: ekinyobwa
 gnuts: ebinyobwa
 ripe banana: eryeru
 ripe bananas: ameru
-pancake: omugathi wameru
-pancakes: emigathi yameru
+starchy banana: eritoke
+starchy bananas: amatoke
+starchy banana bunch: ekitoke
+starchy banana bunches: ebitoke
 small sweet banana: embaragara
 large sweet banana: embogoya
 plantain: egongya
 banana for juicing: ekisubi
 boiled banana: emangyaya
+pancake: omugathi wameru
+pancakes: emigathi yameru
 eggplant: ebirinkani
 lil' green eggplant: endakala
 tea: ekyayi
@@ -653,7 +652,7 @@ to finish: eriwunza
 to reach/family/to be correct: erihika
 to look for: erisondya
 to suffer/to die: erikwa
-to resurrect: erilubuka
+to come back to life: erilubuka
 to rain: eriwa
 to help: eriwathikya/eritsuna
 to fall over: erithera
@@ -710,7 +709,7 @@ to bring: eriletha
 to eat: erirya
 to rest: erihumula
 to sleep: erikesya
-to want/to like: eryanza
+to want/to like/to love: eryanza
 to settle: eritekana
 to tell: eribwira/erithula/erithulira
 to see/to look at/to watch: erirebya/erisamalira/erilangera/erithungerera
@@ -723,7 +722,6 @@ you are: wuli
 you (pl) are: muli
 we are: thuli
 he is/she is: ali
-they are: bali
 I have: ngawithe/nganawithe/ngwithe
 you have: wuwithe
 he has/she has: awithe
@@ -766,7 +764,7 @@ child: omwana
 children: abana
 parents: ababuthi
 sister: mwali
-sisters/dear: bali
+sisters/dear/they are: bali
 brother: mughala
 brothers: abaghala
 maternal aunt younger than mother: mama mulere/mamulere
@@ -844,7 +842,7 @@ mountain: ekithwa
 pit: ekighuma
 seed: akaghuma
 palm tree: omuthi owekyingasi
-dirt/soil/earth: omuthaka
+dirt/soil: omuthaka
 star: engununu
 raised land where you can't grow crops: obwerere
 raised lands where you can't grow crops: amerere
@@ -918,7 +916,7 @@ far: hali
 beside: ahali
 
 Adjectives
-imported: enadiz
+imported: nadiz
 local: ngonzo
 pregnant: kule
 correct: hikire
@@ -999,7 +997,7 @@ soap: esabuni
 Esukuru
 expert/senior: omusiniya
 education: ekisomo
-higher education: ekisomo ekyahiwulhu
+higher education: ekisomo kyahiwulhu
 teacher: omuhalimu/omuthendeki/omusomesya
 student: omuthendekwa/omwana wesukuru
 office: ekyaghanda
