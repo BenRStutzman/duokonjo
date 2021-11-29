@@ -69,6 +69,8 @@ where are you from?: wukalhwahi?/wukalhwa hayi?
 nice to meet you: ngatsemire ngakusangana/ngatsemire rikusangana
 
 Ebyalya
+fried meat: amakalangano
+fried bits: esyangalanga
 starchy banana mixture: akatogo
 coffee: omwani
 passion fruit: erithunda
@@ -139,7 +141,7 @@ fish: erihere
 fish (pl): amahere
 cabbage: ekabegyi
 greens: edodo/enakati
-spinach: sokumawiki
+not spinach: sokumawiki
 pineapple: enanasi
 juice: ejuis
 turkey: esikoko
@@ -233,6 +235,7 @@ Catholic: omukatuliki
 guide: omusondolya
 
 Omubiri
+voice: omulenge
 pregnancy: obukule
 cold (illness): ekihinzi
 saliva: amathande/ebithande
@@ -320,6 +323,7 @@ Good Frieday: ekiro kikulu kyerikwa lyayesu
 Easter: ekiro kikulu kyerilubuka lyayesu
 
 Esyongyimba
+smart clothes/tucked in shirt: ekikalo
 article tied around waist/stole: omulemba
 bag/pocket: eyisaho/ekikapa
 clothes: esyongyimba
@@ -347,6 +351,7 @@ skirts: esyosikathi
 
 Hobbies
 music: omuziki
+enyabulere: flute
 book: ekitabo
 books: ebitabo
 radio: eradiyo
@@ -358,7 +363,7 @@ netball: omupira owabakali
 game: amasatha
 card: eritatu
 drumbeat: ekighasa
-toy: ekidole
+toy: ekidole/edole
 
 Basics
 every: oboli
@@ -366,7 +371,7 @@ so/because: kusangwa
 because of: habwa
 then: ibwa
 and then/and now: neryo/neribwa
-now: hathia
+now: hathia/esaha no
 is there.../are there.../there is.../there are...: eyo yine...
 English: Olhusungu
 language: omubughe
@@ -522,12 +527,17 @@ it is about to rain/it's about to rain: embulha yikayawa
 it is raining/it's raining: embulha yinemuwa
 
 Verbs
+to dodge: erikyanga/eriwepa
+to collect/to gather: erisorokya
+to get married (woman): eriheruka
+to get married (man): eriherukya/erithahya
+to fry: erikalanga
 to pour: eryutha/eryuthula
 to smell: erikumba/eribeha
 to plant: erihera
 to pay/to be blunt: erithuha
 to be swept away: erisendya
-to collect/to gather: erisenya
+to collect firewood/to gather firewood: erisenya
 to go up: erihethuka
 to go down: erindaghala
 to be said/to be spoken: eribughwa
@@ -594,6 +604,7 @@ to extend: erisegherya
 to bend over: eryunama
 to be late: erikerererwa
 to bend: erikata
+to feed/to herd: erilisya
 to roll: erilinga
 to hang: erihanika
 to count: eribala
@@ -601,6 +612,7 @@ to be happy: eritsema
 to break: eribuna
 to bifurcate/to spit: erithwa
 to understand: erikenga
+to come back to life: erisuba
 to answer/to repeat after/to reply: erisubamo
 to be next/to reach abruptly: eritsubuka
 to follow: erikwama
@@ -611,7 +623,7 @@ to build: erihimba
 to go to work: erihinga
 to remain: erisighalha
 to be wet: eritsapa
-to wait: erilinda
+to wait/to protect: erilinda
 to wash: eryoya
 to show: erikangya
 to withdraw/to remove/to subtract: erihako
@@ -652,7 +664,7 @@ to finish: eriwunza
 to reach/family/to be correct: erihika
 to look for: erisondya
 to suffer/to die: erikwa
-to come back to life: erilubuka
+to come back to life after being buried: erilubuka
 to rain: eriwa
 to help: eriwathikya/eritsuna
 to fall over: erithera
@@ -800,6 +812,7 @@ second child after twins: Kamala
 
 Ebisoro
 animal: ekisoro
+grasshopper: omusyenene
 frog: ekikere
 bird: ekinyonyi
 duck: embata
@@ -831,6 +844,10 @@ feathers: ebyeya
 elephant: enzowu
 
 Nature
+omulonge: reed for flutes
+banana plant: emboko
+banana stem: omuhithihithi
+banana flower: embalabala
 root: omurihi
 replanted part of plant: embutho
 acacia: akasiya
@@ -1024,6 +1041,9 @@ tan: omusukwe
 brown: eru
 
 Miscellaneous
+wedding party: omukoro
+party: obughene
+pencil lead: akakala
 brick: eritafale
 maybe: mbino
 shovel: ekitiyo
