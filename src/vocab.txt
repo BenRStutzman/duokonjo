@@ -199,6 +199,7 @@ bed: engyingo
 sheet: esithi
 
 Abandu
+twin: omuhasa
 a person of...: omunya...
 lover: omwanzi
 cook: omutsumbi
@@ -481,7 +482,8 @@ nine hundred thousand: emithwalu kyenda
 one million: emithwalu kikumi
 
 Obuthuku
-time: obuthuku
+time (uncountable): obuthuku
+time (countable): omurundi
 what time is it?: ni saha singahi?/saha singahi?
 the time is...: ni saha.../saha...
 hour/clock/watch: esaha
@@ -527,6 +529,10 @@ it is about to rain/it's about to rain: embulha yikayawa
 it is raining/it's raining: embulha yinemuwa
 
 Verbs
+to kill: eritha
+to accompany: erikwamanisya
+to poop: erinia
+to pee: erisubalha
 to dodge: erikyanga/eriwepa
 to collect/to gather: erisorokya
 to get married (woman): eriheruka
@@ -552,7 +558,7 @@ to get annoyed: eripona
 to think: erilengekania
 to create/country: erihanga
 to look behind/to mark: erikebera
-to send: eritsindika
+to send (a thing): eritsindika
 to open with hands: erihatha
 to be about to: erikisiya
 to wear/to put on: eryambala
@@ -594,6 +600,7 @@ to tie: eriboha
 to get dark: erira
 to get light: erikya
 to slaughter: erikera
+to send (a person): erithuma
 to forget: eribirirwa
 to taste/to taste good: erisiha
 to leave: erisigha
@@ -659,14 +666,14 @@ to end: erihwa
 to run out (on): erihwako
 to run out (in): erihwamo
 to find: eribana
-to meet: erisangana
+to meet: erisangana/erikweya
 to finish: eriwunza
 to reach/family/to be correct: erihika
 to look for: erisondya
 to suffer/to die: erikwa
 to come back to life after being buried: erilubuka
 to rain: eriwa
-to help: eriwathikya/eritsuna
+to help: eriwathikya/eritsuna/eriyamba
 to fall over: erithera
 to fall: erithogha
 to refuse/to oppose: erighania/erighana
@@ -768,6 +775,7 @@ they are sick: balwere
 he can go/she can go: iniaghenda
 
 Erihika
+grandchild: omutsukulu
 father/dad: thatha
 fathers/dads: abathatha
 mother/mom: mama
@@ -778,7 +786,7 @@ parents: ababuthi
 sister: mwali
 sisters/dear/they are: bali
 brother: mughala
-brothers: abaghala
+brothers: baghala
 maternal aunt younger than mother: mama mulere/mamulere
 maternal aunt older than mother: mama mukulu/mamukulu
 paternal aunt: sungali/isengali
@@ -809,6 +817,7 @@ older girl twin: Nyangoma
 younger girl twin: Nyakato
 first child after twins: Kiza
 second child after twins: Kamala
+third child after twins: Kibaba
 
 Ebisoro
 animal: ekisoro
@@ -844,6 +853,7 @@ feathers: ebyeya
 elephant: enzowu
 
 Nature
+omusithu: forest/park
 omulonge: reed for flutes
 banana plant: emboko
 banana stem: omuhithihithi
@@ -977,6 +987,7 @@ when: mughulhu wahi/di
 which day: ekiro kyakangahi/kyakangahi
 
 Ekitsumbyo
+pot/pan: engungu
 millet: obulho
 sorghum: omuhenda
 basin: ebafu
@@ -1010,6 +1021,8 @@ charcoal (pl)/difficulty: amakala
 
 Ekyowero
 soap: esabuni
+shower: eryowero
+ekibafu: bathtub
 
 Esukuru
 expert/senior: omusiniya
@@ -1041,6 +1054,7 @@ tan: omusukwe
 brown: eru
 
 Miscellaneous
+spear: erithumu
 wedding party: omukoro
 party: obughene
 pencil lead: akakala
@@ -1048,7 +1062,7 @@ brick: eritafale
 maybe: mbino
 shovel: ekitiyo
 hoe: eyisuka
-boats: eryathu
+boat: eryathu
 shadow/shade: ekitsutsu
 omuliro: fire
 broom: olhubiryo
@@ -1069,7 +1083,7 @@ by himself/by herself: iyowene
 by ourselves: ithubene
 by yourselves: inyubene
 by themselves: ibabene
-that's why: kyalekire
+that's why: ekyalekire/ekyalekire/ekikaleka
 letter: ebaruha
 that's good: hakyire/kyowene
 quickly/hurry up: lubaluba/anguha
