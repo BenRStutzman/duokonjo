@@ -137,8 +137,8 @@ tomatoes: esyonyanya/ebinyanya
 meat: enyama
 rice: omuchere
 water: amaghetse
-fish: erihere
-fish (pl): amahere
+tilapia/fish: erihere
+fish (pl)/tilapia (pl): amahere
 cabbage: ekabegyi
 greens: edodo/enakati
 not spinach: sokumawiki
@@ -162,6 +162,7 @@ onion: ekithunguru
 garlic: akathunguru sumu
 
 Enyumba
+iron sheet: eribathi
 ekidongo: wall
 house: enyumba
 houses: esyonyumba
@@ -183,10 +184,8 @@ floor: olhubughabugha
 floors: esyobughabugha
 roof: olhuthwe
 roofs: esyothwe
-kitchen: ekitsumbyo
-kitchens: ebitsumbyo
+kitchen: ekitsumbyo/egyokoni
 bathroom: ekyowero
-bathrooms: ebyowero
 dining room: ekisenge kyeririramo
 living room: ekisenge kyerihumuliramo
 bedroom: ekisenge kyerikesyamo/ekathi
@@ -236,6 +235,7 @@ Catholic: omukatuliki
 guide: omusondolya
 
 Omubiri
+armpits: amasakaro
 voice: omulenge
 pregnancy: obukule
 cold (illness): ekihinzi
@@ -314,6 +314,9 @@ thighs: ebihinga
 
 Edini
 religion: edini
+ghost: omulimu
+blessing/good luck: omuyisa
+curse/bad luck: ekisirani
 God: nyamuhanga
 Islam: ekisilamu
 Catholicism: ekikatuliki
@@ -324,6 +327,8 @@ Good Frieday: ekiro kikulu kyerikwa lyayesu
 Easter: ekiro kikulu kyerilubuka lyayesu
 
 Esyongyimba
+cane: ekiboko
+flip-flop: esilipa
 smart clothes/tucked in shirt: ekikalo
 article tied around waist/stole: omulemba
 bag/pocket: eyisaho/ekikapa
@@ -351,6 +356,7 @@ skirt: esikathi
 skirts: esyosikathi
 
 Hobbies
+team: omusambi
 music: omuziki
 enyabulere: flute
 book: ekitabo
@@ -529,6 +535,7 @@ it is about to rain/it's about to rain: embulha yikayawa
 it is raining/it's raining: embulha yinemuwa
 
 Verbs
+to pick teams: erironda
 to kill: eritha
 to accompany: erikwamanisya
 to poop: erinia
@@ -612,6 +619,7 @@ to bend over: eryunama
 to be late: erikerererwa
 to bend: erikata
 to feed/to herd: erilisya
+to roast: eryokya
 to roll: erilinga
 to hang: erihanika
 to count: eribala
@@ -671,19 +679,30 @@ to finish: eriwunza
 to reach/family/to be correct: erihika
 to look for: erisondya
 to suffer/to die: erikwa
+to go early in the morning: eritsunduka
 to come back to life after being buried: erilubuka
 to rain: eriwa
 to help: eriwathikya/eritsuna/eriyamba
 to fall over: erithera
+to draw: eritera
+to call: eritherera
 to fall: erithogha
 to refuse/to oppose: erighania/erighana
 to be full: erighutha/erisura
 to pray/to request: erisaba
 to play: erisatha
 to kick: erisamba/eripika
+to grow: erikula
 to greet: eriramukya
 to stand: erihangana/erimana
-to wake up/to remember: eribuka
+to add: eritaranizya
+to divide: erighaba
+to get up/to remember: eribuka
+to wake up: eritsumbuka
+to dream: erilotha
+to cover: eriswika
+to cover yourself: eriyiswika
+to receive: erimya
 to make/to do/to work: erikola
 to use: erikolesya
 to throw: erighusa
@@ -727,7 +746,9 @@ to hit/to cane: erihumba
 to bring: eriletha
 to eat: erirya
 to rest: erihumula
-to sleep: erikesya
+to sleep: eribotsera
+to lie down: erikesya
+to close your eyes/deep part of river: eririba
 to want/to like/to love: eryanza
 to settle: eritekana
 to tell: eribwira/erithula/erithulira
@@ -820,7 +841,11 @@ second child after twins: Kamala
 third child after twins: Kibaba
 
 Ebisoro
+snake: enzoka
+lizard: ekihangala
+mudfish: omukolo
 animal: ekisoro
+mother bird: eributhi
 grasshopper: omusyenene
 frog: ekikere
 bird: ekinyonyi
@@ -848,13 +873,18 @@ cocks: esyongokolome
 dove: akalikuku
 doves: othulikuku
 dovelike brown bird in bush: ekilikuku
-feather: ekyeya
-feathers: ebyeya
+feather: ekyeya/ekipupa
 elephant: enzowu
 
-Nature
-omusithu: forest/park
-omulonge: reed for flutes
+Obuhangwa
+lake: engetse
+branch: omuthahi
+flower: ekimole
+banana leaf: olhukoma
+leaf: ekikoma
+nature/creation: obuhangwa
+forest/park: omusithu
+reed for flutes: omulonge
 banana plant: emboko
 banana stem: omuhithihithi
 banana flower: embalabala
@@ -882,14 +912,15 @@ reeds: esiseke
 tree: omuthi
 trees: emithi
 kind of tree in mountains: omuthi owekisungu
-stone: eribwe
+stone/ash: eribwe
 stones: amabwe
 grass: ebithi
-leaf: ekithi
+blade of grass: ekithi
 mud: ebyondo
 rainbow: ekime
 
 Emyanya
+road: enguda
 above/over: ahiwulhu
 below/beneath/under: ahikwa
 place: omwanya
@@ -943,6 +974,7 @@ far: hali
 beside: ahali
 
 Adjectives
+roasted: kirye
 imported: nadiz
 local: ngonzo
 pregnant: kule
@@ -987,7 +1019,7 @@ when: mughulhu wahi/di
 which day: ekiro kyakangahi/kyakangahi
 
 Ekitsumbyo
-pot/pan: engungu
+pot/pan: enyungu
 millet: obulho
 sorghum: omuhenda
 basin: ebafu
@@ -1054,6 +1086,8 @@ tan: omusukwe
 brown: eru
 
 Miscellaneous
+rope: ekikoba
+sleep: othulho
 spear: erithumu
 wedding party: omukoro
 party: obughene
@@ -1063,6 +1097,7 @@ maybe: mbino
 shovel: ekitiyo
 hoe: eyisuka
 boat: eryathu
+boats: obwathu
 shadow/shade: ekitsutsu
 omuliro: fire
 broom: olhubiryo
