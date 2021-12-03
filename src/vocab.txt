@@ -69,8 +69,11 @@ where are you from?: wukalhwahi?/wukalhwa hayi?
 nice to meet you: ngatsemire ngakusangana/ngatsemire rikusangana
 
 Ebyalya
+millet: obulho
+sorghum: omuhenda
+wheat: engano
 fried meat: amakalangano
-fried bits: esyangalanga
+fried bits: esyongalanga
 starchy banana mixture: akatogo
 coffee: omwani
 passion fruit: erithunda
@@ -199,7 +202,7 @@ sheet: esithi
 
 Abandu
 twin: omuhasa
-a person of...: omunya...
+person of...: omunya...
 lover: omwanzi
 cook: omutsumbi
 singer: omwimbi
@@ -375,7 +378,8 @@ toy: ekidole/edole
 Basics
 every: oboli
 so/because: kusangwa
-because of: habwa
+because of: habwa/busana na
+even if: nomo
 then: ibwa
 and then/and now: neryo/neribwa
 now: hathia/esaha no
@@ -535,6 +539,9 @@ it is about to rain/it's about to rain: embulha yikayawa
 it is raining/it's raining: embulha yinemuwa
 
 Verbs
+to baptize: eribatizya
+to be right: erithunganana/erihikerera
+to be created: erihangikwa
 to pick teams: erironda
 to kill: eritha
 to accompany: erikwamanisya
@@ -579,7 +586,7 @@ to be taught: erisomesibwa/erithendekwa
 to stop/to not/to cause/to let: erileka
 to shave: erighemba
 to be shaved: erighembwa
-to fear: erisagha
+to fear: erisagha/eryubaha
 to be dirty: erikina
 to be good/to be smart: eriwana
 to be strong: eriwuma
@@ -723,7 +730,7 @@ to drive: erivuga
 to untie: erikundulha
 to air out: erihulhukya
 to ask: eribulya
-to get lost/to be away for a long time: eribula/erithala
+to get lost/to be away for a long time/to lack: eribula/erithala
 to forgive: erighanyira
 to hurt: eriluma
 to go home from work: erilumbuka/erikuluka
@@ -745,12 +752,13 @@ to walk: eriryatha
 to hit/to cane: erihumba
 to bring: eriletha
 to eat: erirya
-to rest: erihumula
+to rest: erihumula/eriluhuka
 to sleep: eribotsera
 to lie down: erikesya
 to close your eyes/deep part of river: eririba
 to want/to like/to love: eryanza
-to settle: eritekana
+to settle (thing)/to be calm (thing): eriteka
+to settle (person)/to be calm (person): eritekana
 to tell: eribwira/erithula/erithulira
 to see/to look at/to watch: erirebya/erisamalira/erilangera/erithungerera
 to have to: eritholera
@@ -841,6 +849,7 @@ second child after twins: Kamala
 third child after twins: Kibaba
 
 Ebisoro
+rat: embeba
 snake: enzoka
 lizard: ekihangala
 mudfish: omukolo
@@ -877,6 +886,7 @@ feather: ekyeya/ekipupa
 elephant: enzowu
 
 Obuhangwa
+tree vanilla grows on: ekisogasoga
 lake: engetse
 branch: omuthahi
 flower: ekimole
@@ -920,6 +930,8 @@ mud: ebyondo
 rainbow: ekime
 
 Emyanya
+valley: omusya
+pasture: olulisiryo
 road: enguda
 above/over: ahiwulhu
 below/beneath/under: ahikwa
@@ -971,7 +983,7 @@ I am there (far): nganerya
 you (pl) are there (far): munerya
 near/close: hakuhi
 far: hali
-beside: ahali
+beside/where there is: ahali
 
 Adjectives
 roasted: kirye
@@ -1020,8 +1032,6 @@ which day: ekiro kyakangahi/kyakangahi
 
 Ekitsumbyo
 pot/pan: enyungu
-millet: obulho
-sorghum: omuhenda
 basin: ebafu
 small basin: etasi
 bottle: etsupa
@@ -1086,6 +1096,8 @@ tan: omusukwe
 brown: eru
 
 Miscellaneous
+rod: omwigho
+staff: ekibingyo
 rope: ekikoba
 sleep: othulho
 spear: erithumu
