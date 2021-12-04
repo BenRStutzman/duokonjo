@@ -659,7 +659,8 @@ to listen: erihulikirira
 to light/to turn on: eryakya
 to shine: eryaka
 to turn off: eririmya
-to be hot/to burn: erihisya
+to be hot/to burn (transitive): erihisya
+to burn (intransitive): erihya
 to manage: erithoka
 to articulate: erisobola
 to win/to beat: erisinga/eriswirya
@@ -730,7 +731,7 @@ to drive: erivuga
 to untie: erikundulha
 to air out: erihulhukya
 to ask: eribulya
-to get lost/to be away for a long time/to lack: eribula/erithala
+to be lost/to be away for a long time/to lack: eribula/erithala
 to forgive: erighanyira
 to hurt: eriluma
 to go home from work: erilumbuka/erikuluka
@@ -967,7 +968,7 @@ large market: ekitale
 shop: eduka
 church: ekanisa
 hotel: ehuteri
-playground: ekizaniro
+playground: ekizaniro/ekisaho
 school: esukuru
 schools: amasukuru
 village: ekyalo
@@ -1068,7 +1069,7 @@ ekibafu: bathtub
 
 Esukuru
 expert/senior: omusiniya
-education: ekisomo
+education/service: ekisomo
 higher education: ekisomo kyahiwulhu
 teacher: omuhalimu/omuthendeki/omusomesya
 student: omuthendekwa/omwana wesukuru
@@ -1101,8 +1102,8 @@ staff: ekibingyo
 rope: ekikoba
 sleep: othulho
 spear: erithumu
-wedding party: omukoro
-party: obughene
+wedding: obughene bwerithahya/obughene bwerihukya
+party: obughene/omukoro
 pencil lead: akakala
 brick: eritafale
 maybe: mbino
@@ -1141,7 +1142,7 @@ gift: ekisembo/ekihembo
 difference: empaghane
 middle/between: ahakathikathi
 razor: egiritha
-bump: ekikungulhu
+bump: ekikungulhe
 pole: ekikondo
 laughter: amaseka
 question: ekibulyo
