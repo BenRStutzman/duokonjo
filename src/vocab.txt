@@ -82,7 +82,6 @@ breakfast: ekyengyakya
 lunch: ekyemisana
 dinner/supper: ekyakiro
 chapati and beans: ekikomando
-sauce: omukubi
 food: ebyalya
 sweet bread: erindazi
 banana juice: eyisande
@@ -1013,7 +1012,7 @@ ripe: rire
 all: si
 
 Ebibulyo
-how much: ngahi
+how much/how many/which: ngahi
 why: habwaki
 where: hayi/hi
 who: nindi
@@ -1047,7 +1046,7 @@ spoon: ekigyiko
 fork: ekigyiko kyefoko
 dish: esahani/ebakuli
 cup: ekikopo
-soup: emboka/omukubi
+soup/sauce: emboka/omukubi
 ghee: amaghuta wende
 knife: omuhamba
 panga: ekipanga
@@ -1079,7 +1078,7 @@ paper (pl): esyombapura
 pen: ekalamu
 pencil: ekikala
 computer: ekyuma kyakalimagezi
-notebook: ekitabo kyerihandikamu mwabikuhi
+notebook: ekitabo kyerihandikamo mwabikuhi
 meeting: endeko
 backpack: eyisaho yokomuwongo
 class: ekitebe
