@@ -200,6 +200,7 @@ bed: engyingo
 sheet: esithi
 
 Abandu
+enemy: enzighu
 twin: omuhasa
 person of...: omunya...
 lover: omwanzi
@@ -212,7 +213,7 @@ reverend/shepherd: omulisya
 stooge: ekyombolerya
 person: omundu
 people: abandu
-king: omusinga
+king: omusinga/omukama
 boy: omojo
 girl: omusika
 man: omulume
@@ -315,6 +316,7 @@ thigh: ekihinga
 thighs: ebihinga
 
 Edini
+cross: omusalaba
 religion: edini
 ghost: omulimu
 blessing/good luck: omuyisa
@@ -375,6 +377,12 @@ drumbeat: ekighasa
 toy: ekidole/edole
 
 Basics
+the one who (present): eyika
+the one who (past): eyirya
+the one who (distant past): eyiwo
+the ones who (present): abaka
+the ones who (past): abalya
+the ones who (distant past): abawo
 every: oboli
 so/because: kusangwa
 because of: habwa/busana na
@@ -538,6 +546,15 @@ it is about to rain/it's about to rain: embulha yikayawa
 it is raining/it's raining: embulha yinemuwa
 
 Verbs
+to overflow: eritswagha/eribogha
+to prepare: erikokotya
+to prepare for someone: erikokoterya
+to make someone suffer: eritesa
+to preach: eritebezya
+to vote: erikoma
+to help lift: erihekya
+to grow in size: erineneha
+to live: eribyaho
 to baptize: eribatizya
 to be right: erithunganana/erihikerera
 to be created: erihangikwa
@@ -930,6 +947,7 @@ mud: ebyondo
 rainbow: ekime
 
 Emyanya
+Israel: Eyisaleri
 valley: omusya
 pasture: olulisiryo
 road: enguda
@@ -1038,7 +1056,7 @@ bottle: etsupa
 tray: etureya
 bowl: ebakuli yomukubi/esahani yomukubi
 plate: ebakuli yebyalya/esahani yebyalya
-gourd container: endekwa
+gourd container: endekwa/oluthehi
 gourd container for alcohol: ekisya
 jug/jar: egyaga
 tap: etapu
@@ -1067,6 +1085,8 @@ shower: eryowero
 ekibafu: bathtub
 
 Esukuru
+verse: omulondo
+chapter: esura
 expert/senior: omusiniya
 education/service: ekisomo
 higher education: ekisomo kyahiwulhu
@@ -1096,6 +1116,8 @@ tan: omusukwe
 brown: eru
 
 Miscellaneous
+suffering: eriteseka
+election: obukome
 rod: omwigho
 staff: ekibingyo
 rope: ekikoba
@@ -1164,8 +1186,8 @@ word: ekinywa
 peace: obuholho
 forward: embere
 fart: ekinyambo
-life: obuyingo
-money: esyosente
+life: obuyingo/engebe
+money: esyosente/esyombulo
 website: ewebusayithi
 reason: esonga
 reasons: esyosonga
@@ -1198,4 +1220,7 @@ bait: ekyambo
 baits: ebyambo
 beauty: obubuya
 jealousy: obuha
-love: olwanzu
+love: olwanzo
+dwelling: obwikalo
+long ago: kera
+infinity/forever: kera na kera
