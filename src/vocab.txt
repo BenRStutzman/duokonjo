@@ -33,7 +33,7 @@ how is it?: kithiki?
 how have things been?: biribithi?
 good morning: obukyire/wabukire/bwakere
 good afternoon/good evening: wasibire
-what's new?: wamathasyowa wahi?/wundi wahi?
+what's new?: wamathasyowa wahi?/wundi wahi?/wahi nowundi?
 it's morning/it is morning: bwamakya/bwabirikya/bwamabirikya
 it's afternoon/it is afternoon: bwabirisiba/bwamasiba/bwamabirisiba
 it's night/it is night: bwamabirira/bwabirira/bwamira
@@ -169,7 +169,7 @@ ekidongo: wall
 house: enyumba
 houses: esyonyumba
 lamp: etara
-home: eka
+home: eka/omuyi
 homes: amaka
 table: emeza
 tables: esyomeza
@@ -368,7 +368,7 @@ books: ebitabo
 radio: eradiyo
 song: olhwimbo
 songs: esyonyimbo
-ball/football/Protestant: omupira
+ball/football/Protestant/wheel: omupira
 bike: egali
 netball: omupira owabakali
 game: amasatha
@@ -404,7 +404,6 @@ yes/to/from/at: e
 no: ayihi/eeyihi
 and/with/who (relative): na
 and (verb): kandi
-because: habwa
 or: kwisi/kutse
 I didn't understand: singathakenga
 I didn't hear: singathowa/singowire
@@ -546,6 +545,7 @@ it is about to rain/it's about to rain: embulha yikayawa
 it is raining/it's raining: embulha yinemuwa
 
 Verbs
+to go around/to rotate/to spin: erithimba
 to overflow: eritswagha/eribogha
 to prepare: erikokotya
 to prepare for someone: erikokoterya
@@ -630,7 +630,7 @@ to tie: eriboha
 to get dark: erira
 to get light: erikya
 to slaughter: erikera
-to send (a person): erithuma
+to send (person): erithuma
 to forget: eribirirwa
 to taste/to taste good: erisiha
 to leave: erisigha
@@ -765,7 +765,7 @@ to teach: erisomesya/erithendeka
 to read/to learn/to study: erisoma/eriyigha
 to write: erihandika
 to run: erithibitha
-to walk: eriryatha
+to walk/to step: eriryatha
 to hit/to cane: erihumba
 to bring: eriletha
 to eat: erirya
@@ -782,11 +782,11 @@ to have to: eritholera
 to take back/to restore/to talk about a story someone else is talking about: erisubya
 
 Irregular verbs
-I am: ngali/nyiri
-you are: wuli
-you (pl) are: muli
-we are: thuli
-he is/she is: ali
+I am: ngali/nyiri/ngane
+you are: wuli/wune
+you (pl) are: muli/mune
+we are: thuli/thune
+he is/she is: ali/ane
 I have: ngawithe/nganawithe/ngwithe
 you have: wuwithe
 he has/she has: awithe
@@ -925,7 +925,7 @@ ditch: omufleghe
 mountain: ekithwa
 pit: ekighuma
 seed: akaghuma
-palm tree: omuthi owekyingasi
+palm tree: omuthi wekyingasi
 dirt/soil: omuthaka
 star: engununu
 raised land where you can't grow crops: obwerere
@@ -938,7 +938,7 @@ reed: olhuseke
 reeds: esiseke
 tree: omuthi
 trees: emithi
-kind of tree in mountains: omuthi owekisungu
+kind of tree in mountains: omuthi wekisungu
 stone/ash: eribwe
 stones: amabwe
 grass: ebithi
@@ -1040,7 +1040,7 @@ whom (pl): bahi
 what: ki
 how (I)/that (I): nyithi
 how (you)/that (you): wuthi
-how (he)/how (she)/that (he)/that (she): athi
+how (he)/how (she)/that (he)/that (she): athi/ambo
 how (we)/that (we): thuthi
 how (you (pl))/that (you (pl)): muthi
 how (they)/that (they): bathi/ambuki
@@ -1116,6 +1116,7 @@ tan: omusukwe
 brown: eru
 
 Miscellaneous
+what you are doing: eykawuliko
 suffering: eriteseka
 election: obukome
 rod: omwigho
@@ -1184,7 +1185,7 @@ knowledge: amagezi
 shortness: obukuhi
 word: ekinywa
 peace: obuholho
-forward: embere
+forward/in front: embere
 fart: ekinyambo
 life: obuyingo/engebe
 money: esyosente/esyombulo
