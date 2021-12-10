@@ -200,6 +200,7 @@ bed: engyingo
 sheet: esithi
 
 Abandu
+soldier: omugyesi/omusirikali
 enemy: enzighu
 twin: omuhasa
 person of...: omunya...
@@ -316,6 +317,7 @@ thigh: ekihinga
 thighs: ebihinga
 
 Edini
+Satan: Sithani
 cross: omusalaba
 religion: edini
 ghost: omulimu
@@ -342,8 +344,8 @@ mask: ekideghu
 masks: ebideghu
 shoe: engetha
 shoes: esyongetha
-trousers: embali
-trousers (pl): esyombali
+trousers/red ant: embali
+trousers (pl)/red ants: esyombali
 shorts: ekitsweka
 shorts (pl): ebitsweka
 shirt: esathi
@@ -415,6 +417,7 @@ he (here)/she (here): oyu/iyu
 he (there)/she (there): oyo/iyo
 we: ithwe
 you (pl): inywe
+all of you (pl): inywe bosi/inyo bosi
 they (here): aba
 they (there): abo
 I am (name): ningye
@@ -439,8 +442,8 @@ and us/with us: nethu
 and you (pl)/with you (pl): nenyu
 and them/with them: nabo
 
-Esyonamba
-number: enamba
+Esyosura
+number/chapter: esura/enamba
 one: nguma
 two: ibiri
 three: isathu
@@ -606,6 +609,7 @@ to fear: erisagha/eryubaha
 to be dirty: erikina
 to be good/to be smart: eriwana
 to be strong: eriwuma
+to throw down: erithinera
 to go over/to set: erilenga
 to rub/to mash/to knead: erikama
 to be there: eribyayo
@@ -645,7 +649,7 @@ to feed/to herd: erilisya
 to roast: eryokya
 to roll: erilinga
 to hang: erihanika
-to count: eribala
+to count: eribala/erighanza
 to be happy: eritsema
 to break: eribuna
 to bifurcate/to spit: erithwa
@@ -866,6 +870,7 @@ second child after twins: Kamala
 third child after twins: Kibaba
 
 Ebisoro
+ant: engulubebe
 rat: embeba
 snake: enzoka
 lizard: ekihangala
@@ -947,6 +952,7 @@ mud: ebyondo
 rainbow: ekime
 
 Emyanya
+Buganda: Ebughanda
 Israel: Eyisaleri
 valley: omusya
 pasture: olulisiryo
@@ -1086,7 +1092,6 @@ ekibafu: bathtub
 
 Esukuru
 verse: omulondo
-chapter: esura
 expert/senior: omusiniya
 education/service: ekisomo
 higher education: ekisomo kyahiwulhu
@@ -1116,6 +1121,7 @@ tan: omusukwe
 brown: eru
 
 Miscellaneous
+buy for me: wungulire
 what you are doing: eykawuliko
 suffering: eriteseka
 election: obukome
@@ -1145,7 +1151,7 @@ pain: obulumi
 gun: embundu
 grace: eneema
 lunchtime: emisana
-line: elayina
+line: elayina/omulala
 example: ekyerirebyako
 by myself: ingyuwene
 by yourself: iwuwene
@@ -1159,7 +1165,7 @@ that's good: hakyire/kyowene
 quickly/hurry up: lubaluba/anguha
 come on: bathami
 corpse: omulambo
-energy/strength: amani
+energy/strength: amani/akaghala
 gift: ekisembo/ekihembo
 difference: empaghane
 middle/between: ahakathikathi
@@ -1177,13 +1183,14 @@ light: ekyubanu
 darkness of night: omwirima
 truth: okwenene
 plastic bag: ekivera
-vowel: enzoboli
+vowel: enzoboli/embuyi
 consonant: enguthu
 metal: ekyuma
 air/cold: embeho
 knowledge: amagezi
 shortness: obukuhi
 word: ekinywa
+letter: enzakano
 peace: obuholho
 forward/in front: embere
 fart: ekinyambo
