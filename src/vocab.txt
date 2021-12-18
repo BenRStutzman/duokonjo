@@ -591,7 +591,7 @@ to get annoyed: eripona
 to think: erilengekania
 to create/country: erihanga
 to look behind/to mark: erikebera
-to send (a thing): eritsindika
+to send (thing): eritsindika
 to open with hands: erihatha
 to be about to: erikisiya
 to wear/to put on: eryambala
@@ -1015,7 +1015,6 @@ imported: nadiz
 local: ngonzo
 pregnant: kule
 correct: hikire
-other: ndi
 new: hyaka
 first: kubanza
 happy: tsema
@@ -1041,7 +1040,7 @@ why: habwaki
 where: hayi/hi
 who: nindi
 who (pl): nibahi
-whom: ndi
+whom/other: ndi
 whom (pl): bahi
 what: ki
 how (I)/that (I): nyithi
@@ -1159,8 +1158,8 @@ by himself/by herself: iyowene
 by ourselves: ithubene
 by yourselves: inyubene
 by themselves: ibabene
-that's why: ekyalekire/ekyalekire/ekikaleka
-letter: ebaruha
+that's why: ekyalekire/ekikaleka
+letter (mail): ebaruha
 that's good: hakyire/kyowene
 quickly/hurry up: lubaluba/anguha
 come on: bathami
