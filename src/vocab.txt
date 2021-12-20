@@ -210,7 +210,7 @@ singer: omwimbi
 driver: omuvugi/omudirevu
 pregnant person: omukule
 Christian: omukristayo
-reverend/shepherd: omulisya
+pastor/shepherd: omulisya
 stooge: ekyombolerya
 person: omundu
 people: abandu
@@ -317,6 +317,8 @@ thigh: ekihinga
 thighs: ebihinga
 
 Edini
+bishop: edishop
+reverend: omwahuli
 Satan: Sithani
 cross: omusalaba
 religion: edini
@@ -362,6 +364,7 @@ skirt: esikathi
 skirts: esyosikathi
 
 Hobbies
+dance: amahothole/amabina
 team: omusambi
 music: omuziki
 enyabulere: flute
@@ -548,6 +551,7 @@ it is about to rain/it's about to rain: embulha yikayawa
 it is raining/it's raining: embulha yinemuwa
 
 Verbs
+to cross: erisoka
 to go around/to rotate/to spin: erithimba
 to overflow: eritswagha/eribogha
 to prepare: erikokotya
@@ -595,7 +599,7 @@ to send (thing): eritsindika
 to open with hands: erihatha
 to be about to: erikisiya
 to wear/to put on: eryambala
-to return (intransitive): erisubulha
+to return (intransitive): erisubulha/erisuba
 to return (transitive): erisubulya
 to go to and return: erisubulira
 to turn: eribinduka
@@ -640,7 +644,7 @@ to taste/to taste good: erisiha
 to leave: erisigha
 to whistle: erisuwunda
 to visit: eribunga
-to fast/to afternoon: erisiba
+to fast/to afternoon/to delay: erisiba
 to extend: erisegherya
 to bend over: eryunama
 to be late: erikerererwa
@@ -654,7 +658,6 @@ to be happy: eritsema
 to break: eribuna
 to bifurcate/to spit: erithwa
 to understand: erikenga
-to come back to life: erisuba
 to answer/to repeat after/to reply: erisubamo
 to be next/to reach abruptly: eritsubuka
 to follow: erikwama
@@ -680,7 +683,9 @@ to light/to turn on: eryakya
 to shine: eryaka
 to turn off: eririmya
 to be hot/to burn (transitive): erihisya
-to burn (intransitive): erihya
+to burn (intransitive)/to be ready (food): erihya
+to respect: erisikya
+to be respected: erisikibwa
 to manage: erithoka
 to articulate: erisobola
 to win/to beat: erisinga/eriswirya
@@ -691,6 +696,7 @@ to lay/to make (a bed): erisesa
 to ripen: eryera
 to bake: eribumba
 to be unfit: erisuha
+to trap (ball): erimania
 to mean: erimanyisya
 to lose/to sharpen: erithalya
 to hear/to feel: eryowa
@@ -723,7 +729,10 @@ to kick: erisamba/eripika
 to grow: erikula
 to greet: eriramukya
 to stand: erihangana/erimana
-to add: eritaranizya
+to add: eritaranizya/eryongera
+to dance: erihothola
+to scare: erithinga
+to brush: erisiga
 to divide: erighaba
 to get up/to remember: eribuka
 to wake up: eritsumbuka
@@ -736,8 +745,9 @@ to use: erikolesya
 to throw: erighusa
 to take: erithwala
 to sing/to give me: erimba
-to give: eriha
+to give/to get: eriha
 to open: erikyungula
+to clean/to be clean: erihenia
 to close: erikyinga
 to hoe/land: eririma
 to be from/to come from/to fight/to leak: erilhwa
@@ -752,6 +762,7 @@ to untie: erikundulha
 to air out: erihulhukya
 to ask: eribulya
 to be lost/to be away for a long time/to lack: eribula/erithala
+to be gone somewhere: eribulira
 to forgive: erighanyira
 to hurt: eriluma
 to go home from work: erilumbuka/erikuluka
@@ -908,6 +919,7 @@ feather: ekyeya/ekipupa
 elephant: enzowu
 
 Obuhangwa
+stream: omughende
 tree vanilla grows on: ekisogasoga
 lake: engetse
 branch: omuthahi
@@ -941,8 +953,8 @@ river: olhusi
 rivers: esyonyusi
 reed: olhuseke
 reeds: esiseke
-tree: omuthi
-trees: emithi
+tree/stick: omuthi
+trees/sticks: emithi
 kind of tree in mountains: omuthi wekisungu
 stone/ash: eribwe
 stones: amabwe
@@ -1045,7 +1057,8 @@ whom (pl): bahi
 what: ki
 how (I)/that (I): nyithi
 how (you)/that (you): wuthi
-how (he)/how (she)/that (he)/that (she): athi/ambo
+how (he)/how (she)/that (he)/that (she): athi
+someone said: ambu
 how (we)/that (we): thuthi
 how (you (pl))/that (you (pl)): muthi
 how (they)/that (they): bathi/ambuki
@@ -1109,8 +1122,8 @@ class: ekitebe
 file: efayiro
 math: ekibalo
 
-Esyokala
-color: ekala
+Esyorangyi
+color: erangyi
 black/darkness: ekirima
 red/blood: omusasi
 yellow/weaver bird: ekisande
@@ -1120,6 +1133,7 @@ tan: omusukwe
 brown: eru
 
 Miscellaneous
+kind/type: engere
 buy for me: wungulire
 what you are doing: eykawuliko
 suffering: eriteseka
