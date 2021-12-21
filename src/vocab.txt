@@ -402,7 +402,6 @@ the saying: emibughire
 but: bethu
 very much: kutsibo
 very very much: kutsibutsibo
-some: obwi
 Lukonjo: Olhukonzo
 of or relating to Konjo: kikonzo
 yes/to/from/at: e
@@ -420,7 +419,7 @@ he (here)/she (here): oyu/iyu
 he (there)/she (there): oyo/iyo
 we: ithwe
 you (pl): inywe
-all of you (pl): inywe bosi/inyo bosi
+all of you/you all: inywe bosi/inyo bosi
 they (here): aba
 they (there): abo
 I am (name): ningye
@@ -432,7 +431,7 @@ they are (name): nibo
 nothing: wapi
 there is not/there isn't: sihali
 in/into: omo
-on/a share of/by/about: oko/okwa
+on/a share of/by/about/some: oko/okwa
 this (thing): eki
 that (thing): ekyo
 these (things): ebi
@@ -1159,7 +1158,7 @@ like (verb): ngoko
 like (noun): nge
 eve: ekyamaraliyo
 religious holiday: ekiro kikulu
-noise/sound: ethoko
+noise/sound: etoko
 pain: obulumi
 gun: embundu
 grace: eneema
