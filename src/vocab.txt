@@ -128,7 +128,6 @@ pancakes: emigathi yameru
 eggplant: ebirinkani
 lil' green eggplant: endakala
 tea: ekyayi
-egg: eriya
 eggs: amaya
 bread: omugathi
 milk: amathe
@@ -200,6 +199,7 @@ bed: engyingo
 sheet: esithi
 
 Abandu
+liar: omubehi
 soldier: omugyesi/omusirikali
 enemy: enzighu
 twin: omuhasa
@@ -534,7 +534,9 @@ Thursday: kyakani
 Friday: kyakathano
 Saturday: kyamukagha
 Sunday: kyasabithi/kyasande
-early: luba
+early/earlier: luba
+before: hambere
+after: hanyuma
 
 Feelings
 I am tired/I'm tired: ngaluhire
@@ -548,8 +550,13 @@ rain: embulha
 cloud: ekithu
 it is about to rain/it's about to rain: embulha yikayawa
 it is raining/it's raining: embulha yinemuwa
+lightning: akarabyo
 
 Verbs
+to face: erisamalirana
+to get from there: erihayo
+to lie/to deceive: eritheba
+to ask a lot: erikazia
 to cross: erisoka
 to go around/to rotate/to spin: erithimba
 to overflow: eritswagha/eribogha
@@ -586,6 +593,7 @@ to be said/to be spoken: eribughwa
 to resemble: erisosa
 to enter: eringira
 to jump: eriyitsada
+to move out: erihulhuka
 to skip: erikyuruka
 to pluck/to tear out: eritsupa
 to guide: erisondola
@@ -623,6 +631,7 @@ to chew: eritakunya
 to sweep: eribirya
 to swallow: erimera
 to chase: eribinga
+to be broken: eribunika
 to be found: eribanika
 to be first: eribanza
 to be last: eriwunzerera
@@ -720,7 +729,8 @@ to fall over: erithera
 to draw: eritera
 to call: eritherera
 to fall: erithogha
-to refuse/to oppose: erighania/erighana
+to refuse: erighana
+to oppose: erighania
 to be full: erighutha/erisura
 to pray/to request: erisaba
 to play: erisatha
@@ -750,7 +760,7 @@ to clean/to be clean: erihenia
 to close: erikyinga
 to hoe/land: eririma
 to be from/to come from/to fight/to leak: erilhwa
-to be busy: erisurusutha
+to be busy: erisurusutha/erisumbukana
 to come/to be back: eryasa
 to be: eribya
 to put: erihira
@@ -758,7 +768,8 @@ to buy: eriwulha
 to sell: eriwulhya
 to drive: erivuga
 to untie: erikundulha
-to air out: erihulhukya
+to thunder: erilhuma/eripura
+to toss to remove dirt/to take out/to print: erihulhukya
 to ask: eribulya
 to be lost/to be away for a long time/to lack: eribula/erithala
 to be gone somewhere: eribulira
@@ -771,7 +782,7 @@ to thank: erisima
 to know: erimenya
 to speak/to say: eribugha/erikania
 to have: erithunga
-to go: erighenda
+to go: erighenda/eriya
 to force: erikaka
 to stay/to sit/to be hard/charcoal: erikala
 to catch: erihamba
@@ -882,6 +893,7 @@ third child after twins: Kibaba
 Ebisoro
 ant: engulubebe
 rat: embeba
+mouse: embeba eyomususa
 snake: enzoka
 lizard: ekihangala
 mudfish: omukolo
@@ -1132,6 +1144,10 @@ tan: omusukwe
 brown: eru
 
 Miscellaneous
+medicine: omubathi
+paka: until/still
+malaria: omutsutsa
+like that: kuthia
 kind/type: engere
 buy for me: wungulire
 what you are doing: eykawuliko
@@ -1194,6 +1210,7 @@ names: amena
 light: ekyubanu
 darkness of night: omwirima
 truth: okwenene
+lie: ebisuba/amabehi
 plastic bag: ekivera
 vowel: enzoboli/embuyi
 consonant: enguthu
