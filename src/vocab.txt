@@ -56,9 +56,9 @@ there is good/there is fine: yinuwene
 how was your day?: ekiro kyaberekyithi?
 are you OK?: wunakalire?/wunendeke?
 yes?: wankyi?
-welcome/we are fine/we're fine: thuneyo
-we are fine (specific)/we're fine (specific): thuneko
-we are fine (inside)/we're fine (inside): thunemo
+welcome/we are fine/we're fine/we are there/we're there: thuneyo
+we are fine (specific)/we're fine (specific)/we are here (specific)/we're here (specific): thuneko
+we are fine (inside)/we're fine (inside)/we are here (inside)/we're here (inside): thunemo
 goodbye/bye: bukyaghe
 have a good day: wusibe buholho
 
@@ -69,6 +69,8 @@ where are you from?: wukalhwahi?/wukalhwa hayi?
 nice to meet you: ngatsemire ngakusangana/ngatsemire rikusangana
 
 Ebyalya
+intestines with blood: omuwuba
+peanut butter: odi
 millet: obulho
 sorghum: omuhenda
 wheat: engano
@@ -199,7 +201,10 @@ bed: engyingo
 sheet: esithi
 
 Abandu
+waiter: omulindiriri
+worker: omukoli
 liar: omubehi
+guard: omulindi
 soldier: omugyesi/omusirikali
 enemy: enzighu
 twin: omuhasa
@@ -317,6 +322,7 @@ thigh: ekihinga
 thighs: ebihinga
 
 Edini
+Happy holiday: wasingya ekiro kikulu/wasingya erikihikako
 bishop: edishop
 reverend: omwahuli
 Satan: Sithani
@@ -431,7 +437,9 @@ they are (name): nibo
 nothing: wapi
 there is not/there isn't: sihali
 in/into: omo
+contains: omuli
 on/a share of/by/about/some: oko/okwa
+has on top: okuli
 this (thing): eki
 that (thing): ekyo
 these (things): ebi
@@ -510,6 +518,7 @@ the time is...: ni saha.../saha...
 hour/clock/watch: esaha
 hours/clocks/watches: esyosaha
 minute: edakika
+second: akathikithiki
 year: omwaka
 years: emyaka
 today: munabwire
@@ -565,6 +574,7 @@ to prepare for someone: erikokoterya
 to make someone suffer: eritesa
 to preach: eritebezya
 to vote: erikoma
+to lift: eriheka/erisumba
 to help lift: erihekya
 to grow in size: erineneha
 to live: eribyaho
@@ -574,7 +584,7 @@ to be created: erihangikwa
 to pick teams: erironda
 to kill: eritha
 to accompany: erikwamanisya
-to poop: erinia
+to poop/to lay (egg): erinia
 to pee: erisubalha
 to dodge: erikyanga/eriwepa
 to collect/to gather: erisorokya
@@ -679,6 +689,7 @@ to be wet: eritsapa
 to wait/to protect: erilinda
 to wash: eryoya
 to show: erikangya
+to be pregnant (animal): erihaka
 to withdraw/to remove/to subtract: erihako
 to pick: erihwenda
 to vomit: erisala
@@ -711,7 +722,7 @@ to hear/to feel: eryowa
 to bathe: eryogha
 to wash (body): erinaba
 to draw (water)/to shovel: eritheha
-to lift: erisumba
+to rub: erisumura
 to end: erihwa
 to run out (on): erihwako
 to run out (in): erihwamo
@@ -780,7 +791,7 @@ to knock: eritomera
 to eat greedily: erithomera
 to thank: erisima
 to know: erimenya
-to speak/to say: eribugha/erikania
+to speak/to say/to talk: eribugha/erikania
 to have: erithunga
 to go: erighenda/eriya
 to force: erikaka
@@ -799,7 +810,7 @@ to sleep: eribotsera
 to lie down: erikesya
 to close your eyes/deep part of river: eririba
 to want/to like/to love: eryanza
-to settle (thing)/to be calm (thing): eriteka
+to settle (thing)/to be calm (thing)/to place (thing): eriteka
 to settle (person)/to be calm (person): eritekana
 to tell: eribwira/erithula/erithulira
 to see/to look at/to watch: erirebya/erisamalira/erilangera/erithungerera
@@ -930,6 +941,8 @@ feather: ekyeya/ekipupa
 elephant: enzowu
 
 Obuhangwa
+crop: ekirimwa
+tubey plant: akayengye
 stream: omughende
 tree vanilla grows on: ekisogasoga
 lake: engetse
@@ -1043,7 +1056,8 @@ first: kubanza
 happy: tsema
 dried/dry: mire
 fresh: bisi
-good: ndeke/wene
+good: wene
+well: ndeke
 bad: bi
 badly: nabi
 beautiful/handsome/pretty: buya
@@ -1110,7 +1124,7 @@ charcoal (pl)/difficulty: amakala
 
 Ekyowero
 soap: esabuni
-shower: eryowero
+bathing place: eryowero
 ekibafu: bathtub
 
 Esukuru
@@ -1144,13 +1158,14 @@ tan: omusukwe
 brown: eru
 
 Miscellaneous
+wish/desire: engumbu
 medicine: omubathi
 paka: until/still
 malaria: omutsutsa
 like that: kuthia
 kind/type: engere
 buy for me: wungulire
-what you are doing: eykawuliko
+what you are doing: ekyawuliko
 suffering: eriteseka
 election: obukome
 rod: omwigho
@@ -1210,7 +1225,8 @@ names: amena
 light: ekyubanu
 darkness of night: omwirima
 truth: okwenene
-lie: ebisuba/amabehi
+lie: ekisuba
+lying: amabehi
 plastic bag: ekivera
 vowel: enzoboli/embuyi
 consonant: enguthu
