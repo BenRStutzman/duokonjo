@@ -337,7 +337,7 @@ Catholicism: ekikatuliki
 elastic/old tire/large ball/Protestantism: ekipira
 Mary, mother of Jesus: Bikira Maliya
 Christmas: ekiro kikulu kyeributhwa lyayesu
-Good Frieday: ekiro kikulu kyerikwa lyayesu
+Good Friday: ekiro kikulu kyerikwa lyayesu
 Easter: ekiro kikulu kyerilubuka lyayesu
 
 Esyongyimba
@@ -381,7 +381,7 @@ song: olhwimbo
 songs: esyonyimbo
 ball/football/Protestant/wheel: omupira
 bike: egali
-netball: omupira owabakali
+netball: omupira wabakali
 game: amasatha
 card: eritatu
 drumbeat: ekighasa
@@ -783,7 +783,7 @@ to thunder: erilhuma/eripura
 to toss to remove dirt/to take out/to print: erihulhukya
 to ask: eribulya
 to be lost/to be away for a long time/to lack: eribula/erithala
-to be gone somewhere: eribulira
+to be away somewhere: eribulira
 to forgive: erighanyira
 to hurt: eriluma
 to go home from work: erilumbuka/erikuluka
@@ -1173,7 +1173,7 @@ staff: ekibingyo
 rope: ekikoba
 sleep: othulho
 spear: erithumu
-wedding: obughene bwerithahya/obughene bwerihukya
+wedding: obughene bwerithahya/obughene bweriherukya
 party: obughene/omukoro
 pencil lead: akakala
 brick: eritafale
