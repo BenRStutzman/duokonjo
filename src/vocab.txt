@@ -53,7 +53,7 @@ hey: sawa
 what are you speaking?/what are you saying?/how's it going?: wukabughaki?
 how is there?: yinewahi?/yiriwahi?
 there is good/there is fine: yinuwene
-how was your day?: ekiro kyaberekyithi?
+how was your day?/how has your day been?: ekiro kyaberekyithi?
 are you OK?: wunakalire?/wunendeke?
 yes?: wankyi?
 welcome/we are fine/we're fine/we are there/we're there: thuneyo
@@ -201,6 +201,7 @@ bed: engyingo
 sheet: esithi
 
 Abandu
+Rwenzururite: omunyarwenzururu
 waiter: omulindiriri
 worker: omukoli
 liar: omubehi
@@ -397,6 +398,7 @@ the ones who (distant past): abawo
 every: oboli
 so/because: kusangwa
 because of: habwa/busana na
+for only: ahabwa
 even if: nomo
 then: ibwa
 and then/and now: neryo/neribwa
@@ -574,8 +576,11 @@ to prepare for someone: erikokoterya
 to make someone suffer: eritesa
 to preach: eritebezya
 to vote: erikoma
-to lift: eriheka/erisumba
+to lift: erisumba
+to carry: eriheka
 to help lift: erihekya
+to pick up: erisongya
+to chop/to split: erisathangya
 to grow in size: erineneha
 to live: eribyaho
 to baptize: eribatizya
@@ -603,7 +608,7 @@ to be said/to be spoken: eribughwa
 to resemble: erisosa
 to enter: eringira
 to jump: eriyitsada
-to move out: erihulhuka
+to move out/to go out: erihulhuka
 to skip: erikyuruka
 to pluck/to tear out: eritsupa
 to guide: erisondola
@@ -622,6 +627,7 @@ to go to and return: erisubulira
 to turn: eribinduka
 to crow/to keep: eribika
 to be late morning: erikererera
+to delay: erikererezya
 to be taught: erisomesibwa/erithendekwa
 to stop/to not/to cause/to let: erileka
 to shave: erighemba
@@ -691,7 +697,6 @@ to wash: eryoya
 to show: erikangya
 to be pregnant (animal): erihaka
 to withdraw/to remove/to subtract: erihako
-to pick: erihwenda
 to vomit: erisala
 to sew: erisona
 to cough: erikohola
@@ -770,11 +775,12 @@ to open: erikyungula
 to clean/to be clean: erihenia
 to close: erikyinga
 to hoe/land: eririma
+to dig/to dig up: erithakula
 to be from/to come from/to fight/to leak: erilhwa
 to be busy: erisurusutha/erisumbukana
 to come/to be back: eryasa
 to be: eribya
-to put: erihira
+to put: erihira/eriteka
 to buy: eriwulha
 to sell: eriwulhya
 to drive: erivuga
@@ -796,7 +802,7 @@ to have: erithunga
 to go: erighenda/eriya
 to force: erikaka
 to stay/to sit/to be hard/charcoal: erikala
-to catch: erihamba
+to catch/to hold: erihamba
 to teach: erisomesya/erithendeka
 to read/to learn/to study: erisoma/eriyigha
 to write: erihandika
@@ -810,7 +816,6 @@ to sleep: eribotsera
 to lie down: erikesya
 to close your eyes/deep part of river: eririba
 to want/to like/to love: eryanza
-to settle (thing)/to be calm (thing)/to place (thing): eriteka
 to settle (person)/to be calm (person): eritekana
 to tell: eribwira/erithula/erithulira
 to see/to look at/to watch: erirebya/erisamalira/erilangera/erithungerera
@@ -857,6 +862,9 @@ they are sick: balwere
 he can go/she can go: iniaghenda
 
 Erihika
+brother-in-law/sister-in-law: ebonde
+husband: omwira
+wife: omukyara
 grandchild: omutsukulu
 father/dad: thatha
 fathers/dads: abathatha
@@ -876,7 +884,7 @@ maternal uncle: nyokolome
 paternal uncle younger than father: thatha mulere/somulere
 paternal uncle older than father: thatha mukulu/somukulu
 grandmother: mukaka
-grandfather: sokulu
+grandfather: sukulu
 first boy: Mumbere
 first boy, if a grandparent is dead: Baluku
 first child after opposite gender: Muhindo
@@ -904,7 +912,7 @@ third child after twins: Kibaba
 Ebisoro
 ant: engulubebe
 rat: embeba
-mouse: embeba eyomususa
+mouse: embeba yomususa
 snake: enzoka
 lizard: ekihangala
 mudfish: omukolo
@@ -1092,12 +1100,13 @@ when: mughulhu wahi/di
 which day: ekiro kyakangahi/kyakangahi
 
 Ekitsumbyo
+small towel: akathambara
 pot/pan: enyungu
 basin: ebafu
 small basin: etasi
 bottle: etsupa
 tray: etureya
-bowl: ebakuli yomukubi/esahani yomukubi
+bowl: ebakuli yomukubi/esahani yomukubi/ebakuli yemboka/esahani yemboka
 plate: ebakuli yebyalya/esahani yebyalya
 gourd container: endekwa/oluthehi
 gourd container for alcohol: ekisya
