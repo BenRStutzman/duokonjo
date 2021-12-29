@@ -69,6 +69,7 @@ where are you from?: wukalhwahi?/wukalhwa hayi?
 nice to meet you: ngatsemire ngakusangana/ngatsemire rikusangana
 
 Ebyalya
+marijuana-like drug/large dog: ekibwa
 intestines with blood: omuwuba
 peanut butter: odi
 millet: obulho
@@ -90,7 +91,7 @@ banana juice: eyisande
 pineapple juice: omunanasi
 salt: omunyu
 tapioca: obundu
-papaya: epapayi
+papaya: epapayi/ekipari
 mango: omuyembe
 mangoes: emiyembe
 palm oil: engasi
@@ -104,8 +105,8 @@ pumpkin: eryoli
 pumpkins: amoli
 sweet potato: ekithakuli
 sweet potatoes: ebithakuli
-cassava: omuhogo
-cassava (pl): emihogo
+cassava: omuhogo/omungwangwa
+cassava (pl): emihogo/emingwangwa
 cassava leaf: esombe
 efene: jackfruit
 potato: eribese 
@@ -165,6 +166,8 @@ onion: ekithunguru
 garlic: akathunguru sumu
 
 Enyumba
+corner of a building: esonda
+yard: obuthala
 iron sheet: eribathi
 ekidongo: wall
 house: enyumba
@@ -190,7 +193,7 @@ roofs: esyothwe
 kitchen: ekitsumbyo/egyokoni
 bathroom: ekyowero
 dining room: ekisenge kyeririramo
-living room: ekisenge kyerihumuliramo
+living room: ekisenge kyerihumuliramo/ediro
 bedroom: ekisenge kyerikesyamo/ekathi
 fence: olhughuthu
 fences: esyonghuthu
@@ -201,6 +204,7 @@ bed: engyingo
 sheet: esithi
 
 Abandu
+builder: omuhimbi
 Rwenzururite: omunyarwenzururu
 waiter: omulindiriri
 worker: omukoli
@@ -238,13 +242,14 @@ friend: omunywani
 old person: omukulu
 old man: omuze
 old woman: mukade
-doctor: omunganga
 creator: omuhangiki
 Muslim: omusilamu
 Catholic: omukatuliki
 guide: omusondolya
 
 Omubiri
+bone: erikuha
+sweat: olhunza
 armpits: amasakaro
 voice: omulenge
 pregnancy: obukule
@@ -323,7 +328,8 @@ thigh: ekihinga
 thighs: ebihinga
 
 Edini
-Happy holiday: wasingya ekiro kikulu/wasingya erikihikako
+lord: omwami
+happy holiday: wasingya ekiro kikulu/wasingya erikihikako
 bishop: edishop
 reverend: omwahuli
 Satan: Sithani
@@ -371,6 +377,7 @@ skirt: esikathi
 skirts: esyosikathi
 
 Hobbies
+hide-and-seek-like game: wiso
 dance: amahothole/amabina
 team: omusambi
 music: omuziki
@@ -399,7 +406,7 @@ every: oboli
 so/because: kusangwa
 because of: habwa/busana na
 for only: ahabwa
-even if: nomo
+even if/even though: nomo
 then: ibwa
 and then/and now: neryo/neribwa
 now: hathia/esaha no
@@ -417,14 +424,15 @@ no: ayihi/eeyihi
 and/with/who (relative): na
 and (verb): kandi
 or: kwisi/kutse
-I didn't understand: singathakenga
-I didn't hear: singathowa/singowire
+I haven't heard: singathakenga
+I didn't hear/I haven't heard: singathowa/singowire
 sorry/slowly: bolobolo
 repeat that slowly: sasa kanaya bolobolo
 I: ingye
 you: iwe/yawe
 he (here)/she (here): oyu/iyu
 he (there)/she (there): oyo/iyo
+he (far)/she (far): olya
 we: ithwe
 you (pl): inywe
 all of you/you all: inywe bosi/inyo bosi
@@ -564,6 +572,17 @@ it is raining/it's raining: embulha yinemuwa
 lightning: akarabyo
 
 Verbs
+to change: erihundulha
+to take care of/to care for: erilembera
+to take one by one: erithondola
+to heal (intransitive)/to recover: erilama
+to heal (transitive): erilamya
+to treat: erithambira
+to set (bone): erilunga
+to work with wood: eribatsa
+to chop continually/to mow: erithemathema
+to sweat: erithuthuka
+to call (in person): eribirikira
 to face: erisamalirana
 to get from there: erihayo
 to lie/to deceive: eritheba
@@ -579,7 +598,7 @@ to vote: erikoma
 to lift: erisumba
 to carry: eriheka
 to help lift: erihekya
-to pick up: erisongya
+to pick up (from ground): erisongya
 to chop/to split: erisathangya
 to grow in size: erineneha
 to live: eribyaho
@@ -685,7 +704,7 @@ to understand: erikenga
 to answer/to repeat after/to reply: erisubamo
 to be next/to reach abruptly: eritsubuka
 to follow: erikwama
-to cut: erisara
+to cut/to turn (corner): erisara
 to laugh: eriseka
 to dry: eryuma
 to build: erihimba
@@ -727,8 +746,8 @@ to hear/to feel: eryowa
 to bathe: eryogha
 to wash (body): erinaba
 to draw (water)/to shovel: eritheha
-to rub: erisumura
-to end: erihwa
+to rub: erisimura
+to end/thorn: erihwa
 to run out (on): erihwako
 to run out (in): erihwamo
 to find: eribana
@@ -741,10 +760,10 @@ to go early in the morning: eritsunduka
 to come back to life after being buried: erilubuka
 to rain: eriwa
 to help: eriwathikya/eritsuna/eriyamba
-to fall over: erithera
-to draw: eritera
-to call: eritherera
+to fall over/to call (intransitive)/to draw/to take (picture): erithera
+to call (transitive): eritherera
 to fall: erithogha
+to pierce: erithobola
 to refuse: erighana
 to oppose: erighania
 to be full: erighutha/erisura
@@ -754,6 +773,7 @@ to kick: erisamba/eripika
 to grow: erikula
 to greet: eriramukya
 to stand: erihangana/erimana
+to stand for: erimanera
 to add: eritaranizya/eryongera
 to dance: erihothola
 to scare: erithinga
@@ -763,14 +783,14 @@ to get up/to remember: eribuka
 to wake up: eritsumbuka
 to dream: erilotha
 to cover: eriswika
-to cover yourself: eriyiswika
+to cover oneself: eriyiswika
 to receive: erimya
 to make/to do/to work: erikola
 to use: erikolesya
 to throw: erighusa
 to take: erithwala
 to sing/to give me: erimba
-to give/to get: eriha
+to give/to get: eriha/erihererya
 to open: erikyungula
 to clean/to be clean: erihenia
 to close: erikyinga
@@ -788,7 +808,8 @@ to untie: erikundulha
 to thunder: erilhuma/eripura
 to toss to remove dirt/to take out/to print: erihulhukya
 to ask: eribulya
-to be lost/to be away for a long time/to lack: eribula/erithala
+to be lost/to be away/to lack: eribula/erithala
+to be lacking: eribulwa
 to be away somewhere: eribulira
 to forgive: erighanyira
 to hurt: eriluma
@@ -802,7 +823,7 @@ to have: erithunga
 to go: erighenda/eriya
 to force: erikaka
 to stay/to sit/to be hard/charcoal: erikala
-to catch/to hold: erihamba
+to catch/to hold/to take (video): erihamba
 to teach: erisomesya/erithendeka
 to read/to learn/to study: erisoma/eriyigha
 to write: erihandika
@@ -813,6 +834,7 @@ to bring: eriletha
 to eat: erirya
 to rest: erihumula/eriluhuka
 to sleep: eribotsera
+to throw and hit: eribota
 to lie down: erikesya
 to close your eyes/deep part of river: eririba
 to want/to like/to love: eryanza
@@ -949,8 +971,9 @@ feather: ekyeya/ekipupa
 elephant: enzowu
 
 Obuhangwa
+horn/handlebar: erihembe
 crop: ekirimwa
-tubey plant: akayengye
+tubey tree: akayengye
 stream: omughende
 tree vanilla grows on: ekisogasoga
 lake: engetse
@@ -1036,7 +1059,7 @@ shop: eduka
 church: ekanisa
 hotel: ehuteri
 playground: ekizaniro/ekisaho
-school: esukuru
+school: esukuru/erithendekero
 schools: amasukuru
 village: ekyalo
 intersection: ekyaso
@@ -1052,6 +1075,18 @@ you (pl) are there (far): munerya
 near/close: hakuhi
 far: hali
 beside/where there is: ahali
+
+Esipatara
+doctor: omunganga/omuthahwa
+western doctor: omuthahwa owekisungu
+herbalist: omuthahwa owekikonzo
+witch doctor: omuthahwa owekibindi
+needle: engenzo
+malaria: omutsutsa
+medicine/carpenter: omubatsi
+patient: omulwere
+syringe: ekirindi ekyengenzo
+tablet: ekinini
 
 Adjectives
 roasted: kirye
@@ -1094,7 +1129,13 @@ how (he)/how (she)/that (he)/that (she): athi
 someone said: ambu
 how (we)/that (we): thuthi
 how (you (pl))/that (you (pl)): muthi
-how (they)/that (they): bathi/ambuki
+how (they)/that (they): bathi
+that way (I): nyithia
+that way (you): wuthia
+that way (he)/that way (she): athia
+that way (we): thuthia
+that way (you (pl)): muthia
+that way (they): bathia
 when (relative): omughulhu
 when: mughulhu wahi/di
 which day: ekiro kyakangahi/kyakangahi
@@ -1136,7 +1177,7 @@ soap: esabuni
 bathing place: eryowero
 ekibafu: bathtub
 
-Esukuru
+Erithendekero
 verse: omulondo
 expert/senior: omusiniya
 education/service: ekisomo
@@ -1167,10 +1208,12 @@ tan: omusukwe
 brown: eru
 
 Miscellaneous
+clay plate: ekibindi
+whistle: efirimbi
+problem: obutsibo/obulitho
+handle: ekirindi
 wish/desire: engumbu
-medicine: omubathi
 paka: until/still
-malaria: omutsutsa
 like that: kuthia
 kind/type: engere
 buy for me: wungulire
@@ -1214,7 +1257,7 @@ by themselves: ibabene
 that's why: ekyalekire/ekikaleka
 letter (mail): ebaruha
 that's good: hakyire/kyowene
-quickly/hurry up: lubaluba/anguha
+quickly/hurry up/hurry: lubaluba/anguha
 come on: bathami
 corpse: omulambo
 energy/strength: amani/akaghala
