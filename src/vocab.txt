@@ -53,7 +53,7 @@ hey: sawa
 what are you speaking?/what are you saying?/how's it going?: wukabughaki?
 how is there?: yinewahi?/yiriwahi?
 there is good/there is fine: yinuwene
-how was your day?/how has your day been?: ekiro kyaberekyithi?
+how was your day?/how has your day been?: ekiro kyaberekithi?
 are you OK?: wunakalire?/wunendeke?
 yes?: wankyi?
 welcome/we are fine/we're fine/we are there/we're there: thuneyo
@@ -131,6 +131,7 @@ pancakes: emigathi yameru
 eggplant: ebirinkani
 lil' green eggplant: endakala
 tea: ekyayi
+egg: eriya
 eggs: amaya
 bread: omugathi
 milk: amathe
@@ -241,7 +242,7 @@ babies: esyomekeke
 friend: omunywani
 old person: omukulu
 old man: omuze
-old woman: mukade
+old woman: omukade
 creator: omuhangiki
 Muslim: omusilamu
 Catholic: omukatuliki
@@ -329,7 +330,7 @@ thighs: ebihinga
 
 Edini
 lord: omwami
-happy holiday: wasingya ekiro kikulu/wasingya erikihikako
+happy holiday: wasingya kiro kikulu/wasingya rikihikako
 bishop: edishop
 reverend: omwahuli
 Satan: Sithani
@@ -381,7 +382,7 @@ hide-and-seek-like game: wiso
 dance: amahothole/amabina
 team: omusambi
 music: omuziki
-enyabulere: flute
+flute: enyabulere
 book: ekitabo
 books: ebitabo
 radio: eradiyo
@@ -424,7 +425,7 @@ no: ayihi/eeyihi
 and/with/who (relative): na
 and (verb): kandi
 or: kwisi/kutse
-I haven't heard: singathakenga
+I didn't understand/I haven't understood: singathakenga
 I didn't hear/I haven't heard: singathowa/singowire
 sorry/slowly: bolobolo
 repeat that slowly: sasa kanaya bolobolo
@@ -657,7 +658,7 @@ to be good/to be smart: eriwana
 to be strong: eriwuma
 to throw down: erithinera
 to go over/to set: erilenga
-to rub/to mash/to knead: erikama
+to mash/to knead: erikama
 to be there: eribyayo
 to harvest: erisoloma
 to hurry: eryanguha
@@ -820,7 +821,7 @@ to thank: erisima
 to know: erimenya
 to speak/to say/to talk: eribugha/erikania
 to have: erithunga
-to go: erighenda/eriya
+to go: erighenda
 to force: erikaka
 to stay/to sit/to be hard/charcoal: erikala
 to catch/to hold/to take (video): erihamba
