@@ -84,7 +84,7 @@ sour fruit with sections: ekyamba
 breakfast: ekyengyakya
 lunch: ekyemisana
 dinner/supper: ekyakiro
-chapati and beans: ekikomando
+chapati and beans/action game: ekikomando
 food: ebyalya
 sweet bread: erindazi
 banana juice: eyisande
@@ -118,7 +118,7 @@ gnuts: ebinyobwa
 ripe banana: eryeru
 ripe bananas: ameru
 starchy banana: eritoke
-starchy bananas: amatoke
+starchy bananas: amatoke/amathimano
 starchy banana bunch: ekitoke
 starchy banana bunches: ebitoke
 small sweet banana: embaragara
@@ -214,6 +214,7 @@ guard: omulindi
 soldier: omugyesi/omusirikali
 enemy: enzighu
 twin: omuhasa
+mother of twins: nyabahasi
 person of...: omunya...
 lover: omwanzi
 cook: omutsumbi
@@ -617,7 +618,8 @@ to get married (woman): eriheruka
 to get married (man): eriherukya/erithahya
 to fry: erikalanga
 to pour: eryutha/eryuthula
-to smell: erikumba/eribeha
+to smell (intransitive): erikumba/eribeha
+to smell (transitive): eribehererya
 to plant: erihera
 to pay/to be blunt: erithuha
 to be swept away: erisendya
@@ -684,7 +686,8 @@ to get light: erikya
 to slaughter: erikera
 to send (person): erithuma
 to forget: eribirirwa
-to taste/to taste good: erisiha
+to taste (intransitive)/to taste good: erisiha
+to taste (transitive): erirozia
 to leave: erisigha
 to whistle: erisuwunda
 to visit: eribunga
@@ -745,6 +748,8 @@ to mean: erimanyisya
 to lose/to sharpen: erithalya
 to hear/to feel: eryowa
 to bathe: eryogha
+to convince/to persuade: erithetha
+to persuade to help/to convince to help: erilembalemba
 to wash (body): erinaba
 to draw (water)/to shovel: eritheha
 to rub: erisimura
@@ -819,12 +824,15 @@ to knock: eritomera
 to eat greedily: erithomera
 to thank: erisima
 to know: erimenya
-to speak/to say/to talk: eribugha/erikania
+to speak/to say/to talk/to sound: eribugha/erikania
 to have: erithunga
 to go: erighenda
 to force: erikaka
 to stay/to sit/to be hard/charcoal: erikala
 to catch/to hold/to take (video): erihamba
+to hold onto: erihambako
+to be smooth: eribetekerera
+to be slippery: erithendera
 to teach: erisomesya/erithendeka
 to read/to learn/to study: erisoma/eriyigha
 to write: erihandika
@@ -1154,9 +1162,11 @@ gourd container: endekwa/oluthehi
 gourd container for alcohol: ekisya
 jug/jar: egyaga
 tap: etapu
+utensil: ekyeriryamo
 spoon: ekigyiko
 fork: ekigyiko kyefoko
-dish: esahani/ebakuli
+dish: esahani/ebakuli/ekyeririrako
+what is eaten: ekyereiryako
 cup: ekikopo
 soup/sauce: emboka/omukubi
 ghee: amaghuta wende
@@ -1245,6 +1255,7 @@ religious holiday: ekiro kikulu
 noise/sound: etoko
 pain: obulumi
 gun: embundu
+bullet: erisasi
 grace: eneema
 lunchtime: emisana
 line: elayina/omulala
@@ -1293,7 +1304,7 @@ peace: obuholho
 forward/in front: embere
 fart: ekinyambo
 life: obuyingo/engebe
-money: esyosente/esyombulo
+money: esyosente/esyombulo/emali
 website: ewebusayithi
 reason: esonga
 reasons: esyosonga
