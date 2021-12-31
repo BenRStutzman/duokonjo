@@ -63,8 +63,8 @@ goodbye/bye: bukyaghe
 have a good day: wusibe buholho
 
 Introductions
-my name is...: erina lyaghe ningye...
-what is your name?: erina lyawu niwendi?
+my name is...: erina lyaghe ningye.../ningye...
+what is your name?: erina lyawu niwendi?/niwendi?
 where are you from?: wukalhwahi?/wukalhwa hayi?
 nice to meet you: ngatsemire ngakusangana/ngatsemire rikusangana
 
@@ -561,8 +561,8 @@ after: hanyuma
 
 Feelings
 I am tired/I'm tired: ngaluhire
-I am hungry/I'm hungry: ngakwire enzala
-I am thirsty/I'm thirsty: ngakwire enyotha
+I am hungry/I'm hungry: ngakwire nzala
+I am thirsty/I'm thirsty: ngakwire nyotha
 
 Weather
 heat: omwesi
@@ -593,8 +593,8 @@ to cross: erisoka
 to go around/to rotate/to spin: erithimba
 to overflow: eritswagha/eribogha
 to prepare: erikokotya
-to prepare for someone: erikokoterya
-to make someone suffer: eritesa
+to prepare for: erikokoterya
+to make suffer: eritesa
 to preach: eritebezya
 to vote: erikoma
 to lift: erisumba
@@ -679,7 +679,7 @@ to drink: erinywa
 to be late: erikerererwa
 to move around: erikoha/eribungabunga
 to start/to begin: erithandika/eritsuka
-to be left/to pierce: erisaka
+to be left: erisaka
 to tie: eriboha
 to get dark: erira
 to get light: erikya
@@ -1166,7 +1166,7 @@ utensil: ekyeriryamo
 spoon: ekigyiko
 fork: ekigyiko kyefoko
 dish: esahani/ebakuli/ekyeririrako
-what is eaten: ekyereiryako
+what is eaten: ekyeriryako
 cup: ekikopo
 soup/sauce: emboka/omukubi
 ghee: amaghuta wende
