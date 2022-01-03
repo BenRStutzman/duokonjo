@@ -73,7 +73,7 @@ marijuana-like drug/large dog: ekibwa
 intestines with blood: omuwuba
 peanut butter: odi
 millet: obulho
-sorghum: omuhenda
+sorghum: omuhemba
 wheat: engano
 fried meat: amakalangano
 fried bits: esyongalanga
@@ -205,6 +205,8 @@ bed: engyingo
 sheet: esithi
 
 Abandu
+guest/visitor: omughene
+drunk person: omuthamiri
 builder: omuhimbi
 Rwenzururite: omunyarwenzururu
 waiter: omulindiriri
@@ -250,6 +252,9 @@ Catholic: omukatuliki
 guide: omusondolya
 
 Omubiri
+pimple: omuburu
+blister: ekiberbere
+boil: ekimatha
 bone: erikuha
 sweat: olhunza
 armpits: amasakaro
@@ -574,6 +579,7 @@ it is raining/it's raining: embulha yinemuwa
 lightning: akarabyo
 
 Verbs
+to explain: erisoborera
 to change: erihundulha
 to take care of/to care for: erilembera
 to take one by one: erithondola
@@ -643,13 +649,14 @@ to send (thing): eritsindika
 to open with hands: erihatha
 to be about to: erikisiya
 to wear/to put on: eryambala
-to return (intransitive): erisubulha/erisuba
+to follow (in order)/to come back to life: erisuba
+to return (intransitive): erisubulha
 to return (transitive): erisubulya
 to go to and return: erisubulira
 to turn: eribinduka
 to crow/to keep: eribika
 to be late morning: erikererera
-to delay: erikererezya
+to delay (transitive): erikererezya
 to be taught: erisomesibwa/erithendekwa
 to stop/to not/to cause/to let: erileka
 to shave: erighemba
@@ -691,7 +698,7 @@ to taste (transitive): erirozia
 to leave: erisigha
 to whistle: erisuwunda
 to visit: eribunga
-to fast/to afternoon/to delay: erisiba
+to fast/to afternoon/to delay (intransitive): erisiba
 to extend: erisegherya
 to bend over: eryunama
 to be late: erikerererwa
@@ -729,8 +736,8 @@ to listen: erihulikirira
 to light/to turn on: eryakya
 to shine: eryaka
 to turn off: eririmya
-to be hot/to burn (transitive): erihisya
-to burn (intransitive)/to be ready (food): erihya
+to heat/to burn (transitive): erihisya
+to heat/burn (intransitive)/to be ready (food): erihya
 to respect: erisikya
 to be respected: erisikibwa
 to manage: erithoka
@@ -756,6 +763,7 @@ to rub: erisimura
 to end/thorn: erihwa
 to run out (on): erihwako
 to run out (in): erihwamo
+to fill/to pay for someone: eripakira
 to find: eribana
 to meet: erisangana/erikweya
 to finish: eriwunza
@@ -818,7 +826,8 @@ to be lost/to be away/to lack: eribula/erithala
 to be lacking: eribulwa
 to be away somewhere: eribulira
 to forgive: erighanyira
-to hurt: eriluma
+to hurt (intransitive)/to bite/to pain: eriluma
+to be drunk: erithamira
 to go home from work: erilumbuka/erikuluka
 to knock: eritomera
 to eat greedily: erithomera
@@ -973,7 +982,7 @@ hen: enkoko
 hens: esyonkoko
 cock: engokolome
 cocks: esyongokolome
-dove: akalikuku
+dove: akalikuku/epizo/akapizo
 doves: othulikuku
 dovelike brown bird in bush: ekilikuku
 feather: ekyeya/ekipupa
@@ -1087,9 +1096,9 @@ beside/where there is: ahali
 
 Esipatara
 doctor: omunganga/omuthahwa
-western doctor: omuthahwa owekisungu
-herbalist: omuthahwa owekikonzo
-witch doctor: omuthahwa owekibindi
+western doctor: omuthahwa wekisungu
+herbalist: omuthahwa wekikonzo
+witch doctor: omuthahwa wekibindi
 needle: engenzo
 malaria: omutsutsa
 medicine/carpenter: omubatsi
@@ -1103,7 +1112,7 @@ imported: nadiz
 local: ngonzo
 pregnant: kule
 correct: hikire
-new: hyaka
+new: yaka
 first: kubanza
 happy: tsema
 dried/dry: mire
@@ -1219,6 +1228,11 @@ tan: omusukwe
 brown: eru
 
 Miscellaneous
+birth: amabuthwa
+size: olhulengo
+is the same as: ya na
+something that bites/something that hurts: ekikaluma
+tank: ethanga
 clay plate: ekibindi
 whistle: efirimbi
 problem: obutsibo/obulitho
