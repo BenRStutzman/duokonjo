@@ -65,6 +65,7 @@ class App extends React.Component {
     let incorrectMessages;
     let tryMessage;
     let orMessage;
+    let allWord;
     let category;
     let englishPhrases;
     let vocabPairs;
@@ -76,7 +77,7 @@ class App extends React.Component {
     const languageSets = text.trim().split(/\s*\n\s*\n\s*\n\s*/);
     languageSets.forEach(languageSet => {
       [info, ...categorySets] = languageSet.split(/\s*\n\s*\n\s*/);
-      [language, writeThisIn, languageName, english, correctMessages, incorrectMessages, tryMessage, orMessage] = info.split(/\s*\n\s*/);
+      [language, allWord, writeThisIn, languageName, english, correctMessages, incorrectMessages, tryMessage, orMessage] = info.split(/\s*\n\s*/);
       languages[language] = {
         writeThisIn: writeThisIn.split(/:\s*/)[1],
         languageName: languageName.split(/:\s*/)[1],
@@ -85,6 +86,7 @@ class App extends React.Component {
         incorrectMessages: incorrectMessages.split(/:\s*/)[1].split('/'),
         tryMessage: tryMessage.split(/:\s*/)[1],
         orMessage: orMessage.split(/:\s*/)[1],
+        allWord: allWord.split(/:\s*/)[1],
         categories: [],
       };
       categorySets.forEach(categorySet => {
@@ -164,7 +166,7 @@ class App extends React.Component {
     let problemQueue = [];
     let problems = [];
 
-    if (category === 'All') {
+    if (category === this.state.languageInfo.allWord) {
       Object.values(this.state.languageInfo.categories).forEach(category => {
         problems = [...problems, ...category];
       });
@@ -280,7 +282,7 @@ class App extends React.Component {
       case 'chooseCategory':
           content = (
             <div id="options">
-              {['All', ...Object.keys(this.state.languageInfo.categories)].map(category => (
+              {[this.state.languageInfo.allWord, ...Object.keys(this.state.languageInfo.categories)].map(category => (
                 <button key={category} onClick={() => this.chooseCategory(category)}>{category}</button>
               ))}
             </div>
