@@ -1192,10 +1192,10 @@ of where: owa hayi
 how much/how many/which: ngahi
 why: habwaki
 where: hayi/hi
-who: nindi
-who (pl): nibahi
-whom/other: ndi
-whom (pl): bahi
+who is/is who: nindi
+who is (pl)/is who (pl): nibahi
+who/other: ndi
+who (pl): bahi
 what: ki
 how (I)/that (I): nyithi
 how (you)/that (you): wuthi
