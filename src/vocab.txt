@@ -30,7 +30,8 @@ incorrect: Ayihi./Nabi./Bolobolo.
 try: Lengesya
 or: kwisi
 
-Greetings
+Emiramukirye
+greeting: emiramukirye
 how is it?: kithiki?
 how have things been?: biribithi?
 good morning: obukyire/wabukire/bwakere
@@ -64,7 +65,8 @@ we are fine (inside)/we're fine (inside)/we are here (inside)/we're here (inside
 goodbye/bye: bukyaghe
 have a good day: wusibe buholho
 
-Introductions
+Emiyisoborere
+introduction: emiyisoborere
 my name is: erina lyaghe ningye
 I am (name): ningye
 you are (name): niwe
@@ -78,6 +80,9 @@ nice to meet you: ngatsemire ngakusangana/ngatsemire rikusangana
 what nationality are you?: wuli muhi?
 
 Ebyalya
+sorghum drink: obusyera
+maize flour/maize porridge: akasoli
+maize bread: eposyo
 packed lunch: endanda
 rotten thing: ekibole
 drink: ekirinywa
@@ -219,7 +224,7 @@ sheet: esithi
 Abandu
 mother-in-law: mabyala
 father-in-law: syobyala
-girlfriend: omusyesye/omuraghani
+girlfriend/boyfriend: omusyesye/omuraghani
 British person/English person: omungereza
 American: omumerika
 African: omufrika
@@ -307,7 +312,7 @@ tongue: olhulimi
 tongues: esyonlimi
 eye: eriso
 eyes: ameso
-body/work: omubiri
+body/work/skin: omubiri
 bodies: emibiri
 eyebrow: olhukigha
 eyebrows: esyongigha
@@ -408,7 +413,12 @@ dresses: ebiteteya
 skirt: esikathi
 skirts: esyosikathi
 
-Hobbies
+Ebyamasathi
+instrument: ebyuma ebyerimbirako
+piano: enanga
+drum: engoma
+hobby: ekyamasathi
+drum top: amahoma
 hide-and-seek-like game: wiso
 dance: amahothole/amabina
 team: omusambi
@@ -427,14 +437,14 @@ card: eritatu
 drumbeat: ekighasa
 toy: ekidole/edole
 
-Basics
+Ebiyithawa
 the one who (present): eyika
 the one who (past): eyirya
 the one who (distant past): eyiwo
 the ones who (present): abaka
 the ones who (past): abalya
 the ones who (distant past): abawo
-every: obuli
+every/height/length: obuli
 so/because: kusangwa
 because of: habwa/busana na
 for only: ahabwa
@@ -546,11 +556,11 @@ eight hundred thousand: emithwalu kyinani
 nine hundred thousand: emithwalu kyenda
 one million: emithwalu kikumi
 
-Obuthuku
+Obuthuku (owesaha)
 at times: hakanayira
 sometimes: obundi buthuku
 always: obuli buthuku
-time (uncountable): obuthuku
+time (uncountable)/weather: obuthuku
 time (countable): omurundi
 what time is it?: ni saha singahi?/saha singahi?
 the time is...: ni saha.../saha...
@@ -586,12 +596,15 @@ early/earlier: luba
 before (definite)/in front of (definite)/after (definite) (time): ahambere
 after (definite)/behind (definite)/before (definite) (time): ahanyuma
 
-Feelings
+Emyoghire
 I am tired/I'm tired: ngaluhire
 I am hungry/I'm hungry: ngakwire nzala
 I am thirsty/I'm thirsty: ngakwire nyotha
+sadness: obulighe
+much sadness: amalighe
+happiness: obutseme
 
-Weather
+Obuthuku (owolhubula)
 heat: omwesi
 sun: eryuba
 rain: embulha
@@ -601,6 +614,17 @@ it is raining/it's raining: embulha yinemuwa
 lightning: akarabyo
 
 Ebinywa byemikolere
+to base on: erilusirirya
+to take off: erilusya
+to greet for me: erindamukirya
+to greet for: eriramukirya
+to sing for: erimbira
+to accept: erikirirya/eriligha
+to introduce: erikaniako/eriyisoborera
+to do business: erisubura
+to introduce a husband: eriyathahya
+to drum: eriwatha
+to need: eriyithagha
 to call (name): eryahula
 to cry/to eat somewhere: eririra
 to give (name): eriluka
@@ -655,6 +679,7 @@ to collect/to gather: erisorokya
 to get married (woman): eriheruka
 to get married (man): eriherukya/erithahya
 to fry: erikalanga
+to seat/to strengthen: erikalya
 to pour: eryutha/eryuthula
 to smell (intransitive): erikumba/eribeha
 to smell (transitive): eribehererya
@@ -829,6 +854,7 @@ to play: erisatha
 to kick: erisamba/eripika
 to grow: erikula
 to greet: eriramukya
+to greet me: erindamukya
 to stand: erihangana/erimana
 to stand for: erimanera
 to add: eritaranizya/eryongera
@@ -911,7 +937,7 @@ to go watch: erileberya
 to have to: eritholera
 to take back/to restore/to talk about a story someone else is talking about: erisubya
 
-Irregular verbs
+Ebinywa byemikolere bihyaka
 I am: ngali/nyiri/ngane
 you are: wuli/wune
 you (pl) are: muli/mune
@@ -1098,7 +1124,7 @@ valley: omusya
 pasture: olulisiryo
 road: enguda
 above/over/high: ahiwulhu/eyiwulhu
-below/beneath/under/low: ahikwa/ahisi
+below/beneath/under/low/on the ground: ahikwa/ahisi
 place: omwanya
 places: emyanya
 hospital: esipatara
@@ -1253,6 +1279,7 @@ soap: esabuni
 bathing place: eryowero
 ekibafu: bathtub
 toilet: akabina
+bathing: emyowere
 
 Erithendekero
 verse: omulondo
@@ -1284,7 +1311,11 @@ white: enzero
 tan: omusukwe
 brown: eru
 
-Miscellaneous
+Ebindi nebindi
+cow skin: olhuhu
+hearing/feeling: emyoghire
+miscellaneous: ebindi nebindi
+need: ekiyithawa
 slowness: obolobolo
 is him/is her/is that: woyu/yoyu
 together: haghuma
@@ -1378,7 +1409,7 @@ lying: amabehi
 plastic bag: ekivera
 vowel: enzoboli/embuyi
 consonant: enguthu
-metal: ekyuma
+metal/machine: ekyuma
 air/cold: embeho
 knowledge: amagezi
 shortness: obukuhi
