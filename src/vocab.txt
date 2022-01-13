@@ -54,6 +54,7 @@ have a good weekend: wuthunge wikendi mubuya
 sleep in peace/goodnight: wukesaye buholho/wukesayanu buholho
 hey: sawa
 what are you speaking?/what are you saying?/how's it going?: wukabughaki?
+what are you counting?/what are you planning?: wukabaraki?
 how is there?: yinewahi?/yiriwahi?
 there is good/there is fine: yinuwene
 how was your day?/how has your day been?/how has the day been?: ekiro kyaberekithi?
@@ -80,7 +81,9 @@ nice to meet you: ngatsemire ngakusangana/ngatsemire rikusangana
 what nationality are you?: wuli muhi?
 
 Ebyalya
-sorghum drink: obusyera
+flour: eyisyano
+fermented cassava: obusyano
+millet drink: obusyera
 maize flour/maize porridge: akasoli
 maize bread: eposyo
 packed lunch: endanda
@@ -152,7 +155,7 @@ egg: eriya
 eggs: amaya
 bread: omugathi
 milk: amathe
-porridge/flour: obusara
+porridge: obusara
 avocado: evakedo
 tomato: olhunyanya/ekinyanya
 tomatoes: esyonyanya/ebinyanya
@@ -224,7 +227,8 @@ sheet: esithi
 Abandu
 mother-in-law: mabyala
 father-in-law: syobyala
-girlfriend/boyfriend: omusyesye/omuraghani
+girlfriend/boyfriend: omuraghani
+girlfriend (slang): omusyesye
 British person/English person: omungereza
 American: omumerika
 African: omufrika
@@ -261,6 +265,7 @@ men: abalume
 woman: omukali
 women: abakali
 white person: omusungu
+Mukonjo: omukonzo/omuyira
 angel: emalayika
 police: epolisi
 kid: akana
@@ -277,6 +282,8 @@ Catholic: omukatuliki
 guide: omusondolya
 
 Omubiri
+muscle: omunyoko
+hiccups: esyombeku
 ekipupa: wing
 ekihaha: lung
 ekisalya: gizzard
@@ -320,8 +327,8 @@ face: obusu
 faces: amasu
 hair: olhuywire
 hair (pl): esyonzwire
-arm: okubwoko
-arms: amabwoko
+arm: okubwoko/omukono
+arms: amabwoko/emikono
 lower leg: okuwulhu
 lower legs: amawulhu
 calf: embunda
@@ -614,13 +621,18 @@ it is raining/it's raining: embulha yinemuwa
 lightning: akarabyo
 
 Ebinywa byemikolere
+to sneeze: erimira
+to ferment: erilboeka
+to be hard (stiff): erikalabasana
+to be soft (squishy): eriloberera
+to scatter: eritsatsanga
 to base on: erilusirirya
 to take off: erilusya
 to greet for me: erindamukirya
 to greet for: eriramukirya
 to sing for: erimbira
 to accept: erikirirya/eriligha
-to introduce: erikaniako/eriyisoborera
+to introduce: erikaniako/eriyisoborerako
 to do business: erisubura
 to introduce a husband: eriyathahya
 to drum: eriwatha
@@ -636,13 +648,15 @@ to pound (transitive)/to hammer (transitive)/to knock on: erikongothera
 to disturb: erisumbugha/eritalibanizya
 to say goodbye: erilagha
 to explain: erisoborera
-to change: erihundulha
+to change (transitive): erihundulha
+to change (intransitive): erihinduka
+to sprinkle flour over water: erilukira
 to take care of/to care for: erilembera
 to take one by one: erithondola
 to heal (intransitive)/to recover: erilama
 to heal (transitive): erilamya
 to treat: erithambira
-to set (bone): erilunga
+to set (bone)/to sprinkle (salt): erilunga
 to work with wood: eribatsa
 to chop continually/to mow: erithemathema
 to sweat: erithuthuka
@@ -654,8 +668,9 @@ to ask a lot: erikazia
 to cross: erisoka
 to go around/to rotate/to spin: erithimba
 to overflow: eritswagha/eribogha
-to prepare: erikokotya
-to prepare for: erikokoterya
+to repair: erikokotya
+to prepare for/to repair for: erikokoterya
+to prepare (transitive): eritakanizya
 to make suffer: eritesa
 to preach: eritebezya
 to vote: erikoma
@@ -725,6 +740,7 @@ to be good/to be smart: eriwana
 to be strong: eriwuma
 to throw down: erithinera
 to go over/to set: erilenga
+to measure: eripima
 to mash/to knead: erikama
 to be there: eribyayo
 to harvest: erisoloma
@@ -757,7 +773,7 @@ to taste (transitive): erirozia
 to leave (transitive): erisigha
 to whistle: erisuwunda
 to visit: eribunga
-to fast/to afternoon/to delay (intransitive): erisiba
+to fast/to afternoon/to delay (intransitive)/to abbreviate: erisiba
 to extend (intransitive): eriseghera
 to extend (transitive): erisegherya
 to bend over: eryunama
@@ -867,13 +883,13 @@ to wake up: eritsumbuka
 to dream: erilotha
 to cover: eriswika
 to cover oneself: eriyiswika
-to receive: erimya
+to receive/to get: erimya
 to make/to do/to work: erikola
 to use: erikolesya
 to throw: erighusa
 to take: erithwala
 to sing/to give me: erimba
-to give/to get: eriha/erihererya
+to give: eriha/erihererya
 to open: erikyungula
 to clean/to be clean: erihenia
 to close: erikyinga
@@ -883,7 +899,8 @@ to be from/to come from/to fight/to leak: erilhwa
 to be busy: erisurusutha/erisumbukana
 to come/to be back: eryasa
 to pass via: eryasira
-to pass: erilaba
+to pass (intransitive): erilaba
+to pass (transitive): erilabya
 to pass through: erilabalaba
 to be: eribya
 to put: erihira
@@ -1120,6 +1137,9 @@ Emyanya
 England: Bungereza
 Buganda: Bughanda
 Israel: Yisaleri
+Palestine: Filistin
+Germany: Gyiriman
+Italy: Yithali
 valley: omusya
 pasture: olulisiryo
 road: enguda
@@ -1188,6 +1208,8 @@ syringe: ekirindi ekyengenzo
 tablet: ekinini
 
 Ebinywa bikongera mutsowu
+soft (squishy): loberere
+hard (stiff): kalabaseni
 roasted: kirye
 imported: nadiz
 local: ngonzo
@@ -1259,12 +1281,14 @@ fork: ekigyiko kyefoko
 dish: esahani/ebakuli/ekyeririrako
 what is eaten: ekyeriryako
 cup: ekikopo
+half kilo cup: egama
 soup/sauce: emboka/omukubi
 ghee: amaghuta wende
 knife: omuhamba
 panga: ekipanga
 mingling stick: omunko
 charcoal stove: esigiri
+three-prop stove: amahigha
 gas: omuka
 parrafin: omuziwo
 firewood: olhukwe
@@ -1312,6 +1336,11 @@ tan: omusukwe
 brown: eru
 
 Ebindi nebindi
+tape measure: orukoba
+the real thing: nyinenyine
+foot (measurement): efithi
+decimal/point: kathondi
+erithondi: drop
 cow skin: olhuhu
 hearing/feeling: emyoghire
 miscellaneous: ebindi nebindi
