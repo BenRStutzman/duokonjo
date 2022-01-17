@@ -421,7 +421,7 @@ skirt: esikathi
 skirts: esyosikathi
 
 Ebyamasathi
-instrument: ebyuma ebyerimbirako
+instrument: ekyuma kyerimbirako
 piano: enanga
 drum: engoma
 hobby: ekyamasathi
@@ -476,6 +476,7 @@ yes/to/from/at: e
 no: ayihi/eeyihi
 and/with/who (relative): na
 and (verb): kandi
+also: hayima na
 or: kwisi/kutse
 I didn't understand/I haven't understood: singathakenga
 I didn't hear/I haven't heard: singathowa/singowire
@@ -604,8 +605,6 @@ Friday: kyakathano
 Saturday: kyamukagha
 Sunday: kyasabithi/kyasande
 early/earlier: lhuba
-before (definite)/in front of (definite)/after (definite) (time): ahambere
-after (definite)/behind (definite)/before (definite) (time): ahanyuma
 
 Emyoghire
 I am tired/I'm tired: ngaluhire
@@ -625,6 +624,7 @@ it is raining/it's raining: embulha yinemuwa
 lightning: akarabyo
 
 Ebinywa byemikolere
+to mix/to confuse: eritabura
 to stay longer/to live forever: erikotha
 to sneeze: erimira
 to ferment: erilboeka
@@ -669,6 +669,8 @@ to call (in person): eribirikira
 to face: erisamalirana
 to get from there: erihayo
 to lie/to deceive: eritheba
+to guess: eritebba
+to score: eriteba
 to ask a lot: erikazia
 to cross: erisoka
 to go around/to rotate/to spin: erithimba
@@ -676,6 +678,8 @@ to overflow: eritswagha/eribogha
 to cook: eritsumba
 to cook for: eritsumbira
 to be cooked for: eritsumbirwa
+to cook with: eritsumbisya
+to wrap with banana leaves: eribomba
 to repair: erikokotya
 to prepare for/to repair for: erikokoterya
 to prepare (transitive): eritakanizya
@@ -684,7 +688,7 @@ to preach: eritebezya
 to vote: erikoma
 to lift: erisumba
 to carry: eriheka
-to help lift: erihekya
+to help carry: erihekya
 to pick up (from ground): erisongya
 to chop/to split: erisathangya
 to grow in size: erineneha
@@ -835,7 +839,7 @@ erihikya: to cause to reach
 to be respected: erisikibwa
 to manage: erithoka
 to articulate: erisobola
-to win/to beat: erisinga/eriswirya
+to win/to beat (competition): erisinga/eriswirya
 to spoil (transitive): eritsandya
 to give birth: eributha
 to be born: eributhwa
@@ -861,11 +865,12 @@ to find: eribana
 to meet: erisangana/erikweya
 to finish: eriwunza
 to reach/family/to be correct: erihika
-to look for: erisondia
+to look for: erisondia/erirondia
 to suffer/to die: erikwa
 to go early in the morning: eritsunduka
 to come back to life after being buried: erilubuka
 to rain: eriwa
+to fall on: eriwira
 to help: eriwathikya/eritsuna/eriyamba
 to fall over/to call (intransitive)/to draw/to take (picture): erithera
 to call (transitive): eritherera
@@ -890,12 +895,13 @@ to divide: erighaba
 to get up/to remember: eribuka
 to wake up: eritsumbuka
 to dream: erilotha
-to cover: eriswika
+to cover/to wrap: eriswika
 to cover oneself: eriyiswika
 to receive/to get: erimya
 to make/to do/to work: erikola
+to work for: erikolera
 to use: erikolesya
-to throw: erighusa
+to throw/to throw away: erighusa
 to take: erithwala
 to sing/to give me: erimba
 to give: eriha/erihererya
@@ -904,6 +910,7 @@ to clean/to be clean: erihenia
 to close: erikyinga
 to hoe/land: eririma
 to dig/to dig up: erithakula
+to bury: erithaba
 to be from/to come from/to fight/to leak: erilhwa
 to be busy: erisurusutha/erisumbukana
 to come/to be back: eryasa
@@ -936,6 +943,7 @@ to know: erimenya
 to speak/to say/to talk/to sound: eribugha/erikania
 to have: erithunga
 to go: erighenda
+to go for/to imitate: erighendera
 to force: erikaka
 to stay/to sit/to be hard/charcoal: erikala
 to catch/to hold/to take (video): erihamba
@@ -943,11 +951,12 @@ to hold onto: erihambako
 to be smooth: eribetekerera
 to be slippery: erithendera
 to teach: erisomesya/erithendeka
-to read/to learn/to study: erisoma/eriyigha
+to read/to study: erisoma
+to learn/to practice: eriyigha
 to write: erihandika
 to run: erithibitha
 to walk/to step: eriryatha
-to hit/to cane: erihumba
+to hit/to cane/to beat (physically): erihumba
 to bring: eriletha
 to eat: erirya
 to rest: erihumula/eriluhuka
@@ -1048,7 +1057,7 @@ younger boy twin: Kato
 older girl twin: Nyangoma
 younger girl twin: Nyakato
 first child after twins: Kiza
-second child after twins: Kamala
+second child after twins: Kamalha
 third child after twins: Kibaba
 
 Ebisoro
@@ -1072,7 +1081,7 @@ cicada: ekigyororo
 rabbit: esongura
 guinea pig: epanya
 gorilla: ekibandu
-child (animal): ekyana
+child (animal)/babe: ekyana
 cow: ende
 pig: embunu
 dog: embwa
@@ -1104,6 +1113,7 @@ lake: engetse
 branch: omuthahi
 flower: ekimole
 banana leaf: olhukoma
+used banana leaf: ekihuku
 leaf: ekikoma
 nature/creation: obuhangwa
 forest/park: omusithu
@@ -1139,7 +1149,7 @@ stone/ash: eribwe
 stones: amabwe
 grass: ebithi
 blade of grass: ekithi
-mud: ebyondo
+mud: ebyondo/obudongo
 rainbow: ekime
 
 Emyanya
@@ -1152,8 +1162,6 @@ Italy: Yithali
 valley: omusya
 pasture: olulisiryo
 road: enguda
-above/over/high: ahiwulhu/eyiwulhu
-below/beneath/under/low/on the ground: ahikwa/ahisi
 place: omwanya
 places: emyanya
 hospital: esipatara
@@ -1162,7 +1170,16 @@ here: hano
 this side: eno
 right: okulya
 left: okulembe
-backward/behind (indefinite)/after (definite)/before (indefinite) (time)/bedbug: enyuma
+forward/in front of/before/after (time): embere
+slightly forward/slightly before/slightly in front of/slightly after (time): ahambere
+backward/behind/after/before (time)/bedbug: enyuma
+slightly backward/slightly after/slightly behind/slightly before (time): ahanyuma
+slightly above/slightly over/slightly uphill/slightly high: ahiwulhu
+above/over/up/upper/uphill/high: eyiwulhu
+slightly below/slightly beneath/slighty low: ahikwa
+below/beneath/down/low/lower/downhill: ekabunu/eyikwa
+under/underneath: omwisi sy
+on the ground: ahisi
 uphill slope/north: obwiruka
 uphill slopes: amiruka
 downhill slope/south: obwandaghala
@@ -1171,8 +1188,6 @@ west: ebulengera ryuba
 outside: eyisya/eyihya
 inside: omwakathi
 heaven/sky: olhubula
-down/lower/downhill: ekabunu
-up/upper/uphill: eyiwulhu
 side/part: olhuhandi
 sub-county: egomporo
 world/earth: ekithaka/ekihuwo
@@ -1230,7 +1245,7 @@ happy: tsema
 dried/dry: mire
 fresh: bisi
 good: wene
-well: ndeke
+well: ndeke/mbolere
 bad: bi
 badly: nabi
 beautiful/handsome/pretty: buya/mbuya
@@ -1378,7 +1393,7 @@ problem: obutsibo/obulitho
 handle: ekirindi
 wish/desire: engumbu
 paka: until/still
-like that: kuthia
+like that/that way: kuthia
 kind/type: engere/ekika
 buy for me: wungulire
 what you are doing: ekyawuliko
@@ -1442,7 +1457,7 @@ name: erina
 names: amena
 light: ekyubanu
 darkness of night: omwirima
-truth/actually: okwenene
+truth/actually: okwenene/amazima
 lie: ekisuba
 lying: amabehi
 plastic bag: ekivera
@@ -1455,7 +1470,6 @@ shortness: obukuhi
 word: ekinywa
 letter: enzakano
 peace: obuholho
-forward/in front of (indefinite)/before (indefinite)/after (indefinite) (time): embere
 fart: ekinyambo
 life: obuyingo/engebe
 money: esyosente/esyombulo/emali
