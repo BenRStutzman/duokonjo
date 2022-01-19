@@ -47,7 +47,7 @@ hi, person whose name I don't know: kuthi nani
 thank you/thanks: wasingya
 thank you for cooking/thanks for cooking: wasingya ritsumba
 thank you for eating/thanks for eating: wasingya rirya
-how are you?: wuneyo?/wune wuthi?
+how are you?: wuneyo?/wune wuthi?/wuyoyo?
 how are you (pl)?: muneyo?/mune muthi?
 I am fine/I'm fine/I am OK/I'm OK: nganeyo/nganeyo buholho/nganakalire/nganendeke
 have a good weekend: wuthunge wikendi mubuya
@@ -75,6 +75,7 @@ he is (name)/she is (name): niya
 we are (name): nithwe
 you (pl) are (name): ninywe
 they are (name): nibo
+(name) was: iya
 what is your name?: erina lyawu niwendi?/niwendi?
 where are you from?: wukalhwahi?/wukalhwa hayi?
 nice to meet you: ngatsemire ngakusangana/ngatsemire rikusangana
@@ -225,6 +226,7 @@ bed: engyingo
 sheet: esithi
 
 Abandu
+someone with your name: amazina
 mother-in-law: mabyala
 father-in-law: syobyala
 girlfriend/boyfriend: omuraghani
@@ -624,6 +626,8 @@ it is raining/it's raining: embulha yinemuwa
 lightning: akarabyo
 
 Ebinywa byemikolere
+to be quiet: erihuna
+to coo/to mutter: erilukuma
 to mix/to confuse: eritabura
 to stay longer/to live forever: erikotha
 to sneeze: erimira
@@ -637,12 +641,15 @@ to greet for me: erindamukirya
 to greet for: eriramukirya
 to sing for: erimbira
 to accept: erikirirya/eriligha
+to believe in: erikiriryamo
 to introduce: erikaniako/eriyisoborerako
 to do business: erisubura
 to introduce a husband: eriyathahya
 to drum: eriwatha
 to need: eriyithagha
 to call (name): eryahula
+to be called (name): erihulhwamo
+to assume full control of: eriyighangira
 to cry/to eat somewhere: eririra
 to give (name): eriluka
 to rot: eribola
@@ -659,7 +666,8 @@ to sprinkle flour over water: erilukira
 to take care of/to care for: erilembera
 to take one by one: erithondola
 to heal (intransitive)/to recover: erilhama
-to heal (transitive)/to save: erilhamya
+to heal (transitive)/to save: erilhamia
+to save somewhere: erilhamirya
 to treat: erithambira
 to set (bone)/to sprinkle (salt): erilunga
 to work with wood: eribatsa
@@ -710,7 +718,8 @@ to seat/to strengthen: erikalya
 to pour: eryutha/eryuthula
 to smell (intransitive): erikumba/eribeha
 to smell (transitive): eribehererya
-to plant: erihera
+to plant/to go away/to be taken away: erihera
+to mistakenly think: erilengemerwa
 to pay/to be blunt: erithuha
 to be swept away: erisendya
 to collect firewood/to gather firewood: erisenya
@@ -743,7 +752,9 @@ to crow/to keep: eribika
 to be late morning: erikererera
 to delay (transitive): erikererezya
 to be taught: erisomesibwa/erithendekwa
-to stop/to not/to cause/to let: erileka/eritsira
+to let: eriyira
+to become: eriyikola
+to stop/to not/to cause/to leave alone: erileka/eritsira
 to shave: erighemba
 to be shaved: erighembwa
 to fear: erisagha/eryubaha
@@ -762,7 +773,7 @@ to speed up: eryanguhya
 to chew: eritakunya
 to sweep: eribirya
 to swallow: erimera
-to chase: eribinga
+to chase: eribinga/erihighitha
 to be broken: eribunika
 to be found: eribanika
 to be first: eribanza
@@ -801,6 +812,7 @@ to be happy: eritsema
 to be very happy: eritsemererwa
 to break: eribuna
 to bifurcate/to spit: erithwa
+to separate: eriyithwa
 to understand: erikenga
 to answer/to repeat after/to reply: erisubamo
 to be next/to reach abruptly: eritsubuka
@@ -908,7 +920,7 @@ to give: eriha/erihererya
 to open: erikyungula
 to clean/to be clean: erihenia
 to close: erikyinga
-to hoe/land: eririma
+to hoe/land/garden: eririma
 to dig/to dig up: erithakula
 to bury: erithaba
 to be from/to come from/to fight/to leak: erilhwa
@@ -948,6 +960,7 @@ to force: erikaka
 to stay/to sit/to be hard/charcoal: erikala
 to catch/to hold/to take (video): erihamba
 to hold onto: erihambako
+to be connected/to be related: erihambangana
 to be smooth: eribetekerera
 to be slippery: erithendera
 to teach: erisomesya/erithendeka
@@ -1190,7 +1203,8 @@ inside: omwakathi
 heaven/sky: olhubula
 side/part: olhuhandi
 sub-county: egomporo
-world/earth: ekithaka/ekihuwo
+earth: ekithaka
+world/land (of)/village (of): ekihugho
 place of worship: ehikalo
 catholic church: ekeleziya
 way/path: enzira
@@ -1282,7 +1296,7 @@ that way (he)/that way (she): athia
 that way (we): thuthia
 that way (you (pl)): muthia
 that way (they): bathia
-when (relative)/time (of): omughulhu
+when (relative)/time (of)/period: omughulhu
 when: mughulhu wahi/di
 which day: ekiro kyakangahi/kyakangahi
 
@@ -1360,6 +1374,16 @@ tan: omusukwe
 brown: eru
 
 Ebindi nebindi
+means: emibere
+when he: abere
+when you: wubere
+when I: ngabere
+when they: babere
+when we: thubere
+when you (pl): mubere
+sign of/proof: ekimanyisyo
+knowledge/wisdom: amenge
+thought: ekirengekania
 tape measure: orukoba
 the real thing: nyinenyine
 foot (measurement): efithi
@@ -1371,7 +1395,7 @@ miscellaneous: ebindi nebindi
 need: ekiyithawa
 slowness: obolobolo
 is him/is her/is that: woyu/yoyu
-together: haghuma
+together: haghuma/haghumerere
 top: akasweswe
 meaning: omutsowo
 verb: ekinywa kyemikolere
