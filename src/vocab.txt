@@ -626,6 +626,10 @@ it is raining/it's raining: embulha yinemuwa
 lightning: akarabyo
 
 Ebinywa byemikolere
+to smear on body: erihakaba
+to smear on something: erihakabya
+to spread (intransitive)/to go for each other: erighenderana
+to struggle: erithabula
 to be quiet: erihuna
 to coo/to mutter: erilukuma
 to mix/to confuse: eritabura
@@ -640,7 +644,7 @@ to take off: erilusya
 to greet for me: erindamukirya
 to greet for: eriramukirya
 to sing for: erimbira
-to accept: erikirirya/eriligha
+to accept/to believe: erikirirya/eriligha
 to believe in: erikiriryamo
 to introduce: erikaniako/eriyisoborerako
 to do business: erisubura
@@ -661,6 +665,8 @@ to disturb: erisumbugha/eritalibanizya
 to say goodbye: erilagha
 to explain: erisoborera
 to change (transitive): erihundulha
+to trust: eriyikethera
+to doubt: erihangyahangya
 to change (intransitive): erihinduka
 to sprinkle flour over water: erilukira
 to take care of/to care for: erilembera
@@ -902,7 +908,7 @@ to stand for: erimanera
 to add: eritaranizya/eryongera
 to dance: erihothola
 to scare: erithinga
-to brush: erisiga
+to brush/to spread (transitive): erisiga
 to divide: erighaba
 to get up/to remember: eribuka
 to wake up: eritsumbuka
@@ -959,6 +965,9 @@ to go for/to imitate: erighendera
 to force: erikaka
 to stay/to sit/to be hard/charcoal: erikala
 to catch/to hold/to take (video): erihamba
+to catch (something thrown): eribaka
+to be caught: erihambwa
+to befriend: erinywana
 to hold onto: erihambako
 to be connected/to be related: erihambangana
 to be smooth: eribetekerera
@@ -1096,6 +1105,8 @@ guinea pig: epanya
 gorilla: ekibandu
 child (animal)/babe: ekyana
 cow: ende
+big cow: ekithe
+small cow: akathe
 pig: embunu
 dog: embwa
 cat: akagyangwa
@@ -1163,7 +1174,8 @@ stones: amabwe
 grass: ebithi
 blade of grass: ekithi
 mud: ebyondo/obudongo
-rainbow: ekime
+rainbow: ekima
+dew: ekime
 
 Emyanya
 England: Bungereza
@@ -1374,6 +1386,9 @@ tan: omusukwe
 brown: eru
 
 Ebindi nebindi
+dear (person): mwanethu
+story: omughanighani
+struggle: ekithabule
 means: emibere
 when he: abere
 when you: wubere
@@ -1475,6 +1490,7 @@ pole: ekikondo
 laughter: amaseka
 question: ekibulyo
 news: amakuru/omwatsi/omuhyaka
+message: engulhu
 look!: ohoyi!
 electricity: amasenyerezi
 name: erina
