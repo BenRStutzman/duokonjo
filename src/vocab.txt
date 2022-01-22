@@ -226,6 +226,7 @@ bed: engyingo
 sheet: esithi
 
 Abandu
+player: omusathi
 stranger/foreigner: omunyahali
 someone with your name: amazina
 mother-in-law: mabyala
@@ -455,7 +456,7 @@ drumbeat: ekighasa
 toy: ekidole/edole
 
 Ebiyithawa
-he/she (past) (verb): inia
+he (past) (verb)/she (past) (verb): inia
 if I had (today): kuna
 if I had (yesterday): kunga
 I would: nanga
@@ -643,7 +644,7 @@ lightning: akarabyo
 Ebinywa byemikolere
 to smear on body: erihakaba
 to smear on something: erihakabya
-to spread (intransitive)/to go for each other: erighenderana
+to spread (intr)/to go for each other: erighenderana
 to struggle: erithabula
 to be quiet: erihuna
 to coo/to mutter: erilukuma
@@ -676,20 +677,20 @@ to unbraid/to unweave: erisambula
 to rot: eribola
 to shoot/to germinate/to sprout: erilasa
 to react angrily: eritabuka
-to pound (intransitive)/to hammer (intransitive)/to knock (intransitive): erikongotha
-to pound (transitive)/to hammer (transitive)/to knock on: erikongothera
+to pound (intr)/to hammer (intr)/to knock (intr): erikongotha
+to pound (tr)/to hammer (tr)/to knock on: erikongothera
 to disturb: erisumbugha/eritalibanizya
 to say goodbye: erilagha
 to explain: erisoborera
-to change (transitive): erihundulha
+to change (intr): erihinduka
+to change (tr): erihundulha
 to trust: eriyikethera
 to doubt: erihangyahangya
-to change (intransitive): erihinduka
 to sprinkle flour over water: erilukira
 to take care of/to care for: erilembera
 to take one by one: erithondola
-to heal (intransitive)/to recover: erilhama
-to heal (transitive)/to save: erilhamia
+to heal (intr)/to recover: erilhama
+to heal (tr)/to save: erilhamia
 to save somewhere: erilhamirya
 to treat: erithambira
 to set (bone)/to sprinkle (salt): erilunga
@@ -713,7 +714,7 @@ to cook with: eritsumbisya
 to wrap with banana leaves: eribomba
 to repair: erikokotya
 to prepare for/to repair for: erikokoterya
-to prepare (transitive): eritakanizya
+to prepare (tr): eritakanizya
 to make suffer: eritesa
 to preach: eritebezya
 to vote: erikoma
@@ -740,8 +741,8 @@ to get married (man): eriherukya/erithahya
 to fry: erikalanga
 to seat/to strengthen: erikalya
 to pour: eryutha/eryuthula
-to smell (intransitive): erikumba/eribeha
-to smell (transitive): eribehererya
+to smell (intr): erikumba/eribeha
+to smell (tr): eribehererya
 to plant/to go away/to be taken away: erihera
 to mistakenly think: erilengemerwa
 to pay/to be blunt: erithuha
@@ -768,13 +769,13 @@ to open with hands: erihatha
 to be about to: erikisiya
 to wear/to put on: eryambala
 to follow (in order)/to come back to life: erisuba
-to return (intransitive): erisubulha
-to return (transitive): erisubulya
+to return (intr): erisubulha
+to return (tr): erisubulya
 to go to and return: erisubulira
 to turn: eribinduka
 to crow/to keep: eribika
 to be late morning: erikererera
-to delay (transitive): erikererezya
+to delay (tr): erikererezya
 to be taught: erisomesibwa/erithendekwa
 to let: eriyira
 to become: eriyikola
@@ -786,8 +787,8 @@ to be dirty: erikina
 to be good/to be smart: eriwana
 to be strong: eriwuma
 to throw down: erithinera
-to go over/to set: erilenga
-to go over (transitive): erilengera
+to go over/to set (sun): erilenga
+to go over (tr): erilengera
 to measure: eripima
 to mash/to knead: erikama
 to be there: eribyayo
@@ -816,14 +817,14 @@ to get light: erikya
 to slaughter: erikera
 to send: erithuma
 to forget: eribirirwa
-to taste (intransitive)/to taste good: erisiha
-to taste (transitive): erirozia
-to leave (transitive): erisigha
+to taste (intr)/to taste good: erisiha
+to taste (tr): erirozia
+to leave (tr): erisigha
 to whistle: erisuwunda
 to visit: eribunga
-to fast/to afternoon/to delay (intransitive)/to abbreviate: erisiba
-to extend (intransitive): eriseghera
-to extend (transitive): erisegherya
+to fast/to afternoon/to delay (intr)/to abbreviate: erisiba
+to extend (intr): eriseghera
+to extend (tr): erisegherya
 to bend over: eryunama
 to be late: erikerererwa
 to bend: erikata
@@ -844,8 +845,8 @@ to follow: erikwama
 to cut/to turn (corner): erisara
 to clap: eribanda omwabyala
 to laugh: eriseka
-to laugh with/to weed (intransitive): erisekera
-to laugh at/to weed (transitive): erisekerera
+to laugh with/to weed (intr): erisekera
+to laugh at/to weed (tr): erisekerera
 to dry: eryuma
 to build: erihimba
 to make a mistake: eribulikira
@@ -867,16 +868,16 @@ to light/to turn on: eryakya
 to shine: eryaka
 to turn off: eririmya
 to be hot: erihuha
-to heat up: erihuhya
-to heat/to boil (transitive)/to burn (transitive): erihisya
-to boil (intransitive)/to burn (intransitive)/to be ready (food): erihya
+to heat up (intr): erihuhya
+to heat/to boil (tr)/to burn (tr): erihisya
+to boil (intr)/to burn (intr)/to be ready (food): erihya
 to respect: erisikya
 erihikya: to cause to reach
 to be respected: erisikibwa
 to manage: erithoka
 to articulate: erisobola
 to win/to beat (competition): erisinga/eriswirya
-to spoil (transitive): eritsandya
+to spoil (tr): eritsandya
 to give birth: eributha
 to be born: eributhwa
 to lay/to make (a bed): erisesa
@@ -909,8 +910,8 @@ to come back to life after being buried: erilubuka
 to rain: eriwa
 to fall on: eriwira
 to help: eriwathikya/eritsuna/eriyamba
-to fall over/to call (intransitive)/to draw/to take (picture): erithera
-to call (transitive): eritherera
+to fall over/to call (intr)/to draw/to take (picture): erithera
+to call (tr): eritherera
 to fall: erithogha
 to pierce: erithobola/eritimba
 to refuse: erighana
@@ -927,7 +928,7 @@ to stand for: erimanera
 to add: eritaranizya/eryongera
 to dance: erihothola
 to scare: erithinga
-to brush/to spread (transitive): erisiga
+to brush/to spread (tr): erisiga
 to divide: erighaba
 to get up/to remember: eribuka
 to wake up: eritsumbuka
@@ -952,8 +953,8 @@ to be from/to come from/to fight/to leak: erilhwa
 to be busy: erisurusutha/erisumbukana
 to come/to be back: eryasa
 to pass via: eryasira
-to pass (intransitive): erilaba
-to pass (transitive): erilabya
+to pass (intr): erilaba
+to pass (tr): erilabya
 to pass through: erilabalaba
 to be: eribya
 to put: erihira
@@ -970,7 +971,7 @@ to be lost/to be away/to lack: eribula/erithala
 to be lacking: eribulwa
 to be away somewhere: eribulira
 to forgive: erighanyira
-to hurt (intransitive)/to bite/to pain: eriluma
+to hurt (intr)/to bite/to pain: eriluma
 to be drunk: erithamira
 to go home from work: erilumbuka/erikuluka
 to knock: eritomera
@@ -1064,7 +1065,7 @@ child: omwana
 children: abana
 parents: ababuthi
 sister: mwali
-sisters/dear/they are: bali
+sisters/they are: bali
 brother: mughala
 brothers: baghala
 maternal aunt younger than mother: mama mulere/mamulere
@@ -1123,7 +1124,7 @@ guinea pig: epanya
 gorilla: ekibandu
 child (animal)/babe: ekyana
 cow: ende
-big cow: ekithe
+large cow: ekithe
 small cow: akathe
 pig: embunu
 dog: embwa
@@ -1411,7 +1412,7 @@ basket: ekibo
 antique: emangenge
 builder server: omupotha
 serving builders: ekipotha
-dear (person): mwanethu
+dear (person): mwanethu/bali
 story: omughanighani
 struggle: ekithabule
 means: emibere
