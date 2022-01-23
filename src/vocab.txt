@@ -297,7 +297,7 @@ ekisalya: gizzard
 embiko: kidney
 liver: obukindi
 pimple: omuburu
-blister: ekiberbere
+blister: ekiberebere
 boil: ekimatha
 bone: erikuha
 sweat: olhunza
@@ -456,7 +456,7 @@ drumbeat: ekighasa
 toy: ekidole/edole
 
 Ebiyithawa
-he (past) (verb)/she (past) (verb): inia
+he (verb) (past)/she (verb) (past): inia
 if I had (today): kuna
 if I had (yesterday): kunga
 I would: nanga
@@ -651,7 +651,7 @@ to coo/to mutter: erilukuma
 to mix/to confuse: eritabura
 to stay longer/to live forever: erikotha
 to sneeze: erimira
-to ferment: erilboeka
+to ferment: erilobeka
 to be hard (stiff): erikalabasana
 to be soft (squishy): eriloberera
 to scatter: eritsatsanga
@@ -1003,7 +1003,7 @@ to bring: eriletha
 to eat: erirya
 to rest: erihumula/eriluhuka
 to sleep: eribotsera
-to throw and hit: eribota
+to hit (by throwing): eribota
 to lie down: erikesya
 to close your eyes/deep part of river: eririba
 to want/to like/to love: eryanza
@@ -1212,8 +1212,6 @@ place: omwanya
 places: emyanya
 hospital: esipatara
 kingdom: obusinga
-here: hano
-this side: eno
 right: okulya
 left: okulembe
 forward/in front of/before/after (time): embere
@@ -1253,6 +1251,8 @@ school: esukuru/erithendekero
 schools: amasukuru
 village: ekyalo
 intersection: ekyaso
+here: hano
+this side/this (adjective): eno
 there (close): halya/aho
 there (far): erya
 there (where you are): eyo
@@ -1446,6 +1446,7 @@ doing: emikolere
 stomping sound: ekikindo
 akaghusu: question mark
 hammer: enyondo
+nail: omusumali
 I think: alenga
 birth: amabuthwa
 size: olhulengo

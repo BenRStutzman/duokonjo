@@ -267,7 +267,7 @@ class App extends React.Component {
     switch (this.state.phase) {
       case 'loading':
         content = (
-          <h1>loading verbs...</h1>
+          <h1>loading vocab...</h1>
         );
         break;
       case 'chooseLanguage':
