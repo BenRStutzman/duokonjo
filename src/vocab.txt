@@ -179,6 +179,8 @@ mushroom: olokwe
 mushrooms: obokwe
 bean: ekihimba
 beans: ebihimba
+deskinned beans: efirinda
+dried beans: obuthundi
 fresh bean: omusekwa
 soybeans: esoya
 maize: ekikusa
@@ -226,6 +228,8 @@ bed: engyingo
 sheet: esithi
 
 Abandu
+head of laity: mukulu wabakristayo
+church warden: omukebezya
 player: omusathi
 stranger/foreigner: omunyahali
 someone with your name: amazina
@@ -480,7 +484,7 @@ for only: ahabwa
 even if/even though: nomo
 then: ibwa
 and then/and now: neryo/neribwa
-now: hathia/esaha no
+now: hathia/esaha no/lino
 is there.../are there.../there is.../there are...: eyo yine...
 English: Olhusungu
 language: omubughe
@@ -642,6 +646,7 @@ it is raining/it's raining: embulha yinemuwa
 lightning: akarabyo
 
 Ebinywa byemikolere
+to impregnate: eritweka
 to smear on body: erihakaba
 to smear on something: erihakabya
 to spread (intr)/to go for each other: erighenderana
@@ -653,6 +658,7 @@ to stay longer/to live forever: erikotha
 to sneeze: erimira
 to ferment: erilobeka
 to be hard (stiff): erikalabasana
+to be easy: eriloba
 to be soft (squishy): eriloberera
 to scatter: eritsatsanga
 to base on: erilusirirya
@@ -992,15 +998,17 @@ to hold onto: erihambako
 to be connected/to be related: erihambangana
 to be smooth: eribetekerera
 to be slippery: erithendera
-to teach: erisomesya/erithendeka
+to teach: erisomesya/erithendeka/erighesya
 to read/to study: erisoma
-to learn/to practice: eriyigha
+to learn/to practice: erigha
 to write: erihandika
 to run: erithibitha
 to walk/to step: eriryatha
 to hit/to cane/to beat (physically): erihumba
 to bring: eriletha
 to eat: erirya
+to tire (intr): eriluha
+to tire (tr): eriluhya
 to rest: erihumula/eriluhuka
 to sleep: eribotsera
 to hit (by throwing): eribota
@@ -1147,6 +1155,10 @@ feather: ekyeya/ekipupa
 elephant: enzowu
 
 Obuhangwa
+snowflake: enzururu
+snow: esyonzururu
+desert/wilderness: embwarara
+ocean: engetsenene
 paspalm: egyigya
 horn/handlebar: erihembe
 crop: ekirimwa
@@ -1211,7 +1223,7 @@ road: enguda
 place: omwanya
 places: emyanya
 hospital: esipatara
-kingdom: obusinga
+kingdom: obusinga/obukama/obwami
 right: okulya
 left: okulembe
 forward/in front of/before/after (time): embere
@@ -1279,6 +1291,8 @@ syringe: ekirindi ekyengenzo
 tablet: ekinini
 
 Ebinywa bikongera mutsowu
+easy: olo
+exact: neti
 soft (squishy): loberere
 hard (stiff): kalabaseni
 roasted: kirye
@@ -1319,7 +1333,7 @@ what: ki
 how (I)/that (I): nyithi
 how (you)/that (you): wuthi
 how (he)/how (she)/that (he)/that (she): athi
-someone said: ambu
+someone said: ambu/mbu
 how (we)/that (we): thuthi
 how (you (pl))/that (you (pl)): muthi
 how (they)/that (they): bathi
@@ -1381,7 +1395,7 @@ verse: omulondo
 expert/senior: omusiniya
 education/service: ekisomo
 higher education: ekisomo kyahiwulhu
-teacher: omuhalimu/omuthendeki/omusomesya
+teacher: omuhalimu/omuthendeki/omusomesya/omughesya
 student: omuthendekwa/omwana wesukuru
 office: ekyaghanda
 paper: olhupapura
@@ -1398,6 +1412,7 @@ math: ekibalo
 
 Esyorangyi
 color: erangyi
+crimson: engulha
 black/darkness: ekirima
 red/blood: omusasi
 yellow/weaver bird: ekisande
@@ -1407,6 +1422,8 @@ tan: omusukwe
 brown: eru
 
 Ebindi nebindi
+power: obuthoki
+glory: ekitsumbi
 tax: omusolo
 basket: ekibo
 antique: emangenge
@@ -1435,6 +1452,7 @@ hearing/feeling: emyoghire
 miscellaneous: ebindi nebindi
 need: ekiyithawa
 slowness: obolobolo
+later: bolo
 is him/is her/is that: woyu/yoyu
 together: haghuma/haghumerere
 top: akasweswe
@@ -1576,4 +1594,4 @@ jealousy: obuha
 love: olwanzo
 dwelling: obwikalo
 long ago: kera
-infinity/forever: kera na kera
+infinity/forever: kera na kera/emiwulhu yosi
