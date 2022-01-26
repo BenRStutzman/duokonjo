@@ -31,6 +31,7 @@ try: Lengesya
 or: kwisi
 
 Emiramukirye
+how is the heart?: omuthimathi?
 greeting: emiramukirye
 how is it?: kithiki?
 how have things been?: biribithi?
@@ -82,6 +83,7 @@ nice to meet you: ngatsemire ngakusangana/ngatsemire rikusangana
 what nationality are you?/what is your nationality?: wuli muhi?
 
 Ebyalya
+husk: ekisunga
 flour: eyisyano
 fermented cassava: obusyano
 millet drink: obusyera
@@ -228,6 +230,7 @@ bed: engyingo
 sheet: esithi
 
 Abandu
+struggler: omuthabali
 head of laity: mukulu wabakristayo
 church warden: omukebezya
 player: omusathi
@@ -332,7 +335,7 @@ eye: eriso
 eyes: ameso
 body/work/skin: omubiri
 bodies: emibiri
-eyebrow: olhukigha
+eyebrow: olhukigha/olhukiha
 eyebrows: esyongigha
 face: obusu
 faces: amasu
@@ -460,6 +463,7 @@ drumbeat: ekighasa
 toy: ekidole/edole
 
 Ebiyithawa
+not: si
 he (verb) (past)/she (verb) (past): inia
 if I had (today): kuna
 if I had (yesterday): kunga
@@ -524,6 +528,7 @@ this (thing): eki
 that (thing): ekyo
 these (things): ebi
 those (things): ebyo
+that one: kyekyo/yeyo/yoyo/woyo
 again: thasa/sasa
 and me/with me: naghe
 and you/with you: nawu
@@ -531,6 +536,12 @@ and him/and her/with him/with her: nayo
 and us/with us: nethu
 and you (pl)/with you (pl): nenyu
 and them/with them: nabo
+I was of/I had: ingaliwa
+you were of/you had: iwuliwa
+he was of/she was of/he had/she had: iniwa
+we were of/we had: ithuliba
+you (pl) were of/you (pl) had: imuliba
+they were of/they had: iniba
 
 Esyosura
 number/chapter: esura/enamba
@@ -646,6 +657,12 @@ it is raining/it's raining: embulha yinemuwa
 lightning: akarabyo
 
 Ebinywa byemikolere
+to volunteer: eriyihwamo
+to have on top: eririko
+to container: eririmo
+to direct: erikangerira
+to put across: erikitsika
+to be OK: eritsibuha
 to impregnate: eritweka
 to smear on body: erihakaba
 to smear on something: erihakabya
@@ -762,7 +779,7 @@ to resemble: erisosa
 to enter: eringira
 to jump: eriyitsada
 to move out/to go out: erihulhuka
-to skip: erikyuruka
+to skip: erikyuruka/erikiruka
 to pluck/to tear out: eritsupa
 to guide: erisondola
 to join/to put together: erimathikania
@@ -882,6 +899,7 @@ erihikya: to cause to reach
 to be respected: erisikibwa
 to manage: erithoka
 to articulate: erisobola
+to husk: eriswa
 to win/to beat (competition): erisinga/eriswirya
 to spoil (tr): eritsandya
 to give birth: eributha
@@ -891,7 +909,7 @@ to ripen: eryera
 to bake: eribumba
 to be unfit: erisuha
 to trap (ball): erimania
-to mean: erimanyisya
+to mean: erimanyisya/eriminyisya
 to lose/to sharpen: erithalya
 to hear/to feel: eryowa
 to bathe: eryogha
@@ -925,6 +943,7 @@ to oppose: erighania
 to be full: erighutha/erisura
 to pray/to request: erisaba
 to play: erisatha
+to play somewhere: erisathira
 to kick: erisamba/eripika
 to grow: erikula
 to greet: eriramukya
@@ -1073,7 +1092,7 @@ child: omwana
 children: abana
 parents: ababuthi
 sister: mwali
-sisters/they are: bali
+sisters/they are/dear: bali
 brother: mughala
 brothers: baghala
 maternal aunt younger than mother: mama mulere/mamulere
@@ -1232,7 +1251,7 @@ backward/behind/after/before (time)/bedbug: enyuma
 slightly backward/slightly after/slightly behind/slightly before (time): ahanyuma
 slightly above/slightly over/slightly uphill/slightly high: ahiwulhu
 above/over/up/upper/uphill/high: eyiwulhu
-slightly below/slightly beneath/slighty low: ahikwa
+slightly below/slightly beneath/slightly low: ahikwa
 below/beneath/down/low/lower/downhill: ekabunu/eyikwa
 under/underneath: omwisi sy
 on the ground: ahisi
@@ -1285,7 +1304,7 @@ herbalist: omuthahwa wekikonzo
 witch doctor: omuthahwa wekibindi
 needle: engenzo
 malaria: omutsutsa
-medicine/carpenter: omubatsi
+medicine/carpenter: omubatsi/obubalya
 patient: omulwere
 syringe: ekirindi ekyengenzo
 tablet: ekinini
@@ -1422,14 +1441,20 @@ tan: omusukwe
 brown: eru
 
 Ebindi nebindi
+gathering: olhutherano
+OK: bo
+that means: obo
+fruit picker: ekisara
+sickle/scythe: engusu
+restriction: engyinga
 power: obuthoki
-glory: ekitsumbi
+glory: ekitsumbi/olhukengerwa
 tax: omusolo
 basket: ekibo
 antique: emangenge
 builder server: omupotha
 serving builders: ekipotha
-dear (person): mwanethu/bali
+dear (person): mwanethu
 story: omughanighani
 struggle: ekithabule
 means: emibere
@@ -1487,7 +1512,7 @@ rod: omwigho
 staff: ekibingyo
 rope: ekikoba
 sleep: othulho
-spear: erithumu
+spear: erithumu/erithumo
 wedding: obughene bwerithahya/obughene bweriherukya
 party: obughene/omukoro
 pencil lead: akakala
@@ -1575,7 +1600,7 @@ it's true/that's true: nikwenene
 oil: amaghuta
 case: olhubanza
 cases: esyombanza
-demarcation: olhubibi
+demarcation: olhubibi/esaro/omuthamo
 demarcations: esyombibi
 hole: ekyuna
 holes: ebyuna
