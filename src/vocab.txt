@@ -469,6 +469,7 @@ drumbeat: ekighasa
 toy: ekidole/edole
 
 Ebiyithawa
+prefix to a person: ya
 what are you going to do?: wukayakolayaki?
 what are you going to get?: wukaghendayaki?
 what were you going to get?: wulyaghendayaki?
@@ -781,11 +782,15 @@ to smell (intr): erikumba/eribeha
 to smell (tr): eribehererya
 to plant/to go away/to be taken away: erihera
 to mistakenly think: erilengemerwa
+to miss (goal): erithalhuka
+to just (only): erilhwaho
+to spear: eritsimitha
 to pay/to be blunt: erithuha
 to be swept away: erisendya
 to collect firewood/to gather firewood: erisenya
 to go up: erihethuka
 to go down: erindaghala
+to go down somewhere: erindaghalira
 to bring down: erindaghalya
 to be said/to be spoken: eribughwa
 to resemble: erisosa
@@ -807,7 +812,7 @@ to wear/to put on: eryambala
 to follow (in order)/to come back to life: erisuba
 to return (intr): erisubulha
 to return (tr): erisubulya
-to go to and return: erisubulira
+to return from somewhere: erisubulhira
 to turn: eribinduka
 to crow/to keep: eribika
 to be late morning: erikererera
@@ -816,6 +821,7 @@ to be taught: erisomesibwa/erithendekwa
 to let: eriyira
 to become: eriyikola
 to stop/to not/to cause/to leave alone: erileka/eritsira
+to stop somewhere: erilekera
 to shave: erighemba
 to be shaved: erighembwa
 to fear: erisagha/eryubaha
@@ -836,6 +842,7 @@ to sweep: eribirya
 to swallow: erimera
 to chase: eribinga/erihighitha
 to be broken: eribunika
+to have sex: eridika
 to be found: eribanika/erisangwa
 to be first: eribanza
 to be last: eriwunzerera
@@ -847,6 +854,9 @@ to move around: eribungabunga
 to move around aimlessly: erikoba
 to start/to begin: erithandika/eritsuka
 to be left: erisaka
+to leave (remaining): erisakya
+to smelt (intr): erihesa
+to smelt (tr): erihesera
 to tie: eriboha
 to get dark: erira
 to get light: erikya
@@ -937,7 +947,7 @@ to run out (on): erihwako
 to run out (in): erihwamo
 to fill/to pay for (person): eripakira
 to find: eribana
-to meet: erisangana/erikweya
+to meet: erisangana/erisanga/erikweya
 to finish: eriwunza
 to reach/family/to be correct: erihika
 to look for: erisondia/erirondia
@@ -963,7 +973,7 @@ to grow: erikula
 to greet: eriramukya
 to greet me: erindamukya
 to stand: erihangana/erimana
-to stand for: erimanera
+to stand for/to stand somewhere: erimanera
 to add: eritaranizya/eryongera
 to dance: erihothola
 to scare: erithinga
@@ -1034,7 +1044,8 @@ to befriend: erinywana
 to hold onto: erihambako
 to be connected/to be related: erihambangana
 to be smooth: eribetekerera
-to be slippery: erithendera
+to be slippery/to slip/to slide: erithendera
+to be proud: eriyipetha/eriyisyetha
 to teach: erisomesya/erithendeka/erighesya
 to read/to study: erisoma
 to learn/to practice: erigha
@@ -1230,6 +1241,8 @@ dirt/soil: omuthaka
 star: engununu
 raised land where you can't grow crops: obwerere
 raised lands where you can't grow crops: amerere
+land with water: ekisanga
+infertile land: olhukuka
 hill: akathwa
 hills: ehithwa
 river: olhusi
@@ -1367,7 +1380,8 @@ who is/is who: nindi
 who is (pl)/is who (pl): nibahi
 who/other: ndi
 who (pl): bahi
-what/which: ki
+what: ki
+which: ahi
 how (I)/that (I): nyithi
 how (you)/that (you): wuthi
 how (he)/how (she)/that (he)/that (she): athi
@@ -1460,6 +1474,7 @@ tan: omusukwe
 brown: eru
 
 Ebindi nebindi
+for good: ighuma
 the first time: limbere
 fight: amalhwa
 war: olhuhi
@@ -1549,7 +1564,7 @@ fire: omuliro
 smoke: omukyi
 broom: olhubiryo
 like (verb): ngoko
-like (noun): nge
+like (noun): ng
 eve: ekyamaraliyo
 religious holiday: ekiro kikulu
 noise/sound: etoko
