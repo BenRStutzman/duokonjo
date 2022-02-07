@@ -77,7 +77,7 @@ he is (name)/she is (name): niya
 we are (name): nithwe
 you (pl) are (name): ninywe
 they are (name): nibo
-(name) was: iya
+was (name): iya
 what is your name?: erina lyawu niwendi?/niwendi?
 where are you from?: wukalhwahi?/wukalhwa hayi?
 nice to meet you: ngatsemire ngakusangana/ngatsemire rikusangana
@@ -93,7 +93,7 @@ flour: eyisyano
 fermented cassava: obusyano
 millet drink: obusyera
 maize flour/maize porridge: akasoli
-stiff maize porridge: eposyo
+maize mush: eposyo
 packed lunch: endanda
 rotten thing: ekibole
 drink: ekirinywa
@@ -167,6 +167,7 @@ porridge: obusara
 avocado: evakedo
 tomato: olhunyanya/ekinyanya
 tomatoes: esyonyanya/ebinyanya
+hot pepper: epiripiri
 meat: enyama
 rice: omuchere/omutsele
 water: amaghetse
@@ -182,6 +183,7 @@ turkeys: ebisikoko/esyosikoko
 sugar: esukali
 beer: obwabu
 beer (pl): amabu
+alcoholic banana drink: ewaragyi
 mushroom: olokwe
 mushrooms: obokwe
 bean: ekihimba
@@ -236,6 +238,8 @@ bed: engyingo
 sheet: esithi
 
 Abandu
+rich person: omugaga/epatro/omulod
+poor person: omunaku
 observer: omulangiri
 thief: omwibi
 witness: omwema
@@ -245,7 +249,7 @@ adult: omundu mukulu
 older person: omusyakulu/omukekulu
 representative: omumaniri
 struggler: omuthabali
-head of laity: mukulu wabakristayo
+head of laity: omukulu wabakristayo
 church warden: omukebezya
 player: omusathi
 stranger/foreigner: omunyahali
@@ -480,6 +484,7 @@ drumbeat: ekighasa
 toy: ekidole/edole
 
 Ebiyithawa
+is it?/are they?: wama?
 prefix to a person: ya
 what are you going to do?: wukayakolayaki?
 what are you going to get?: wukaghendayaki?
@@ -681,6 +686,10 @@ it is raining/it's raining: embulha yinemuwa
 lightning: akarabyo
 
 Ebinywa byemikolere
+to stir up/to unsettle: erithabula
+to be sour: erikaliha
+to hurt after being burnt (intr): eribeberera
+to come sit: erisikala
 to steal: eriba
 to plant (a pole): eritsimba
 to volunteer/to agree to do: eriyihwamo
@@ -693,7 +702,7 @@ to impregnate: eritweka
 to smear on body: erihakaba
 to smear on something: erihakabya
 to spread (intr)/to go for each other: erighenderana
-to struggle: erithabula
+to struggle: erithabala
 to shift (intr): erihuma
 to shift (tr): erihumia
 to be quiet: erihuna
@@ -701,7 +710,7 @@ to coo/to mutter: erilukuma
 to mix/to confuse: eritabura
 to stay longer/to live forever: erikotha
 to sneeze: erimira
-to ferment: erilobeka
+to ferment (tr): erilobeka
 to be hard (stiff): erikalabasana
 to be easy: eriloba
 to be soft (squishy): eriloberera
@@ -720,10 +729,10 @@ to introduce a husband: eriyathahya
 to drum: eriwatha
 to need: eriyithagha
 to call (name): eryahula/eryetha
+to be called (name): erihulhwamo
 to clear: erihula
 to block: erikika
 to unblock/to break through: erikikulha
-to be called (name): erihulhwamo
 to assume full control of: eriyighangira
 to cry/to eat somewhere: eririra
 to give (name)/to braid/to weave: eriluka
@@ -769,7 +778,7 @@ to be cooked for: eritsumbirwa
 to cook with: eritsumbisya
 to wrap with banana leaves: eribomba
 to repair: erikokotya
-to prepare for/to repair for: erikokoterya
+to prepare (tr) for/to repair for: erikokoterya
 to prepare (tr): eritakanizya
 to make suffer: eritesa
 to preach: eritebezya
@@ -847,7 +856,7 @@ to shave: erighemba
 to be shaved: erighembwa
 to fear: erisagha/eryubaha
 to be dirty: erikina
-to be good/to be smart: eriwana
+to be good/to be smart/to be beautiful: eriwana
 to be strong: eriwuma
 to throw down: erithinera
 to go over/to set (sun): erilenga
@@ -952,7 +961,7 @@ to win/to beat (competition): erisinga/eriswirya
 to spoil (tr): eritsandya
 to give birth: eributha
 to be born: eributhwa
-to lay/to make (a bed): erisesa
+to lay/to make (a bed)/to be spicy: erisesa
 to ripen: eryera
 to bake: eribumba
 to be unfit: erisuha
@@ -1239,6 +1248,7 @@ dove: akalikuku/epizo/akapizo
 doves: othulikuku
 dovelike brown bird in bush: ekilikuku
 feather: ekyeya/ekipupa
+feathers/arm hair (pl): ebyeya
 fur: obweya
 elephant: enzowu
 
@@ -1517,6 +1527,9 @@ tan: omusukwe
 brown: eru
 
 Ebindi nebindi
+that small thing there (close): akalya
+wealth: obugaga
+poverty: obunaku
 floating burnt trash: embululukira
 steering wheel: omuthaghalha
 timber/piece: omwango
@@ -1544,7 +1557,7 @@ dear (person): mwanethu
 story: omughanighani
 struggle: ekithabule
 means: emibere
-when he: abere
+when he/when she: abere
 when you: wubere
 when I: ngabere
 when they: babere
