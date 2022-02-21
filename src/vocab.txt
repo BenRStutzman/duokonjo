@@ -331,6 +331,7 @@ Omubiri
 olhuhalha: balding hairstyle
 pubic hair: endyo
 pubic hair (pl): esyondyo
+penis: obulume
 rash/time of planting: obuhere
 rash dot: akahere
 arm hair: akeya
@@ -753,7 +754,7 @@ to be soft (squishy): eriloberera
 to be simple/to be nice/to be easy: eryoloba/eriloba
 to scatter: eritsatsanga
 to base on: erilusirirya/erilugirira
-to take off/to get out (tr): erilusya
+to take off/to get out (tr)/to take out: erilusya
 to greet for me: erindamukirya
 to greet for: eriramukirya
 to sing for: erimbira
@@ -778,7 +779,7 @@ to shoot/to germinate/to sprout: erilasa
 to react angrily/to be tough on: eritabuka/eritsuruma/eriyomba
 to pound (intr)/to hammer (intr)/to knock (intr): erikongotha
 to pound (tr)/to hammer (tr)/to knock on: erikongothera
-to disturb: erisumbugha/eritalibanizya
+to disturb: erisumbugha/eritalibanizya/erigyowa
 to say goodbye: erilagha
 to explain: erisoborera
 to gather (intr)/fellowship: erihindana
@@ -905,6 +906,7 @@ to be shaved: erighembwa
 to fear: erisagha/eryubaha
 to be dirty: erikina
 to be good/to be smart/to be beautiful: eriwana
+to be shabby/to worsen: eribiha
 to be strong: eriwuma
 to throw down: erithinera
 to go over/to set (sun): erilenga
@@ -1033,7 +1035,7 @@ to run out (in): erihwamo
 to fill/to pay for (person): eripakira
 to find: eribana
 to be holy: eribuyirira
-to meet: erisangana/erisanga/erikweya
+to meet: erisangana/erisanga/erikweya/eryeya
 to invite: erikokya
 to invite for: erikokerya
 to get used to/to tear a piece (of obundu) for: eribeghera
@@ -1062,7 +1064,7 @@ to pray/to request: erisaba
 to play: erisatha
 to play at: erisathira
 to kick: erisamba/eripika
-to grow: erikula
+to grow (intr): erikula
 to greet: eriramukya
 to greet me: erindamukya
 to stand: erihangana/erimana
@@ -1117,7 +1119,7 @@ to drive: erivuga
 to untie: erikundulha
 to thunder: eripura
 to be fantastic: erilhuma
-to toss to remove dirt/to take out/to print: erihulhukya
+to toss to remove dirt/to print: erihulhukya
 to ask: eribulya
 to be lost/to be away/to lack: eribula/erithala
 to be lacking: eribulwa
@@ -1128,7 +1130,7 @@ to scrape: eriharura
 to scratch: eriyegha
 to be drunk: erithamira
 to go home from work: erilumbuka/erikuluka
-to knock: eritomera
+to knock: eritomera/erihinda
 to eat greedily: erithomera
 to thank: erisima
 to know: eriminya
@@ -1273,6 +1275,7 @@ second child after twins: Kamalha
 third child after twins: Kibaba
 
 Ebisoro
+spider: ekithathangulha
 cockroach: ekinyenze
 tick: enguha
 bee: enzuki
@@ -1291,6 +1294,10 @@ snake: enzoka
 lizard: ekihangala
 lion: endale
 animal: ekisoro
+female animal: engali
+female sheep or goat that hasn't given birth: erusi
+female sheep or goat that's given birth: ebughuma
+male sheep or goat: embaya
 mother bird: eributhi
 grasshopper: omusyenene
 frog: ekikere
@@ -1474,6 +1481,7 @@ tablet: ekinini
 leprosy: ebihagha
 
 Ebinywa bikongera mutsowu
+male: wobulume/yobulume
 gentle: molo
 full/whole: yima
 easy: olo
@@ -1556,7 +1564,7 @@ fork: ekigyiko kyefoko
 dish: esahani/ebakuli/ekyeririrako
 what is eaten: ekyeriryako
 cup: ekikopo
-half kilo cup: egama
+half-kilo cup: egama
 soup/sauce: emboka/omukubi
 ghee: amaghuta wende
 knife: omuhamba
@@ -1629,8 +1637,8 @@ dead thing: ekiku
 full thing: ekighima
 situation: embera
 is where he is/is where she is: yali
-last thing: ekyokuwunzerera
-lastly: ekikawunzerera
+firstly: ekyokubanza
+lastly: ekyeriwunzerera
 tower: omulongothi
 whisper: obuhwehwe
 that small thing there (close): akalya
@@ -1705,7 +1713,7 @@ something that bites/something that hurts: ekikaluma
 tank: ethanga
 clay plate: ekibindi
 whistle: efirimbi
-problem: obutsibo/ekitsibo/obulitho
+problem: obutsibo/ekitsibo/obulitho/etabu
 handle: ekirindi
 wish/desire: engumbu
 paka: until/still
