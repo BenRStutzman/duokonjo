@@ -247,6 +247,9 @@ bed: engyingo
 sheet: esithi
 
 Abandu
+ekibbubbu: mute person
+drummer: omuwoma
+omusabasa: relative
 digger: omulimi
 dead person: omuholi
 departed person: omughendi
@@ -366,7 +369,7 @@ sweat: olhunza
 armpits: amasakaro
 voice/sound: omulenge
 pregnancy: obukule
-cold (illness): ekihinzi
+cold (illness): ekihinzi/esenyiga
 saliva: amathande/ebithande
 nose: enyindo
 noses: esyonyindo
@@ -678,7 +681,7 @@ one million: emithwalu kikumi
 
 Obuthuku (owesaha)
 at times: hakanayira
-sometimes: obundi buthuku
+sometimes/sometime/another time: obundi buthuku
 always: obuli buthuku
 time (uncountable)/weather: obuthuku
 time (countable): omurundi
@@ -732,6 +735,8 @@ it is raining/it's raining: embulha yinemuwa
 lightning: akarabyo
 
 Ebinywa byemikolere
+to imitate: erigherererya
+to be warm: eritsambatsamba
 to abuse: eritsuma
 to filter: erisengegya
 to trample/to walk on: eriryathangerira
@@ -794,7 +799,8 @@ to introduce oneself: eriyisoborerako
 to do business: erisubura
 to drum: eriwatha
 to need: eriyithagha
-to call (name): eryahula/eryetha
+to call (name)/to mention: eryahula/eryetha
+to say something belongs to someone: eryahulirya
 to be called (name): erihulhwamo
 to clear: erihula
 to block: erikika
@@ -916,7 +922,7 @@ to annoy: erighalirania
 to think: erilengekania
 to create/country: erihanga
 to look behind/to mark: erikebera
-to send/to give a push: eritsindika/erithuma
+to send/to give a push: eritsindika/erithuma/erilebeka
 to open with hands: erihatha
 to be about to: erikisiya
 to wear/to put on (clothes): eryambala/erimpala
@@ -995,6 +1001,7 @@ to feed each other: erilisania
 to roast: eryokya
 to roll: erilinga
 to hang: erihanika
+to put out to dry: eryanika
 to count: eribala/erighanza
 to be happy: eritsema
 to be very happy: eritsemererwa
@@ -1013,7 +1020,7 @@ to cut for: erisarira
 to clap: eribanda omwabyala
 to laugh: eriseka
 to laugh with/to weed (intr): erisekera
-to laugh at/to weed (tr): erisekerera
+to laugh at/to weed (tr): erisekerera/erisekererya
 to dry: eryuma
 to build: erihimba
 to roof: erisakala
@@ -1041,7 +1048,7 @@ to be hot: erihuha
 to heat up (intr): erihuhya
 to heat/to boil (tr)/to burn (tr): erihisya
 to burn (intr)/to be ready (food): erihya
-to boil (intr): eritokomera/eribera
+to boil (intr): eritokoma/eribera
 to boil (intr) from: eritokomera
 to respect: erisikya
 erihikya: to cause to reach
@@ -1159,6 +1166,7 @@ to pass (tr): erilabya
 to pass through: erilabalaba
 to be: eribya
 to put: erihira
+to shout at: eryahira/eryahirya
 to turn on for someone: erihirirako
 to place/to move into own home with spouse: eritheka
 to buy: eriwulha
@@ -1232,7 +1240,7 @@ to want/to like/to love: eryanza
 to settle (person)/to be calm (person): erithekana
 to tell: eribwira/erithula/erithulira
 to see/to look at/to watch: erilebya/erisamalira/erilangera/erithungerera
-to go watch: erileberya
+to go watch/to go look at/to go see: erileberya
 to have to/to must/to be worthy: eritholera
 to pick up one by one: erithola
 to take back/to restore/to talk about a story someone else is talking about: erisubya
@@ -1682,6 +1690,17 @@ tan: omusukwe
 brown: eru
 
 Ebindi nebindi
+deathbed: akalebulebu
+short silence: akahuno
+smell: akahoho
+ethadoba: old-fashioned oil lamp
+the one between: akahakathi
+disaster: akahangyi
+imitation: akagherereryo
+a bit of warmth: akabembere
+was _ing: _lwe _nemu_
+if...: _mabya i...
+when...: i...
 tickle: obuyuyu
 sack: eguthiha
 secret: embitha
@@ -1733,6 +1752,7 @@ the first time: limbere
 beginning: enzuko
 fight: amalhwa
 war/fighting: olhuhi
+conflict: akaburungu
 gathering: olhutherano
 OK: bo
 that means: obo
