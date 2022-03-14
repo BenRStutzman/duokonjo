@@ -35,7 +35,7 @@ how is the heart?: omuthimathi?
 greeting: emiramukirye
 how is it?: kithiki?
 how are things?: biribithi?
-good morning: obukyire/wabukire/bwakere
+good morning: obukyire/wabukyire/wabukire/bwakere
 good afternoon/good evening: wasibire
 what's new?: wamathasyowa wahi?/wundi wahi?/wahi nowundi?/owangabyeyo?/owali eyo?
 it's morning/it is morning: bwamakya/bwabirikya/bwamabirikya
@@ -86,7 +86,7 @@ what nationality are you?/what is your nationality?: wuli muhi?
 Ebyalya
 food from maize juice: amatsayidongo
 slaughterer's share of meat: amabayi
-tobacco: erithaba
+tobacco: ethaba
 nicotine: akalumba
 ginger: etangahuzi
 banana and cassava dough: ebwanga
@@ -256,7 +256,7 @@ omusabasa: relative
 digger: omulimi
 dead person: omuholi
 departed person: omughendi
-layer: omwimaniri wesyombanza
+lawyer: omwimaniri wesyombanza
 neighbor: omulikyethu
 dumb person: omudoma
 Jockim's clan: abahira
@@ -616,7 +616,7 @@ nothing: wapi/bule
 there is not/there isn't: sihali/siyiri/sikiri/simuli/skuli
 in/into: omo
 contains: omuli
-on/a share of/by/about/some/than: oko/okwa
+on/a share of/by/about/some (noun)/than: oko/okwa
 has on top: okuli
 this (thing): eki
 that (thing): ekyo
@@ -768,13 +768,15 @@ it is raining/it's raining: embulha yinemuwa
 lightning: akarabyo
 
 Ebinywa byemikolere
+to be weak: eritseka
+to be ashamed: erihemuka
 to straighten: eriterekererya
 to lighten skin: erizughura
 to incubate (tr): erilalira
 to criticize: erikuthya
 to be absent: eryusa
 to just _: erikwama kya_
-to correct: erihabula
+to correct: erihabula/erihengulha
 to imitate: erigherererya
 to be warm: eritsambatsamba
 to abuse: eritsuma
@@ -916,7 +918,7 @@ to be right: erithunganana/erihikerera
 to be created: erihangikwa
 to pick teams: erironda
 to kill/to make (a tickle): eritha
-to kill from: erithira
+to kill at: erithira
 to be killed: erithibwa
 to accompany: erikwamanisya
 to poop: erinia
@@ -1072,9 +1074,10 @@ to cut/to turn (corner): erisara
 to cut for: erisarira
 to clap: eribanda omwabyala
 to laugh: eriseka
+to make laugh: erisekya
 to laugh with/to weed (intr): erisekera
 to laugh at/to weed (tr): erisekerera/erisekererya
-to dry: eryuma
+to dry (intr): eryuma
 to build: erihimba
 to roof: erisakala
 to make a mistake: eribulikira
@@ -1102,11 +1105,11 @@ to heat up (intr): erihuhya
 to heat/to boil (tr)/to burn (tr): erihisya
 to burn (intr)/to be ready (food): erihya
 to boil (intr): eritokoma/eribera
-to boil (intr) from: eritokomera
+to boil (intr) at: eritokomera
 to be cold: erihuhira
 to cool down (weather): erihendeka
 to respect: erisikya
-erihikya: to cause to reach
+to make reach: erihikya
 to be respected: erisikibwa
 to manage: erithoka
 to articulate: erisobola
@@ -1150,7 +1153,7 @@ to look for: erisondia/erirondia
 to look for for: erisonderya/erisondirya
 to be looked for: erisondibwa
 to suffer/to die: erikwa/erihola
-to die from: erikwira
+to die at: erikwira
 to torture: eryaghalwa
 to go early in the morning: eritsunduka
 to come back to life after being buried: erilubuka
@@ -1224,7 +1227,7 @@ to pass via: eryasira
 to pass (intr): erilaba
 to pass (tr): erilabya
 to pass through: erilabalaba
-to turn on for someone: erihirirako
+to turn on for: erihirirako
 to place/to move into own home with spouse: eritheka
 to buy: eriwulha
 to sell: eriwulhya
@@ -1292,7 +1295,7 @@ to eat: erirya
 to eat for me: erindira
 to tire (intr): eriluha
 to tire (tr): eriluhya
-to rest: erihumula/eriluhuka
+to rest/to break (from): erihumula/eriluhuka
 to sleep: eribotsera
 to hit (by throwing): eribota
 to lie down: erikesya
@@ -1514,7 +1517,7 @@ reeds: esiseke
 tree/stick: omuthi
 trees/sticks: emithi
 kind of tree in mountains: omuthi wekisungu
-sappy tree: abuthula
+sappy tree: obuthula
 sap: amatsetse
 bark: ekikuku
 stump: ekisiki
@@ -1533,6 +1536,7 @@ stream of excess water: omuyeri
 
 Emyanya
 anywhere: ahosihosi/kithia kithia
+somewhere: obulebe/halebe
 bad place: habi
 cemetery: amahero
 England: Bungereza
@@ -1621,6 +1625,7 @@ tablet: ekinini
 leprosy: ebihagha
 
 Ebinywa bikongera mutsowu
+some (adjective): rebe/lebe
 male: wobulume/yobulume
 gentle: molo
 full/whole: yima
@@ -1708,7 +1713,7 @@ cup: ekikopo
 half-kilo cup: egama
 soup/sauce: emboka/omukubi
 soup liquid: omutsololo
-ghee: amaghuta wende
+ghee: amaghutha wende
 knife: omuhamba
 panga: ekipanga
 mingling stick: omuku/omuko
@@ -1767,6 +1772,11 @@ tan: omusukwe
 brown: eru
 
 Ebindi nebindi
+plot: ekibanza
+shame: ekihemu
+shyness: esisoni
+entrance: obwingiro
+exit: obuhulhukiro
 I'm warning you: atsihya
 pride: amarara
 beam/ray: amasalari
@@ -2001,7 +2011,7 @@ wood: embaho
 thread/clothes line: omuhuha
 sisal thread: ekihuha
 it's true/that's true: nikwenene
-oil/fuel: amaghuta
+oil/fuel: amaghutha
 case: olhubanza/omusango
 cases: esyombanza
 demarcation/border/boundary: olhubibi/esaro/omuthano
