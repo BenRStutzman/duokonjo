@@ -37,7 +37,7 @@ how is it?: kithiki?
 how are things?: biribithi?
 good morning: obukyire/wabukyire/wabukire/bwakere
 good afternoon/good evening: wasibire
-what's new?: wamathasyowa wahi?/wundi wahi?/wahi nowundi?/owangabyeyo?/owali eyo?
+what's new?: yiriwahi wundi?/wamathasyowa wahi?/wundi wahi?/wahi nowundi?/owangabyeyo?/owali eyo?
 it's morning/it is morning: bwamakya/bwabirikya/bwamabirikya
 is it morning?: bwabirikukyako?
 it's afternoon/it is afternoon: bwabirisiba/bwamasiba/bwamabirisiba
@@ -187,6 +187,8 @@ lungfish: embuta
 cabbage: ekabegyi
 greens: edodo/enakati
 not spinach?: sokumawiki
+baby green: olhunyinyi
+chest meat: ebanda
 pineapple: enanasi
 juice: ejuis
 turkey: esikoko
@@ -250,14 +252,16 @@ bed: engyingo
 sheet: esithi
 
 Abandu
-ekibbubbu: mute person
+Indian: omuhindi
+Muganda: omughanda
+mute person: ekibbubbu
 drummer: omuwoma
 omusabasa: relative
 digger: omulimi
 dead person: omuholi
 departed person: omughendi
 lawyer: omwimaniri wesyombanza
-neighbor: omulikyethu
+family member: omulikyethu
 dumb person: omudoma
 Jockim's clan: abahira
 guardian: omulemberi
@@ -342,6 +346,7 @@ Catholic: omukatuliki
 guide: omusondolya
 
 Omubiri
+diaphragm: olhukyingira
 mustache: amasulubu
 beard: esyonderu
 beard hair: olhuleru
@@ -521,7 +526,7 @@ guitar: ekidari
 trumpet: engunga
 drum: engoma
 hobby: ekyamasathi
-drum top: amahoma
+drum top: emahoma
 hide-and-seek-like game: wiso
 dance: amahothole/amabina
 traditional Bakonjo dance: ekikibi
@@ -642,7 +647,7 @@ you (pl) were of/you (pl) had: imuliba
 they were of/they had: iniba
 
 Esyosura
-number/chapter: esura/enamba
+number/chapter: esura
 one: nguma
 two: ibiri
 three: isathu
@@ -768,6 +773,11 @@ it is raining/it's raining: embulha yinemuwa
 lightning: akarabyo
 
 Ebinywa byemikolere
+to give unexpectedly: eribathika
+to notch: eribanga
+to circumcise: eribania/erisarwa
+to be circumcised: eribanibwa
+to comb: erizanula
 to be weak: eritseka
 to be ashamed: erihemuka
 to straighten: eriterekererya
@@ -834,7 +844,7 @@ to take off/to get out (tr)/to take out: erilusya
 to greet for me: erindamukirya
 to greet for: eriramukirya
 to sing for: erimbira
-to accept/to believe/faith: erikirirya/eriligha
+to accept/to believe/to agree/faith: erikirirya/eriligha
 to believe in: erikiriryamo
 to introduce: erikaniako/erisoborerako
 to introduce oneself: eriyisoborerako
@@ -896,7 +906,7 @@ to cook: eritsumba
 to cook for: eritsumbira
 to be cooked for: eritsumbirwa
 to cook with: eritsumbisya
-to wrap with banana leaves: eribomba
+to cover (food)/to wrap (food): eribomba
 to repair: erikokotya/erikanika
 to prepare for (tr)/to repair for: erikokoterya
 to prepare (tr): eritakanizya
@@ -908,8 +918,10 @@ to carry: eriheka
 to help carry: erihekya
 to pick up (from ground): erisongya
 to split (wood)/to chop (wood): erisathangya
-to split: eritahura
+to split (tr): eritahura
 to split for: eritahurira
+to split in two (intr): eribaluka
+to split in two (tr): eribalangula
 to grow in size: erineneha
 to live: eribyaho
 to baptize: eribatizya
@@ -1026,7 +1038,7 @@ to be left/to remain (passive): erisaka
 to leave (remaining): erisakya
 to smelt (intr): erihesa
 to smelt (tr): erihesera
-to tie/to tighten: eriboha/erifirikinya
+to tie/to tighten: eriboha/erifirikinya/eribwilinga
 to get dark: erira
 to get dark on: eririra
 to get light/to stop (rain): erikya
@@ -1070,7 +1082,10 @@ to confirm: eritebyaho
 to be confirmed: eritebwaho
 to be next/to reach abruptly: eritsubuka
 to follow: erikwama
-to cut/to turn (corner): erisara
+to cut/to turn (corner): erisara/eribagha
+to hold with an open hand: eribaghalira
+to snatch/to grab: eribakula
+to split (intr) into multiple pieces: eribalanguka
 to cut for: erisarira
 to clap: eribanda omwabyala
 to laugh: eriseka
@@ -1164,7 +1179,7 @@ to fall over/to call (intr)/to draw/to take (picture): erithera
 to call (tr): eritherera
 to fall: erithogha
 to pierce: erithobola/eritimba
-to refuse: erighana
+to refuse/to disagree: erighana
 to oppose: erighania
 to be full: erighutha
 to be full of: erisula
@@ -1201,6 +1216,7 @@ to work for/to do for/to do to: erikolera
 to be tempted: erilengwako
 to tempt: erithebya
 to use: erikolesya
+to be used: erikolesibwa
 to throw/to throw away: erighusa
 to take: erithwala
 to sing/to give me: erimba
@@ -1449,7 +1465,7 @@ goat: embene
 goats: esyombene
 large insect: ekihuka
 insect: akahuka
-insects: obuhuka
+insects: obuhuka/ehihuka
 sheep: embuli
 sheep (pl): esyombuli
 hen: enkoko
@@ -1677,7 +1693,7 @@ someone said: ambu/mbu
 how (we)/that (we): thuthi
 how (you (pl))/that (you (pl)): muthi
 how (they)/that (they): bathi
-that way (I): nyithia
+that way (I): nyithia/india
 that way (you): wuthia
 that way (he)/that way (she): athia
 that way (we): thuthia
@@ -1731,6 +1747,8 @@ match/small white person: akasungu
 charcoal (pl)/difficulty: amakala
 
 Ekyowero
+toothbrush: omusigo
+comb: ekizanula
 bar soap: ekifula
 mirror: ekiyo
 soap: esabuni
@@ -1772,6 +1790,7 @@ tan: omusukwe
 brown: eru
 
 Ebindi nebindi
+Luganda: olhughanda
 plot: ekibanza
 shame: ekihemu
 shyness: esisoni
@@ -1826,8 +1845,8 @@ dead thing: ekiku
 full thing: ekighima
 situation: embera
 is where he is/is where she is: yali
-firstly: ekyokubanza
-lastly: ekyeriwunzerera
+firstly/first (adverb): ekyokubanza
+lastly/last (adverb): ekyeriwunzerera
 tower: omulongothi
 whisper: obuhwehwe
 that small thing there (close): akalya
@@ -1863,7 +1882,7 @@ basket: ekibo
 antique: emangenge
 builder server: omupotha
 serving builders: ekipotha
-dear (person): mwanethu
+dear (person): omwanethu
 story: omughanighani
 struggle: ekithabule
 means: emibere
