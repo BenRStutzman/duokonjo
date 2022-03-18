@@ -252,6 +252,8 @@ bed: engyingo
 sheet: esithi
 
 Abandu
+lame person: omulema
+anyone: omundu wosi wosi
 Indian: omuhindi
 Muganda: omughanda
 mute person: ekibbubbu
@@ -500,6 +502,7 @@ masks: ebideghu
 shoe: engetha
 shoes: esyongetha
 boot: ebutusi
+croc: egyorogyoro
 trousers/red ant: embali
 trousers (pl)/red ants: esyombali
 shorts: ekitsweka
@@ -565,13 +568,20 @@ not: si
 he (verb) (past)/she (verb) (past): inia
 if I had (today): kuna
 if I had (yesterday): kunga
+I _: nga_
+I don't _: sindi_
+I am _ing: nganemu_
+I am not _ing: singali_
+I have _: ngabiri_
+I have not _: singatha_
+I have just _: nama_
 I would: nanga
 if I hadn't: kunda
 I would not/I can't: sinanga
 if I: nama
-I will: ngendi
+I will _: ngendi_
+I won't: singendi_
 if I don't: namatha
-I won't: singendi
 that is: ku
 the one who (present): eyika
 the one who (past): eyirya
@@ -773,6 +783,11 @@ it is raining/it's raining: embulha yinemuwa
 lightning: akarabyo
 
 Ebinywa byemikolere
+to spring up: eribathuka
+to slap: eribbathula
+to seem to be: erisindi bwabya
+to seem to _: erisindi_
+to castrate: eribarura
 to give unexpectedly: eribathika
 to notch: eribanga
 to circumcise: eribania/erisarwa
@@ -780,7 +795,10 @@ to be circumcised: eribanibwa
 to comb: erizanula
 to be weak: eritseka
 to be ashamed: erihemuka
-to straighten: eriterekererya
+to straighten (tr): eriterekererya
+to straighten (intr)/to be straight: eriterekerera
+to be flat: eribathama/eribetekerera
+to be very flat: eribathamirira
 to lighten skin: erizughura
 to incubate (tr): erilalira
 to criticize: erikuthya
@@ -796,6 +814,7 @@ to take shelter from: eriwama
 to fall apart (adhered): eribambukala
 to fall apart (sewn): erisonokala
 to toddle: eribbasula
+to burp: eribbekula
 to skim (liquid): erighenenula
 to lean (tr)/to tilt (tr): erihengeka
 to lean (intr): eriyihengeka/erighemera
@@ -885,7 +904,7 @@ to save at/to heal (tr) at: erilhamirya
 to treat: erithambira
 to set (a bone)/to sprinkle (salt): erilunga
 to work with wood: eribatsa
-to chop continually/to mow: erithemathema
+to chop repeatedly/to mow: erithemathema
 to sweat: erithuthuka
 to call (in person): eribirikira
 to face: erisamalirana
@@ -940,10 +959,12 @@ to collect: erisorokya
 to collect (tax): erisorozya
 to collect (firewood): erisenya
 to gather (tr): erithonda
-to get married (woman): eriheruka
-to get married (man): eriherukya/erithahya
+to introduce yourself to your fiancee's parents: erisunga
+to get married, part 1 (man): erithahya
+to get married, part 1 (woman): erithahibwa
+to get married, part 2 (man): eriherukya
+to get married, part 2 (woman): eriheruka
 to marry (other people)/to pay someone's dowry: erithahirya
-to introduce a husband: eriyathahya
 to fry: erikalanga
 to seat/to strengthen: erikalya
 to pour: eryutha/eryuthula
@@ -972,7 +993,7 @@ to skip (tr): erikyuruka/erikiruka
 to pluck/to tear out: eritsupa
 to guide: erisondola
 to join/to put together: erimathikania/erikundikania
-to patch: erimathika
+to patch: erimathika/eribbandika
 to hate: eripona
 to be annoyed: erighalirwa
 to annoy: erighalirania
@@ -1024,6 +1045,7 @@ to swallow: erimera
 to chase: eribinga/erihighitha
 to be broken: eribunika
 to have sex: eridika
+to be stiff: eribbasa
 to be found: eribanika/erisangwa
 to be first: eribanza
 to be last: eriwunzerera
@@ -1052,6 +1074,7 @@ to leave (tr)/to be left with: erisigha
 to whistle: erisuwunda
 to visit: eribunga/eribalama
 to burst (tr): eribalula
+to burst (intr): eribbala
 to fast/to afternoon/to delay (intr)/to abbreviate: erisiba
 to extend (intr): eriseghera
 to extend (tr): erisegherya
@@ -1083,11 +1106,13 @@ to be confirmed: eritebwaho
 to be next/to reach abruptly: eritsubuka
 to follow: erikwama
 to cut/to turn (corner): erisara/eribagha
+to slice: eribbanda
+to slice repeatedly: eribbandanga
 to hold with an open hand: eribaghalira
 to snatch/to grab: eribakula
 to split (intr) into multiple pieces: eribalanguka
 to cut for: erisarira
-to clap: eribanda omwabyala
+to clap: eribbanda omwabyala
 to laugh: eriseka
 to make laugh: erisekya
 to laugh with/to weed (intr): erisekera
@@ -1122,7 +1147,9 @@ to burn (intr)/to be ready (food): erihya
 to boil (intr): eritokoma/eribera
 to boil (intr) at: eritokomera
 to be cold: erihuhira
+to cool down (intr): eriholhoka
 to cool down (weather): erihendeka
+to rebound: eribbasuka
 to respect: erisikya
 to make reach: erihikya
 to be respected: erisikibwa
@@ -1270,8 +1297,8 @@ to know: eriminya
 to be known: eriminywa
 to speak/to say/to talk/to sound: eribugha/erikania
 to converse: erisubirania
-to shout: erilhaka
-to shout for/to shout from: erilhakira omo/eritokerera
+to shout: erilaka
+to shout for/to shout from: erilakira omo/eritokerera
 to be: eribya
 to put: erihira
 to shout at: eryahira/eryahirya/erilhakira oko
@@ -1286,7 +1313,7 @@ to stay/to sit/to be hard/charcoal: erikala
 to catch/to hold/to take (video)/to arrest: erihamba
 to spend time (slang): erihambira
 to catch for each other: erihambirana
-to catch (something thrown): eribaka
+to catch (something thrown): eribbaka
 to suffocate (intr)/to drown (intr): eribakira
 to suffocate (tr)/to drown (tr): eribakirya
 to be caught: erihambwa
@@ -1328,6 +1355,8 @@ to pick up one by one: erithola
 to take back/to restore/to talk about a story someone else is talking about: erisubya
 
 Ebinywa byemikolere bihyaka
+I wash: ngoghaya
+you wash: wukoghaya
 I am: ngali/nyiri/ngane
 you are: wuli/wune
 you (pl) are/there is (in)/there are (in): muli/mune
@@ -1454,6 +1483,7 @@ cicada: ekigyororo
 rabbit: esongura
 guinea pig: epanya
 gorilla: ekibandu
+baboon: ebbaku
 child (animal)/babe: ekyana
 cow: ende
 large cow: ekithe
@@ -1551,6 +1581,9 @@ drought: ekyanda
 stream of excess water: omuyeri
 
 Emyanya
+all of there (close): ahosi
+all of there (far): ewosi
+everywhere: ewosi wosi
 anywhere: ahosihosi/kithia kithia
 somewhere: obulebe/halebe
 bad place: habi
@@ -1563,7 +1596,7 @@ Germany: Gyiriman
 Italy: Yithali
 valley: omusya
 pasture: olulisiryo
-lowland: ibanda/erirungu
+lowland: eribanda/erirungu
 road: enguda
 place: omwanya
 places: emyanya
@@ -1585,7 +1618,8 @@ on the ground: ahisi
 uphill slope/north: obwiruka
 uphill slopes: amiruka
 downhill slope/south: obwandaghala
-flat direction/east or west: elhuthambi
+flat direction/east or west: ekithambi
+place in a flat direction/place to the east or west: elhuthambi
 east: ebulhwa ryuba
 west: ebulengera ryuba
 outside: eyisya/eyihya
@@ -1676,6 +1710,7 @@ ripe: rire
 all: osi
 
 Ebibulyo
+what do they call it?: bakakyahulamuki?
 of where: owa hayi
 how much/how many: ngahi
 why: habwaki
@@ -1747,6 +1782,7 @@ match/small white person: akasungu
 charcoal (pl)/difficulty: amakala
 
 Ekyowero
+sink: ahabakanabira
 toothbrush: omusigo
 comb: ekizanula
 bar soap: ekifula
@@ -1769,6 +1805,8 @@ paper: olhupapura
 paper (pl): esyombapura
 pen: ekalamu
 pencil: ekikala
+colored pencil: omwina
+colored pencils: esyakala/emina
 rubber/duster: esimuru/esumuru
 computer: ekyuma kyakalimagezi
 notebook: ekitabu kyerihandikamo mwabikuhi
@@ -1790,6 +1828,7 @@ tan: omusukwe
 brown: eru
 
 Ebindi nebindi
+bride price: omukagha
 Luganda: olhughanda
 plot: ekibanza
 shame: ekihemu
@@ -1976,6 +2015,7 @@ by themselves: ibabene
 by itself: ikikene/iyiyene
 that's why: ekyalekire/ekikaleka
 letter (mail): ebaruha/enyawaliho
+envelope: ebbahasi
 that's good: hakyiri/kyowene
 quickly/hurry up/hurry: lhubalhuba/anguha
 come on: bathami
