@@ -270,7 +270,7 @@ guardian: omulemberi
 scoundrel: omuyaya
 leper: omugagha
 fisher: omusohi
-judge: omusohi wesyombanza
+judge: omusohi wesyombanza/omuramuzi
 colleague/person belonging to someone/brethren: omulhumuna
 rich person: omugaga/epatro/omulod
 poor person: omunaku
@@ -429,6 +429,7 @@ knees: amarwe
 shin: omuhimbe
 shins: emihimbe
 ankle/joint of sugarcane: akakungulhu
+heel: akasinziru
 toe: erinwe
 toes: amanwe
 finger: omunwe
@@ -521,6 +522,7 @@ skirt: esikathi
 skirts: esyosikathi
 
 Ebyamasathi
+concert: ekivule
 bells around ankle: enzenda
 bell: ekida
 instrument: ekyuma kyerimbirako
@@ -790,6 +792,7 @@ it is raining/it's raining: embula yinemuwa
 lightning: akarabyo
 
 Ebinywa byemikolere
+to branch: erikitha
 to breastfeed (intr): eryonga
 to breastfeed (tr): eryongya
 to misbehave/to be stubborn: erigyagharara
@@ -805,7 +808,7 @@ to be circumcised: eribanibwa
 to comb: erizanula
 to be weak: eritseka
 to be ashamed: erihemuka
-to straighten (tr): eriterekererya
+to straighten (tr): eriterekererya/eribetekererya
 to straighten (intr)/to be straight: eriterekerera
 to be flat: eribathama/eribetekerera
 to be very flat: eribathamirira
@@ -891,7 +894,9 @@ to claim space: erighanga
 to cry/to eat at: eririra
 to name/to braid/to weave: erilhuka
 to unbraid/to unweave: erisambula
-to rot: eribola
+to rot: eribbola
+to make rot: eribbolya
+to age (food): eribbubba
 to shoot/to germinate: erilasa
 to sprout: erisasa
 to react angrily/to be tough on: eritabuka/eritsuruma/eriyomba
@@ -946,11 +951,7 @@ to lift/to raise: erisumba
 to carry: eriheka
 to help carry: erihekya
 to pick up (from ground): erisongya
-to split (wood)/to chop (wood): erisathangya
-to split (tr): eritahura
-to split for: eritahurira
-to split in two (intr): eribalhuka
-to split in two (tr): eribalangula
+to split (tr) into multiple pieces: eribbelengula/eribbalangula
 to grow in size: erineneha
 to live: eribyaho
 to baptize: eribatizya
@@ -1003,7 +1004,8 @@ to skip (tr): erikyuruka/erikiruka
 to pluck/to tear out: eritsupa
 to guide: erisondola
 to join (tr)/to put together: erimathikania/erikundikania
-to patch: erimathika/eribbandika
+to paste/to stick: erimathika
+to patch: eribbandika
 to hate: eripona
 to be annoyed: erighalirwa
 to annoy: erighalirania
@@ -1053,7 +1055,8 @@ to chew: eritakunya
 to sweep: eribirya
 to swallow: erimera
 to chase: eribinga/erihighitha
-to be broken: eribunika
+to chase (to a specific place): eribingya
+to break (intr): eribbunika
 to have sex: eridika
 to be stiff: eribbasa
 to be found: eribanika/erisangwa
@@ -1077,19 +1080,22 @@ to get light/to stop (rain): erikya
 to dawn: erisanzukala
 to unfold: erisanzula
 to slaughter: erikera
+to thrash before death: eribbinza
 to forget: eribirirwa
 to taste (intr)/to taste good: erisiha
 to taste (tr): erirozia
 to leave (tr)/to be left with: erisigha
 to whistle: erisuwunda
 to visit: eribunga/eribalama
-to burst (tr): eribalhula
+to burst (tr): eribbalhula
 to burst (intr): eribbala
 to fast/to afternoon/to delay (intr)/to abbreviate: erisiba
 to extend (intr): eriseghera
 to extend (tr): erisegherya
 to bend over: eryunama
-to stretch: erinanula
+to stretch (body): erinanula
+to stretch (tr): eribbulhula
+to stretch (intr)/to be stretchy: eribbululukana
 to bend (intr): erihengema
 to bend (tr): erikata
 to feed/to herd: erilisya
@@ -1105,9 +1111,6 @@ to save from danger: eribalya
 to crucify/to wrap: eribamba
 to be happy: eritsema
 to be very happy: eritsemererwa
-to break: eribuna
-to bifurcate/to spit/to give (a yawn)/to take (a step)/to be sharp: erithwa
-to separate: eriyithwa
 to understand: erikenga
 to answer/to repeat after/to reply/to review: erisubamo
 to repent: eriyisubamo
@@ -1116,12 +1119,26 @@ to be confirmed: eritebwaho
 to be next/to reach abruptly: eritsubuka
 to follow: erikwama
 to cut/to turn (corner): erisara/eribagha
+to mince: eribbenzenga
 to slice: eribbanda
 to slice repeatedly: eribbandanga
+to shatter (intr): eribbenzuka/eribbenzukala
+to shatter (tr): eribbenzula
+to break (tr): eribbuna
+to break into many pieces (tr): eribbunanga
+to bifurcate/to spit/to give (a yawn)/to take (a step)/to be sharp: erithwa
+to separate: eriyithwa
+to split (wood)/to chop (wood): erisathangya
+to split (tr): eritahura
+to split for: eritahurira
+to split in two (intr): eribalhuka
+to split in two (tr): eribbalhula/eribbelulha
+to split (intr) into many pieces: eribbalanguka
+to cut for: erisarira
+to have a leak: erithulika
+to make a leak: erithula
 to hold with an open hand: eribaghalira
 to snatch/to grab: eribakula
-to split (intr) into multiple pieces: eribalanguka
-to cut for: erisarira
 to clap: eribbanda omwabyala
 to laugh: eriseka
 to make laugh: erisekya
@@ -1129,6 +1146,9 @@ to laugh with/to weed (intr): erisekera
 to laugh at/to weed (tr): erisekerera/erisekererya
 to dry (intr): eryuma
 to build: erihimba
+to demolish: erihimbula/eribbomola
+to crumble (intr): eribbomoka
+to spray: erifukirira
 to roof: erisakala
 to make a mistake: eribulikira
 to go to work: erihinga
@@ -1153,9 +1173,12 @@ to turn off: eririmya
 to be hot: erihuha
 to heat up (intr): erihuhya
 to burn (intr)/to be ready (food): erihya
-to heat/to boil (tr)/to burn (tr): erihisya
+to heat/to boil (tr): erihisya
 to boil (intr): eritokoma/eribera
 to boil (intr) at: eritokomera
+to burn (tr): eribeba
+to remove by burning: eribebula
+to twist (tr): eribbunga
 to be cold: erihuhira
 to cool down (intr): eriholoka
 to cool down (weather): erihendeka
@@ -1198,10 +1221,10 @@ to meet: erisangana/erisanga/erikweya/eryeya
 to invite: erikokya
 to invite for: erikokerya
 to get used to/to tear a piece (of obundu) for: eribeghera
-to tear a piece (of obundu): eribegha
+to tear a piece (of food)/to apportion: eribegha
 to finish/to be enough: eriwunza
 to reach/family/to be correct: erihika
-to look for: erisondia/erirondia
+to look for: erisondia/erirondia/eribbona
 to look for for: erisonderya/erisondirya
 to be looked for: erisondibwa
 to suffer/to die: erikwa/erihola
@@ -1220,6 +1243,7 @@ to refuse/to disagree: erighana
 to oppose: erighania
 to be full: erighutha
 to be full of: erisula
+to be satisfied: eribbenda
 to pray/to request: erisaba
 to play: erisatha
 to play at: erisathira
@@ -1356,7 +1380,7 @@ to close one's eyes/deep part of river: eririba
 to open one's eyes/to come to: erilibula
 to want/to like/to love: eryanza
 to settle (person)/to be calm (person): erithekana
-to tell: eribwira/erithula/erithulira
+to tell: eribwira/erithulira
 to see/to look at/to watch: erilebya/erisamalira/erilangera/erithungerera
 to see me/to look at me/to watch me: erindebya
 to go watch/to go look at/to go see: erileberya
@@ -1405,7 +1429,7 @@ they are sick: balhwere
 he can go/she can go: iniaghenda
 
 Erihika
-brother-in-law/sister-in-law: ebonde
+brother-in-law/sister-in-law: bbonde
 husband: omwira
 wife: omukyara
 grandchild: omutsukulhu
@@ -1429,7 +1453,7 @@ paternal uncle older than father: thatha mukulhu/somukulhu
 grandmother: mukaka
 grandfather: sukulhu
 first boy: Mumbere
-first boy, if a grandparent is dead: Balhuku
+first boy, if a grandparent is dead: Baluku
 first child after opposite gender: Muhindo
 first girl after a boy: Mbindule
 second boy: Bwambale
@@ -1452,7 +1476,7 @@ younger boy twin: Kato
 older girl twin: Nyangoma
 younger girl twin: Nyakato
 first child after twins: Kiza
-second child after twins: Kamala
+second child after twins: Kamalha
 third child after twins: Kibaba
 
 Ebisoro
@@ -1521,6 +1545,10 @@ fur: obweya
 elephant: enzowu
 
 Obuhangwa
+gold: efeza
+season: ekirimo
+rainy season: ekirimo kyembula/ekirimo kyebyalya
+dry season: ekirimo kyomwesi
 cotton: epamba
 earthquake: omusiki
 the bush: ekisuki
@@ -1754,6 +1782,7 @@ cupboard: akabada
 drying rack: akahala
 small towel: akathambara
 pot/pan: enyungu
+kettle: ebbinika
 big jug: eriregha
 basin: ebafu
 small basin: etasi
@@ -1838,6 +1867,9 @@ tan: omusukwe
 brown: eru
 
 Ebindi nebindi
+pump (manual): ebbombo
+flag: ebbendere
+string: ehuzi
 patch: ekibbandi
 skeleton: akawanga
 you just _: wufakye _/wufate _/kwamakya_
@@ -1901,7 +1933,7 @@ tower: omulongothi
 whisper: obuhwehwe
 that small thing there (close): akalya
 wealth: obugaga
-poverty: obunaku
+poverty: obunaku/obuyasi
 floating burnt trash: embulhulhukira
 collected burnt stuff: olhuhindi
 steering wheel: omuthaghala
