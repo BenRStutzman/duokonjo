@@ -104,7 +104,7 @@ millet drink: obusyera
 maize flour/maize porridge: akasoli
 maize mush: eposyo
 packed lunch: endanda
-rotten thing: ekibole
+rotten thing: ekibbole
 drink: ekirinywa
 marijuana-like drug/large dog: ekibwa
 entrails with blood: omuwuba
@@ -116,7 +116,7 @@ fried meat: amakalangano
 fried bits: esyongalanga
 starchy banana mixture: akatogo
 coffee: omwani
-passion fruit: erithunda
+passionfruit: erithunda
 sour fruit with sections: ekyamba
 breakfast: ekyengyakya
 lunch: ekyemisana
@@ -125,6 +125,8 @@ chapati and beans/action game: ekikomando
 food: ebyalya
 sweet bread: erindazi
 small sweet bread: ebagiya
+fried breaded rice or bean snack: esumbusa
+ice snack: ebarafu
 banana juice: eyisande
 pineapple juice: omunanasi
 salt: omunyu
@@ -198,7 +200,7 @@ juice: ejuis
 turkey: esikoko
 turkeys: ebisikoko/esyosikoko
 sugar: esukali
-beer: obwabu
+beer/alcohol: obwabu
 beer (pl): amabu
 alcoholic banana drink: ewaragyi
 mushroom: olokwe
@@ -225,6 +227,7 @@ iron sheet: eribathi
 ekidongo: wall
 house: enyumba
 houses: esyonyumba
+multi-story house: ekayina/egrofa
 lamp: etara
 home: eka/omuyi
 homes: amaka
@@ -235,6 +238,7 @@ chairs: ebithumbi
 window: eridirisa
 windows: amadirisa
 door: olhuyi
+doors: esyonyuyi
 doorway: olhukyo
 doorways: esyonukyo
 room: ekisenge
@@ -471,9 +475,10 @@ thigh: ekihinga
 thighs: ebihinga
 
 Edini
+diocese: obulolerezi
 sin/evil: ekibi
 hope: amaha
-hymn: olhwimbo webizina
+hymn: olhwimbo lhwebizina
 lord: omwami
 happy holiday: wasingya kiro kikulhu/wasingya rikihikako
 bishop: edishop
@@ -561,6 +566,8 @@ drumbeat: ekighasa
 toy: ekidole/edole
 
 Ebiyithawa
+someone like _: oyuli ng_
+I doubt: mbanya
 still (adjective)/still (noun): kine
 still (verb): kina
 not anymore (verb): si_ki
@@ -572,10 +579,11 @@ what are you going to get?: wukaghendayaki?
 what were you going to get?: wulyaghendayaki?
 what were you going to do?: wulyakolayaki?
 was again: inina
-not: si
+not _: si_
 he (verb) (past)/she (verb) (past): inia
-if I had (today): kuna
-if I had (yesterday): kunga
+if I had _ (today): kuna_
+if I had _ (distant past): kunga_
+even if I _: kunanga_
 I _: nga_
 I don't _: sindi_
 I am _ing: nganemu_
@@ -584,14 +592,21 @@ I _ (past): munga_
 I didn't _: mungatha_
 I have _: ngabiri_
 I have not _: singatha_
+I have not _ (distant past): singanalingatha_
+Have I not _ (distant past): ngalingatha_
 I have just _/if I _: nama_
+if I _ (distant future): namasya_
+if I don't _ (distant future): namathendisya_
 I was _: ngalhwe inga_/indwe inga_
-I would _: nanga_
-if I hadn't _: kunda_
+I would _/I would have _/so I can _: nanga_
+if I hadn't _: kunda_/kunyitha_/kungatha_
+if you hadn't _: kumwatha_
+if he hadn't _/if she hadn't _: kwatha_
 I would not _/I can't _: sinanga_
 I will _: ngendi_
 I won't _: singendi_
 if I don't _: namatha_
+if I don't _ (future): namathendi
 that is: ku
 the one who (present): eyika
 the one who (past): eyirya
@@ -605,7 +620,7 @@ because of: habwa/busana na
 for only: ahabwa
 even if/even though: nomo/nomu/namo/namu
 then: ibwa
-and then/and now: neryo/neribwa
+and then/and now/so: neryo/neribwa
 now: hathia/esaha no/lino
 there is (far)/there are (far): yine/yiri
 there is (on)/there are (on): kune/kuli
@@ -622,7 +637,7 @@ no: ayihi/eeyihi/pe
 and/with/who (relative): na
 and (verb): kandi
 and also/the whole/all of/as well as: hayima na
-or: kwisi/kutse
+or: kwisi/kutse/kwihi
 I didn't understand/I haven't understood: singathakenga
 I didn't hear/I haven't heard: singathowa/singowire
 sorry/slowly: bolobolo
@@ -643,10 +658,10 @@ in/into: omo
 contains: omuli
 on/a share of/by/about/some (noun)/than: oko/okwa
 has on top: okuli
-this (noun): eki/eyi/eri/aka/aya
-that (thing): ekyo
-these (things): ebi
-those (things): ebyo
+this (noun): eki/eyi/eri/aka
+that (noun): ekyo/eyo/eryo/ako
+these (noun): ebi/esi/aya/ehi
+those (noun): ebyo/esyo/ayo/ehyo
 is that one: kako/kyekyo/yeyo/yoyo/woyo
 is this one: woyu/yoyu
 these ones: baba/bibi
@@ -727,7 +742,7 @@ one million: emithwalhu kikumi
 Obuthuku (owesaha)
 at times: hakanayira
 sometimes/sometime/another time: obundi buthuku
-always: obuli buthuku
+always: obuli buthuku/emighulhu yosi
 time (uncountable)/weather: obuthuku
 time (countable): omurundi
 what time is it?: ni saha singahi?/saha singahi?
@@ -799,6 +814,8 @@ it is raining/it's raining: embula yinemuwa
 lightning: akarabyo
 
 Ebinywa byemikolere
+to lose one's baby teeth: erikukya
+to be sticky: erinyururuka
 to swim: eriziha
 to divorce: erilhwamo
 to branch: erikitha
@@ -843,8 +860,9 @@ to lean (intr): eriyihengeka/erighemera
 to make (a trap)/to keep (silence)/to give (your ear): erithegha
 to shake (tr): eritsingyatsingya
 to shake (intr)/to shiver: eritukumira
-to serve (intr): erihukula
-to serve (tr): erihukulira
+to serve food: erihukula
+to serve food to: erihukulira
+to serve (intr): eriherezya
 to celebrate: eriyisalaghanda/erisalaghanda
 to be patient: eriwumisirizya
 to choose/to select: erisombola
@@ -920,7 +938,7 @@ to change (tr): erihundula
 to trust: eriyikethera
 to doubt: erihangyahangya
 to sprinkle flour over water: erilhukira
-to take care of/to care for: erilembera
+to take care of/to care for: erilembera/eritsomana/erifako/erifayo
 to take one by one: erithondola
 to heal (intr)/to recover (intr): erilama
 to heal (tr)/to save: erilamia
@@ -968,7 +986,7 @@ to be baptized: eribatizibwa
 to be right: erithunganana/erihikerera
 to be created: erihangikwa
 to pick teams: erironda
-to kill/to make (a tickle): eritha
+to kill/to make (a tickle)/to give (an illness): eritha
 to kill at: erithira
 to be killed: erithibwa
 to accompany: erikwamanisya
@@ -993,7 +1011,7 @@ to smell (tr): eribehererya
 to plant/to go away/to be taken away: erihera
 to trade/to abut: erihererania
 to mistakenly think: erilengemerwa
-to miss (goal): erithalhuka
+to miss (a goal): erithalhuka
 to fail: erilemwa
 to make fail: erilemesya
 to just (only): erilhwaho
@@ -1022,6 +1040,7 @@ to think: erilengekania
 to create/country: erihanga
 to look behind/to mark: erikebera
 to send/to give a push: eritsindika/erithuma/erilebeka
+to send for: erithumira
 to open with hands: erihatha
 to be about to: erikisiya
 to wear/to put on (clothes): eryambala/erimpala
@@ -1137,7 +1156,7 @@ to shatter (tr): eribbenzula
 to break (tr): eribbuna
 to break into many pieces (tr): eribbunanga
 to bifurcate/to spit/to give (a yawn)/to take (a step)/to be sharp: erithwa
-to separate: eriyithwa
+to separate (intr): eriyithwa
 to split (wood)/to chop (wood): erisathangya
 to split (tr): eritahura
 to split for: eritahurira
@@ -1215,7 +1234,8 @@ to mean: erimanyisya/eriminyisya
 to lose/to sharpen (blade): erithalya
 to sharpen (point): erisonga
 to sharpen (point) for: erisongera
-to bathe/to hear/to feel: eryowa/eryogha
+to hear/to feel: eryowa
+to bathe: eryogha
 to convince/to persuade/to ask out: erithetha
 to persuade to help/to convince to help: erilembalemba
 to wash (body): erinaba
@@ -1260,7 +1280,8 @@ to lead in prayer: erisabisya
 to beg: erisabasaba
 to play: erisatha
 to play at: erisathira
-to kick: erisamba/eripika
+to kick: eripika
+to climb: erisamba
 to grow (intr): erikula
 to greet: eriramukya
 to greet me: erindamukya
@@ -1295,10 +1316,10 @@ to throw/to throw away: erighusa
 to take: erithwala
 to sing/to give me: erimba
 to give: eriha/erihererya
-to open: erikyungula
+to open (tr): erikyungula
 to open for: erikyungulira
 to clean/to be clean/to be brown: erihenia
-to close: erikinga
+to close (tr): erikinga
 to close for: erikingira
 to hoe/land/garden: eririma
 to dig/to dig up: erithakula
@@ -1374,7 +1395,7 @@ to be proud: eriyipetha/eriyisyetha
 to teach: erisomesya/erithendeka/erighesya/erifundisya/erikangirirya
 to read/to study: erisoma
 to learn/to practice: erigha
-to write: erihandika/erisakanga
+to write/to recruit: erihandika/erisakanga
 to run: erithibitha
 to run after: erithibithako
 to walk/to step: eriryatha
@@ -1391,6 +1412,7 @@ to lie down: erikesya
 to close one's eyes/deep part of river: eririba
 to open one's eyes/to come to: erilibula
 to want/to like/to love: eryanza
+to love each other: eryanzangana
 to settle (person)/to be calm (person): erithekana
 to tell: eribwira/erithulira
 to see/to look at/to watch: erilebya/erisamalira/erilangera/erithungerera
@@ -1485,7 +1507,7 @@ fourth girl: Mbambu
 fifth girl: Thungu
 sixth girl: Kyakimwa
 seventh girl: Nzabake
-eighth boy/eighth girl: kithawitherina
+eighth boy/eighth girl: Kithawitherina
 older boy twin: Singoma
 younger boy twin: Kato
 older girl twin: Nyangoma
@@ -1561,6 +1583,8 @@ fur: obweya
 elephant: enzowu
 
 Obuhangwa
+sand: omuseghe
+grain of sand: akaseghe
 gold: efeza
 season: ekirimo
 rainy season/wet season: ekirimo kyembula/ekirimo kyebyalya
@@ -1600,7 +1624,7 @@ the wild: omoli/omwali
 ditch: omufleghe/omukuru
 mountain: ekithwa
 pit: ekighuma
-seed: akaghuma
+seed/grain: akaghuma
 palm tree: omuthi wekingasi
 dirt/soil: omuthaka
 star: engununu
@@ -1618,7 +1642,7 @@ tree/stick: omuthi
 trees/sticks: emithi
 kind of tree in mountains: omuthi wekisungu
 sappy tree: obuthula
-sap: amatsetse
+sap: amatsitsi
 bark: ekikuku
 stump: ekisiki
 stone/ash: eribwe
@@ -1648,6 +1672,7 @@ Israel: Yisaleri
 Palestine: Filistin
 Germany: Gyiriman
 Italy: Yithali
+Egypt: Misiri
 valley: omusya
 pasture: olhulisiryo
 lowland: eribanda/erirungu
@@ -1666,8 +1691,8 @@ slightly backward/slightly after/slightly behind/slightly before (time): ahanyum
 slightly above/slightly over/slightly uphill/slightly high: ahiwulhu
 above/over/up/upper/uphill/high: eyiwulhu
 slightly below/slightly beneath/slightly low: ahikwa
-below/beneath/down/low/lower/downhill: ekabunu/eyikwa
-under/underneath: omwisi sy
+down/low/lower/downhill: ekabunu/eyikwa
+under/underneath/below/beneath: omwisi sy
 on the ground: ahisi
 uphill slope/north: obwiruka
 uphill slopes: amiruka
@@ -1723,7 +1748,7 @@ witch doctor: omuthahwa wekibindi
 needle: engenzo
 malaria: omutsutsa
 medicine/carpenter: omubatsi/obubalya
-disease/sickness: obulhwere/obukoni
+disease/sickness/illness: obulhwere/obukoni
 patient/sick person: omulhwere
 syringe: ekirindi ekyengenzo
 tablet: ekinini
@@ -1885,6 +1910,7 @@ tan: omusukwe
 brown: eru
 
 Ebindi nebindi
+umbrella: emavule
 pump (manual): ebbombo
 flag: ebbendere
 string: ehuzi
@@ -1912,7 +1938,7 @@ the one between: akahakathi
 disaster: akahangyi
 imitation: akagherereryo
 a bit of warmth: akabembere
-if.../when...: _mabya i...
+if _.../when _...: _mabya i...
 tickle: obuyuyu
 sack: eguthiha
 secret: embitha
@@ -1933,6 +1959,7 @@ not yet: the
 small thing: akananga
 have this/take this: imaya eyi/imaya eki
 organization: ekithongole
+program: engwamakwamanya
 journey: olhughendo
 clan/rhizome: ekihanda
 something that smells/bad death: olhukabeha
@@ -2112,7 +2139,7 @@ word: ekinywa
 letter: enzakano
 peace: obuholo/embolere
 fart: ekinyambo
-life: obuyingo/engebe
+life: obuyingo/engebe/amaghala
 money: esyosente/esyombulo/emali
 coin: ekinosu
 website: ewebusayithi
