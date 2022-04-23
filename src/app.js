@@ -174,20 +174,26 @@ class App extends React.Component {
       ...state,
       languageInfo: state.languages[language],
       language,
+      phase: 'chooseDirection',
+    }));
+  }
+
+  chooseDirection(direction) {
+    this.setState((state) => ({
+      ...state,
+      direction,
       phase: 'chooseCategory',
     }));
   }
 
   chooseCategory(category) {
     let problemQueue = [];
-    let problems = [];
-
-    if (category === this.state.languageInfo.allWord) {
-      problems = this.state.languageInfo.problems;
-    } else {
-      problems = this.state.languageInfo.problems
-        .filter(problem => problem.categories.includes(category));
-    }
+    const problems = this.state.languageInfo.problems
+        .filter(problem =>
+          (category === this.state.languageInfo.allWord || problem.categories.includes(category)) &&
+          (this.state.direction === 'bothWays' ||
+            (this.state.direction === 'toEnglish' && problem.toEnglish) ||
+            (this.state.direction === 'toTargetLanguage' && !problem.toEnglish)));
     console.log(problems);
     for (let i = 0; i < incorrectAnswerRetryInterval; i++) {
       problemQueue.push(this.getRandomProblem(problems));
@@ -199,6 +205,7 @@ class App extends React.Component {
       phase: 'play',
       problemQueue: problemQueue,
       currentProblem: currentProblem,
+      category,
     }));
   }
 
@@ -292,6 +299,21 @@ class App extends React.Component {
             {Object.keys(this.state.languages).map(language => (
               <button key={language} onClick={() => this.chooseLanguage(language)}>{language}</button>
             ))}
+          </div>
+        );
+        break;
+      case 'chooseDirection':
+        content = (
+          <div id="options">
+            <button key={'toEnglish'} onClick={() => this.chooseDirection('toEnglish')}>
+              Translate {this.state.language} to English
+            </button>
+            <button key={'toTargetLanguage'} onClick={() => this.chooseDirection('toTargetLanguage')}>
+              Translate English to {this.state.language}
+            </button>
+            <button key={'bothWays'} onClick={() => this.chooseDirection('bothWays')}>
+              Translate both ways
+            </button>
           </div>
         );
         break;

@@ -2292,11 +2292,3 @@ bait: ekyambo
 baits: ebyambo
 beauty: obubuya
 dwelling: obwikalo
-
-Test category
-randomThing: answer1/answer2
-randomThing: answer3
-RandomThing: answer5
-
-Test category 2
-randomThing: answer4
