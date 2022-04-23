@@ -1914,7 +1914,7 @@ which: ahi
 how (I)/that (I): nyithi
 how (you)/that (you): wuthi
 how (he)/how (she)/that (he)/that (she): athi
-someone said: ambu/mbu
+someone said: ambu
 how (we)/that (we): thuthi
 how (you (pl))/that (you (pl)): muthi
 how (they)/that (they): bathi
@@ -2292,3 +2292,11 @@ bait: ekyambo
 baits: ebyambo
 beauty: obubuya
 dwelling: obwikalo
+
+Test category
+randomThing: answer1/answer2
+randomThing: answer3
+RandomThing: answer5
+
+Test category 2
+randomThing: answer4

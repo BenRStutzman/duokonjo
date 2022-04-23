@@ -88,32 +88,48 @@ class App extends React.Component {
         orMessage: orMessage.split(/:\s*/)[1],
         allWord: allWord.split(/:\s*/)[1],
         categories: [],
+        problems: [],
       };
       categorySets.forEach(categorySet => {
         [category, ...vocabPairs] = categorySet.split(/\s*\n\s*/);
-        const problems = [];
+        languages[language].categories.push(category);
         vocabPairs.forEach(vocabPair => {
           [englishPhrases, targetLanguagePhrases] = vocabPair.split(/:\s+/)
             .map(phrases => phrases.split('/'));
           englishPhrases.forEach(phrase => {
-            problems.push({
-              question: {
+            const existingProblem = languages[language].problems
+              .find(problem => !problem.toEnglish && problem.question === phrase)
+            if (existingProblem) {
+              existingProblem.answers = [...existingProblem.answers, ...targetLanguagePhrases]
+              if (!existingProblem.categories.includes(category)) {
+                existingProblem.categories.push(category);
+              }
+            } else {
+              languages[language].problems.push({
+                question: phrase,
+                answers: targetLanguagePhrases,
+                categories: [category],
                 toEnglish: false,
-                phrase,
-              },
-              answers: targetLanguagePhrases
-            });
+              });
+            }
           });
           targetLanguagePhrases.forEach(phrase => {
-            problems.push({
-              question: {
+            const existingProblem = languages[language].problems
+              .find(problem => problem.toEnglish && problem.question === phrase)
+            if (existingProblem) {
+              existingProblem.answers = [...existingProblem.answers, ...englishPhrases]
+              if (!existingProblem.categories.includes(category)) {
+                existingProblem.categories.push(category);
+              }
+            } else {
+              languages[language].problems.push({
+                question: phrase,
+                answers: englishPhrases,
+                categories: [category],
                 toEnglish: true,
-                phrase,
-              },
-              answers: englishPhrases
-            });
+              });
+            }
           });
-          languages[language].categories[category] = problems;
         });
       });
     });
@@ -159,7 +175,7 @@ class App extends React.Component {
       languageInfo: state.languages[language],
       language,
       phase: 'chooseCategory',
-    }))
+    }));
   }
 
   chooseCategory(category) {
@@ -167,12 +183,12 @@ class App extends React.Component {
     let problems = [];
 
     if (category === this.state.languageInfo.allWord) {
-      Object.values(this.state.languageInfo.categories).forEach(category => {
-        problems = [...problems, ...category];
-      });
+      problems = this.state.languageInfo.problems;
     } else {
-      problems = this.state.languageInfo.categories[category];
+      problems = this.state.languageInfo.problems
+        .filter(problem => problem.categories.includes(category));
     }
+    console.log(problems);
     for (let i = 0; i < incorrectAnswerRetryInterval; i++) {
       problemQueue.push(this.getRandomProblem(problems));
     }
@@ -282,9 +298,9 @@ class App extends React.Component {
       case 'chooseCategory':
           content = (
             <div id="options">
-              {[this.state.languageInfo.allWord, ...Object.keys(this.state.languageInfo.categories)].map(category => (
+              {[this.state.languageInfo.allWord, ...this.state.languageInfo.categories].map(category =>
                 <button key={category} onClick={() => this.chooseCategory(category)}>{category}</button>
-              ))}
+              )}
             </div>
           );
           break;
@@ -294,13 +310,13 @@ class App extends React.Component {
         const accuracy = Math.round(this.state.numberCorrect / this.state.numberOfProblems * 100);
         const score = this.state.numberOfProblems ?
           `${this.state.numberCorrect}/${this.state.numberOfProblems} (${accuracy}%)` : '';
-        const question = this.state.currentProblem.question;
+        const problem = this.state.currentProblem;
         content = (
           <div id="game-box">
             <div>
-              <h2 className="light-font">{this.state.languageInfo.writeThisIn} {question.toEnglish ?
+              <h2 className="light-font">{this.state.languageInfo.writeThisIn} {problem.toEnglish ?
                 this.state.languageInfo.english : this.state.languageInfo.languageName}:</h2>
-              <h2><span className="extra-bold-font">{question.phrase}</span></h2>
+              <h2><span className="extra-bold-font">{problem.question}</span></h2>
             </div>
             <InputBox value={this.props.input}
               handleChange={(event) => this.updateInput(event)}
