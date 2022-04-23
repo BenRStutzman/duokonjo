@@ -3,7 +3,7 @@ import verbsFile from './vocab.txt';
 import correctSoundFile from './sounds/correct.wav';
 import incorrectSoundFile from './sounds/incorrect.wav';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
-import { faVolumeMute, faVolumeUp } from '@fortawesome/free-solid-svg-icons'
+import { faVolumeMute, faVolumeUp, faArrowDown, faArrowUp } from '@fortawesome/free-solid-svg-icons'
 
 const correctSound = new Audio(correctSoundFile);
 const incorrectSound = new Audio(incorrectSoundFile);
@@ -59,7 +59,6 @@ class App extends React.Component {
     let categorySets;
     let language;
     let writeThisIn;
-    let languageName;
     let english;
     let correctMessages;
     let incorrectMessages;
@@ -77,10 +76,9 @@ class App extends React.Component {
     const languageSets = text.trim().split(/\s*\n\s*\n\s*\n\s*/);
     languageSets.forEach(languageSet => {
       [info, ...categorySets] = languageSet.split(/\s*\n\s*\n\s*/);
-      [language, allWord, writeThisIn, languageName, english, correctMessages, incorrectMessages, tryMessage, orMessage] = info.split(/\s*\n\s*/);
+      [language, english, allWord, writeThisIn, correctMessages, incorrectMessages, tryMessage, orMessage] = info.split(/\s*\n\s*/);
       languages[language] = {
         writeThisIn: writeThisIn.split(/:\s*/)[1],
-        languageName: languageName.split(/:\s*/)[1],
         english: english.split(/:\s*/)[1],
         correctMessages: correctMessages.split(/:\s*/)[1].split('/'),
         incorrectMessages: incorrectMessages.split(/:\s*/)[1].split('/'),
@@ -194,7 +192,6 @@ class App extends React.Component {
           (this.state.direction === 'bothWays' ||
             (this.state.direction === 'toEnglish' && problem.toEnglish) ||
             (this.state.direction === 'toTargetLanguage' && !problem.toEnglish)));
-    console.log(problems);
     for (let i = 0; i < incorrectAnswerRetryInterval; i++) {
       problemQueue.push(this.getRandomProblem(problems));
     }
@@ -295,7 +292,7 @@ class App extends React.Component {
         break;
       case 'chooseLanguage':
         content = (
-          <div id="options">
+          <div className="options">
             {Object.keys(this.state.languages).map(language => (
               <button key={language} onClick={() => this.chooseLanguage(language)}>{language}</button>
             ))}
@@ -304,22 +301,27 @@ class App extends React.Component {
         break;
       case 'chooseDirection':
         content = (
-          <div id="options">
-            <button key={'toEnglish'} onClick={() => this.chooseDirection('toEnglish')}>
-              Translate {this.state.language} to English
-            </button>
-            <button key={'toTargetLanguage'} onClick={() => this.chooseDirection('toTargetLanguage')}>
-              Translate English to {this.state.language}
-            </button>
-            <button key={'bothWays'} onClick={() => this.chooseDirection('bothWays')}>
-              Translate both ways
-            </button>
+          <div className="options vertical-options">
+            <p className="language-for-direction">{this.state.language}</p>
+            <div className="options">
+              <button key={'toEnglish'} onClick={() => this.chooseDirection('toEnglish')}>
+                <FontAwesomeIcon icon={faArrowDown} />
+              </button>
+              <button key={'bothWays'} className="bidirectional-arrows" onClick={() => this.chooseDirection('bothWays')}>
+              <FontAwesomeIcon className="bidirectional-up-arrow" icon={faArrowUp} />
+              <FontAwesomeIcon className="bidirectional-down-arrow" icon={faArrowDown} />
+              </button>
+              <button key={'toTargetLanguage'} onClick={() => this.chooseDirection('toTargetLanguage')}>
+                <FontAwesomeIcon icon={faArrowUp} />
+              </button>
+            </div>
+            <p className="language-for-direction">{this.state.languageInfo.english}</p>
           </div>
         );
         break;
       case 'chooseCategory':
           content = (
-            <div id="options">
+            <div className="options">
               {[this.state.languageInfo.allWord, ...this.state.languageInfo.categories].map(category =>
                 <button key={category} onClick={() => this.chooseCategory(category)}>{category}</button>
               )}
@@ -337,7 +339,7 @@ class App extends React.Component {
           <div id="game-box">
             <div>
               <h2 className="light-font">{this.state.languageInfo.writeThisIn} {problem.toEnglish ?
-                this.state.languageInfo.english : this.state.languageInfo.languageName}:</h2>
+                this.state.languageInfo.english : this.state.language}:</h2>
               <h2><span className="extra-bold-font">{problem.question}</span></h2>
             </div>
             <InputBox value={this.props.input}

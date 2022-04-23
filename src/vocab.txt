@@ -1,11 +1,10 @@
-Portuguese
-all: Todas
-write this in: Escreve isto em
-Portuguese: Portugués
+Portugués
 English: Inglés
-correct: Correto!/Ótimo!/Fixe!
-incorrect: Incorreto./Opa./Não.
-try: Tente
+All: Todas
+Write this in: Escreve isto em
+Correct: Correto!/Ótimo!/Fixe!
+Incorrect: Incorreto./Opa./Não.
+Try: Tente
 or: ou
 
 Saludacoes
@@ -20,11 +19,10 @@ tea: shai
 fish: peixe
 
 
-Lukonjo
+Lhukonzo
+English: Lhusungu
 all: Bisa
 write this in: Handika eki omo
-Lukonjo: Lhukonzo
-English: Lhusungu
 correct: Wasingya!/Ndeke!/Nikwenene!
 incorrect: Ayihi./Nabi./Bolobolo.
 try: Lengesya

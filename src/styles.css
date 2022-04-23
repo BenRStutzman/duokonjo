@@ -84,11 +84,21 @@ h1, h2, h3, h4, h5 {
   right: 3px;
 }
 
-#options {
+.options {
   display: flex;
   gap: 10px 10px;
   flex-wrap: wrap;
   justify-content: center;
+  align-items: center;
+}
+
+.vertical-options {
+  flex-direction: column;
+}
+
+.bidirectional-arrows {
+  display: flex;
+  flex-direction: column;
 }
 
 button {
@@ -131,6 +141,19 @@ button:hover, button:focus {
 
 #incorrect {
   color: red;
+}
+
+.bidirectional-up-arrow {
+  margin-bottom: -2px;
+}
+
+.bidirectional-down-arrow {
+  margin-top: -2px;
+}
+
+.language-for-direction {
+  font-size: 30px;
+  font-family: Nunito, sans-serif;
 }
 
 @media (max-width: 700px) {
