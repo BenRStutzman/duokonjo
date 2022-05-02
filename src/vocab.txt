@@ -96,6 +96,8 @@ grilled meat on a stick: omukyomo
 tomatoes and onions: akakyumbali
 steak: omukalhu
 honey: obuki
+processed honey: omusonge owobuki
+bone marrow: omusonge omenyama
 husk: ekisunga
 flour: eyisyano
 fermented cassava: obusyano
@@ -117,9 +119,10 @@ starchy banana mixture: akatogo
 coffee: omwani
 passionfruit: erithunda
 sour fruit with sections: ekyamba
-breakfast: ekyengyakya
+breakfast/morning tea: ekyengyakya
 lunch: ekyemisana
-dinner/supper: ekyakiro
+dinner/evening tea: ekyeriwolo
+supper: ekyakiro
 chapati and beans/action game: ekikomando
 food: ebyalya
 sweet bread: erindazi
@@ -306,7 +309,7 @@ observer: omulangiri
 witness: omwema
 youth: omunyethu
 adult: omundu mukulhu
-older person: omusyakulhu/omukekulhu
+old person/elderly person: omusyakulhu/omukekulhu/omukulhu
 representative: omumaniri
 struggler: omuthabali
 head of laity: omukulhu wabakristayo
@@ -367,7 +370,6 @@ kids: obwana
 baby: olhumekeke
 babies: esyomekeke
 friend: omunywani/omunyoni
-old person: omukulhu
 old man: omuze
 old woman: omukade
 creator: omuhangiki
@@ -609,6 +611,7 @@ what are you going to get?: wukaghendayaki?
 what were you going to get?: wulyaghendayaki?
 what were you going to do?: wulyakolayaki?
 was again: inina
+OK, now _: tha_
 not _: si_
 he (verb) (past)/she (verb) (past): inia
 I _: nga_
@@ -623,8 +626,8 @@ I have _: ngabiri
 I have _ (distant past): ngalingatha_
 I have not _: singatha_
 I have not yet _: singalinga_
-I have not ever: singanalingatha_
-I used to _: ngabya nga_
+I have not ever _: singanalingatha_
+I used to _/when I _: ngabya nga_
 I used to not _: singabya nga _
 do you _ (surprised): wukatha_
 after I _: nganasya_
@@ -654,8 +657,8 @@ I won't _: singendi_
 if I don't _: namatha_
 if I don't _ (future): namathendi_/ngathatha_
 I am still _ (adjective): ngakine _
-I am still _ (verb): ngakina_
-I am no longer _: singaki_
+I still _/I am still _ (verb): ngakina_
+I no longer_/I am no longer _ (verb):singaki_
 if I were: kunangabere/ngalyabya
 that is: ku
 the one who _ (present): eyika_
@@ -1161,6 +1164,7 @@ to make go over/to go over by: erilengya
 to measure/to inspect: eripima
 to mash/to knead: erikama
 to squeeze: erikamula
+to be squeezed: erikamwa
 to hold tightly: erimakirira
 to be there: eribyayo
 to harvest: erisoloma/erihulhula/erighesa
@@ -1293,13 +1297,13 @@ to try: erilengesya
 to be sick: erilhwala
 to listen: erihulikirira
 to light/to turn on: eryakya/erihirako
-to shine: eryaka
+to shine/to burn (intr) (food): eryaka
 to kindle: erithwana
 to feed (fire): erisingania
 to turn off (tr): eririmya
-to be hot: erihuha
-to heat up (intr): erihuhya
-to burn (intr)/to be ready (food)/sweet potato mound: erihya
+to be warm: erihuha
+to warm (tr): erihuhya
+to be hot/to burn (intr)/to be ready (food)/sweet potato mound: erihya
 to heat/to boil (tr): erihisya
 to boil (intr): eritokoma/eribera
 to boil (intr) at: eritokomera
@@ -1686,6 +1690,7 @@ mother bird: eributhi
 grasshopper: omusyenene
 frog: ekikere
 bird (wild): ekinyonyi/enyonyi
+bird of prey: akasare
 owl: ekibukulhu
 duck: embata
 cicada: ekigyororo
@@ -2059,6 +2064,9 @@ tan: omusukwe
 brown: eru
 
 Ebindi nebindi
+barbed wire: esingenge
+ring: embeta
+bracelet/bangle: ebangili
 by force: makara
 friendship: obunywani/omukaghu
 value/importance: omughasu
@@ -2269,6 +2277,7 @@ come on: bathami
 corpse: omulambo
 energy/strength: amani/akaghala
 gift: ekisembo/ekihembo
+beehive: ekihembo
 difference: empaghane
 middle/between: ahakathikathi
 razor: egiritha
