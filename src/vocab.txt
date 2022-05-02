@@ -658,7 +658,7 @@ if I don't _: namatha_
 if I don't _ (future): namathendi_/ngathatha_
 I am still _ (adjective): ngakine _
 I still _/I am still _ (verb): ngakina_
-I no longer_/I am no longer _ (verb):singaki_
+I no longer_/I am no longer _ (verb): singaki_
 if I were: kunangabere/ngalyabya
 that is: ku
 the one who _ (present): eyika_
