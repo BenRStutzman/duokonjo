@@ -194,6 +194,8 @@ water: amaghetse/amasi
 cold water: omuhu
 tilapia/fish: erihere
 fish (pl)/tilapia (pl): amahere
+preserved fish: ekikwara
+roasted Nile perch head: embuta
 mudfish: omukolo
 scaly eel: ehondwe
 fish with dotted head: eyisombi
@@ -270,6 +272,8 @@ bed: engyingo
 sheet: esithi
 
 Abandu
+money launderer: omulyatsako
+resident: omuomukalani/omutaka
 hunter: omuhighi
 prophet: omuminyereri
 disciple: omukwenda/omwigha/omuthuma
@@ -627,14 +631,14 @@ I have _ (distant past): ngalingatha_
 I have not _: singatha_
 I have not yet _: singalinga_
 I have not ever _: singanalingatha_
-I used to _/when I _: ngabya nga_
+I used to _: ngabya nga_
 I used to not _: singabya nga _
 do you _ (surprised): wukatha_
 after I _: nganasya_
 before I _: ngathenga_
 when I _ (past): munabya nga_
-when I _: namabya nga_
-when I _ (future): ngendibya nga_
+when I _ (recent past)/I'm going to go ahead and _: namabya nga_
+when I _ (future): ngendibya nga_/ngabya nga_
 whenever I _: nanabya nama_/ngabya nama_
 I am likely to _: mba_
 I have just _/if I _: nama_
@@ -720,8 +724,8 @@ this (noun): eki/eyi/eri/aka
 that (noun): ekyo/eyo/eryo/ako
 these (noun): ebi/esi/aya/ehi
 those (noun): ebyo/esyo/ayo/ehyo
-is that one: kako/kyekyo/yeyo/yoyo/woyo
-is this one: kaka/kyeki/woyu/yoyu
+is this one: kaka/kyeki/woyu/yoyu/bwobu
+is that one: kako/kyekyo/yeyo/yoyo/woyo/bwobo
 these ones: baba/bibi
 those ones (far): babalya/byabirya
 that one (far): yolya
@@ -875,6 +879,7 @@ it is raining/it's raining: embula yinemuwa
 lightning: akarabyo
 
 Ebinywa byemikolere
+to trip: erikoboka
 to hunt: erihigha
 to hunt at: erihighira
 to forge: eriyiya
@@ -1070,7 +1075,7 @@ to pick teams: erironda
 to kill/to make (a tickle)/to give (an illness): eritha
 to kill at: erithira
 to be killed: erithibwa
-to accompany: erikwamanisya
+to accompany/to give a push: erikwamanisya
 to poop: erinia
 to pee: erisubala
 to dodge: erikyanga/eriwepa
@@ -1355,6 +1360,7 @@ to find: eribana
 to discover: eribumbura
 to be holy: eribuyirira
 to meet: erisangana/erisanga/eryeya
+to meet each other: erisangangana
 to surprise: erisangala
 to be dumbfounded: erikukubala
 to bear fruit: erihetha
@@ -1446,6 +1452,7 @@ to be buried: eritsikwa
 to be from/to come from/to fight/to leak: erilhwa
 to fight (hand-to-hand): erihurumba
 to fight each other: erihurumbana
+to fight against: erilhwanisya
 to hide (tr): eribisa
 to hide (intr): eriyibisa
 to disclose/to reveal: eribisula
@@ -1513,12 +1520,14 @@ to befriend: erinywana
 to hold onto: erihambako
 to release/to let go: erilhwika
 to be connected/to be related: erihambangana
+to be related to: erihambirako
 to be slippery/to slip/to slide: erithendera
 to be proud: eriyipetha/eriyisyetha
 to teach: erisomesya/erithendeka/erighesya/erifundisya/erikangirirya
 to read/to study: erisoma
 to learn/to practice: erigha
 to write/to recruit: erihandika/erisakanga
+to register: erihandikisya
 to run: erithibitha
 to run after: erithibithako
 to walk/to step: eriryatha
@@ -1568,12 +1577,12 @@ he has/she has: awithe
 you (pl) have: muwithe
 we have: thuwithe
 they have: bawithe
-I can: nangina
-you can: wangina
-we can: thwangina
-you (pl) can: mwangina
-he can/she can: angina
-they can: bangina
+I can _: nangina_
+you can _: wangina_
+we can _: thwangina_
+you (pl) can _: mwangina_
+he can/she can _: angina_
+they can _: bangina_
 I know: nganasi
 you know: wunasi
 we know: thunasi
@@ -1655,6 +1664,7 @@ second child after twins: Kamalha
 third child after twins: Kibaba
 
 Ebisoro
+fast mystery animal with long tail: omunyerere
 black and white bird: akatsyetsye
 crow: ekikororo
 spider: ekithathangula
@@ -1689,6 +1699,7 @@ male sheep or goat: embaya
 mother bird: eributhi
 grasshopper: omusyenene
 frog: ekikere
+tadpole: akanyabudulhu
 bird (wild): ekinyonyi/enyonyi
 bird of prey: akasare
 owl: ekibukulhu
@@ -1747,9 +1758,11 @@ paspalm: egyigya
 horn/handlebar: erihembe
 crop: ekirimwa
 tubey tree: akayengye
-stream: omughende
-tree vanilla grows on: ekisogasoga
+river/stream: olhusi
+rivers/streams: esyonyusi
+creek: omughende/ekighende
 lake: engetse
+tree vanilla grows on: ekisogasoga
 branch: omuthahi
 decorative plant: ekimole
 flower/flowers: omusanga
@@ -1782,8 +1795,6 @@ land with water: ekisanga
 infertile land: olhukuka
 hill: akathwa
 hills: ehithwa
-river: olhusi
-rivers: esyonyusi
 reed: olhuseke
 reeds: esiseke
 tree/stick: omuthi
@@ -2046,7 +2057,7 @@ ink: obwino
 rubber/duster: esimuru/esumuru
 computer: ekyuma kyakalimagezi
 notebook: ekitabu kyerihandikamo mwabikuhi
-meeting: endeko
+meeting: endeko/olhukuratu
 backpack: eyisaho yokomuwongo
 class: ekitebe
 file: efayiro
@@ -2064,6 +2075,10 @@ tan: omusukwe
 brown: eru
 
 Ebindi nebindi
+money laundering: obulyatsako
+action: ekikorwa
+punch: entomi/engumi
+theft: obwibi/obuhiwura
 barbed wire: esingenge
 ring: embeta
 bracelet/bangle: ebangili
@@ -2149,6 +2164,7 @@ collected burnt stuff: olhuhindi
 steering wheel: omuthaghala
 half: ekihandi
 piece: ekitaho
+chunk: ekibbalo/ekipendi
 timber: omwango
 wide timber: olhubaho
 wood smooth on one side: ekikoke
@@ -2197,7 +2213,8 @@ miscellaneous: ebindi nebindi
 need: ekiyithawa
 slowness: obolobolo
 later: bolo
-together: haghuma/haghumerere
+together: haghuma
+together (at a place): haghumerere
 you and me: thunaghu
 you (pl) and me: thunenyu
 togetherness: obughuma
