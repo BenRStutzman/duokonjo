@@ -272,7 +272,7 @@ bed: engyingo
 sheet: esithi
 
 Abandu
-money launderer: omulyatsako
+embezzler: omulyatsako
 resident: omuomukalani/omutaka
 hunter: omuhighi
 prophet: omuminyereri
@@ -291,13 +291,13 @@ Indian: omuhindi
 Muganda: omughanda
 mute person: ekibbubbu
 drummer: omuwoma
-relative: omusabasa
+relative: omuhughu
 digger: omulimi
 living person: omuliho
 dead person: omuholi/omuholire
 departed person: omughendi
 lawyer: omwimaniri wesyombanza
-family member: omulikyethu
+brethren/co-wife: omulikyethu
 dumb person: omudoma
 Jockim's clan: abahira
 guardian: omulemberi
@@ -678,6 +678,7 @@ for only: ahabwa
 even if/even though: nomo/nomu/namo/namu
 then: ibwa
 and then/and now/so: neryo/neribwa
+oh/so: kwes
 now: hathia/esaha no/lino
 there is (far)/there are (far): yine/yiri
 far/there is (near)/there are (near): hali/hane
@@ -689,7 +690,7 @@ there was (near) (distant past): habya ihane/habihane
 English: Olhusungu
 language: omubughe
 speech/saying/speaking: emibughire
-but: bethu/aliryo/aleriryo
+but: bethu/aliryo/aleriryo/ka
 very much: kutsibo
 very very much: kutsibutsibo
 Lukonjo: Olhukonzo
@@ -812,6 +813,8 @@ what time is it?: ni saha singahi?/saha singahi?
 the time is...: ni saha.../saha...
 hour/clock/watch: esaha
 hours/clocks/watches: esyosaha
+hour: endambi
+hours: esyondambi
 minute: edakika
 second: akathikithiki
 year: omwaka
@@ -971,6 +974,7 @@ to be quiet: erihuna
 to be silent: erihunerera
 to coo/to mutter: erilhukuma
 to mix/to confuse: eritabura
+to be mixed up: eritswangana
 to stay longer/to live forever: erikotha
 to sneeze: erimira
 to ferment (tr): erilobeka
@@ -1113,6 +1117,7 @@ to bring down: erindaghalya/erindaghalirya
 to go flat: erithambuka
 to be said/to be spoken: eribughwa
 to resemble: erisosa
+to resemble each other: erisosana
 to enter: eringira
 to make enter: eringirya
 to jump: eriyitsada
@@ -1147,8 +1152,7 @@ to return (tr): erisubulya
 to return from: erisubulira
 to crow/to keep: eribika
 to be late morning: erikererera
-to be late: erikerererwa
-to delay (tr): erikererezya
+to delay (tr): erikererezya/erisibya
 to be taught: erisomesibwa/erithendekwa
 to let/to proudly refuse: eriyira
 to become: eriyikola
@@ -1188,6 +1192,7 @@ to be found: eribanika/erisangwa
 to be first: eribanza
 to be last: eriwunzerera
 to welcome: erithangerira
+to water: eryuthangerira
 to fart: erinyamba
 to drink: erinywa
 to be late: erikerererwa
@@ -1214,7 +1219,8 @@ to whistle: erisuwunda
 to visit (intr): eribunga/eribalama
 to visit (tr): eribungira
 to burst (intr): eribbala
-to fast/to afternoon/to delay (intr)/to abbreviate: erisiba
+to fast/to afternoon/to abbreviate: erisiba
+to delay (intr)/to be late: erisiba/erikerererwa
 to extend (intr): eriseghera
 to extend (tr): erisegherya
 to move aside (tr): erihiwulha
@@ -1243,9 +1249,11 @@ to wrap: eribamba/eriboha
 to be crucified: eribambwa
 to be happy: eritsema/eritsanga
 to be very happy: eritsemererwa/eritsangatsanga
+to be bored: erithundubala
 to understand: erikenga
 to answer/to repeat after/to reply/to review: erisubamo
-to repent: eriyisubamo
+to repent/to confess: eriyisubamo
+to kneel: erikukama
 to confirm: eritebyaho
 to be confirmed: eritebwaho
 to be next/to reach abruptly: eritsubuka
@@ -1315,7 +1323,8 @@ to boil (intr) at: eritokomera
 to burn (tr): eribeba
 to remove by burning: eribebula
 to twist (tr): eribbunga
-to be cold: erihuhira
+to be cool: erifuka
+to be cold: erihuhirira/erifukirira
 to cool down (intr): eriholoka
 to cool down (weather): erihendeka
 to rebound: eribbasuka
@@ -1383,6 +1392,7 @@ to go early in the morning: eritsunduka
 to come back to life after being buried: erilhubuka
 to fall on: eriwira
 to help: eriwathikya/eritsuna/eriyamba
+to help (tr): eritsunira
 to fall over/to call (intr)/to draw/to take (picture): erithera
 to call (tr): eritherera
 to fall: erithogha/eriwa
@@ -1504,7 +1514,7 @@ to go for: erighendera
 to take: erithwala/erighendia
 to be taken: erighendibwa/erithwalibwa
 to pick from/to bump into (person): erilolako
-to cull: erilola
+to cull/to go: erilola
 to force: erikaka/erikara
 to stay/to sit/to be hard/charcoal: erikala
 to catch/to hold/to take (a video)/to arrest/to pick up (a phone): erihamba
@@ -1559,7 +1569,7 @@ to surrender to: erisamulira
 to surrender oneself to: eriyisamulira
 to see me/to look at me/to watch me: erindebya
 to go watch/to go look at/to go see: erileberya
-to have to/to must/to be worthy: eritholera
+to have to/to must/to be worthy/to be supposed to: eritholera
 to pick up one by one: erithola
 to take back/to restore/to talk about a story someone else is talking about: erisubya
 
@@ -1691,6 +1701,7 @@ snake: enzoka
 small green venomous snake: enyarubani
 lizard: ekihangala
 lion: endale
+wolf: omunengele
 animal: ekisoro
 female animal: engali
 female sheep or goat that hasn't given birth: erusi
@@ -1704,11 +1715,14 @@ bird (wild): ekinyonyi/enyonyi
 bird of prey: akasare
 owl: ekibukulhu
 duck: embata
-cicada: ekigyororo
+cicada: erirundi
+ground cicada: ekigyororo
 rabbit: esongura
 guinea pig: epanya
 gorilla: ekibandu
 baboon: ebbaku
+monkey: engende
+chipmanzee: ekimbanzi
 child (animal)/babe: ekyana
 cow: ende
 large cow: ekithe
@@ -1772,6 +1786,7 @@ leaf: ekikoma
 sweet potato leaf: omuliki
 nature/creation: obuhangwa
 forest/park: omusithu
+grove: ekibira
 reed for flutes: omulonge
 banana plant: emboko
 banana stem: omuhithihithi
@@ -2075,7 +2090,8 @@ tan: omusukwe
 brown: eru
 
 Ebindi nebindi
-money laundering: obulyatsako
+relation: obuhughu
+embezzlement: obulyatsako
 action: ekikorwa
 punch: entomi/engumi
 theft: obwibi/obuhiwura
@@ -2109,6 +2125,7 @@ beam/ray: amasalari
 really (adverb): okwesi
 independence: eripandasi
 tarp: ethundubale
+tarp shelter: ehema
 criticism: akakuthyo
 deathbed: akalebulebu
 short silence: akahuno
@@ -2192,6 +2209,7 @@ builder server: omupotha
 serving builders: ekipotha
 dear (person): omwanethu
 story: omughanighani
+fable: endekerano
 struggle: ekithabule
 means: emibere
 when he/when she: abere
