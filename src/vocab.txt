@@ -639,6 +639,12 @@ before I _: ngathenga_
 when I _ (past): munabya nga_
 when I _ (recent past)/I'm going to go ahead and _: namabya nga_
 when I _ (future): ngendibya nga_/ngabya nga_
+when he/when she: abere
+when you: wubere
+when I: ngabere
+when they: babere
+when we: thubere
+when you (pl): mubere
 whenever I _: nanabya nama_/ngabya nama_
 I am likely to _: mba_
 I have just _/if I _: nama_
@@ -660,17 +666,17 @@ I will _: ngendi_
 I won't _: singendi_
 if I don't _: namatha_
 if I don't _ (future): namathendi_/ngathatha_
-I am still _ (adjective): ngakine _
+I am still _ (adjective)/I am still (noun): ngakine _
 I still _/I am still _ (verb): ngakina_
 I no longer_/I am no longer _ (verb): singaki_
 if I were: kunangabere/ngalyabya
 that is: ku
-the one who _ (present): eyika_
-the one who _ (past): eyirya_
 the one who _ (distant past): eyiwo_
-the ones who _ (present): abaka_
-the ones who _ (past): abalya_
+the one who _ (past): eyirya_
+the one who _: eyika_
 the ones who _ (distant past): abawo_
+the ones who _ (past): abalya_
+the ones who _: abaka_
 every/height/length/distance: obuli
 because: kusangwa/kundi
 because of: habwa/busana na
@@ -958,7 +964,7 @@ to plant (a pole): eritsimba
 to volunteer/to agree to do: eriyihwamo
 to have on top: eririko
 to contain: eririmo
-to direct: erikangerira
+to direct/to teach: erikangerira
 to put across: erikitsika
 to be OK: eritsibuha
 to impregnate: eritweka
@@ -1002,8 +1008,8 @@ to be called (name): erihulhwamo
 to clear: erihula
 to block: erikika/eririba
 to unblock/to break through: erikikula
-to assume full control of: eriyighangira
 to claim space: erighanga
+to assume full control of: eriyighangira
 to cry/to eat at/to get dark on: eririra
 to name/to braid/to weave: erilhuka
 to unbraid/to unweave: erisambula
@@ -1012,7 +1018,8 @@ to make rot: eribbolya
 to age (food): eribbubba
 to shoot/to germinate: erilasa
 to sprout: erisasa
-to react angrily/to be tough on: eritabuka/eritsuruma/eriyomba
+to react angrily: eritabuka/eritsuruma/eriyomba
+to be tough on: eritabuka
 to be distressed: erithabukana
 to pound (intr)/to hammer (intr)/to knock (intr): erikongotha
 to pound (tr)/to hammer (tr)/to knock on: erikongothera
@@ -1129,7 +1136,7 @@ to be torn: eritamuka
 to be torn a lot: eritamanguka
 to guide: erisondola
 to join (tr)/to put together: erimathikania/erikundikania
-to paste/to stick: erimathika
+to paste/to stick (tr): erimathika
 to patch: eribbandika
 to hate: eripona/eriharana
 to be annoyed: erighalirwa
@@ -1262,8 +1269,6 @@ to cut/to turn (corner): erisara/eribagha
 to mince: eribbenzenga
 to slice: eribbanda
 to slice repeatedly: eribbandanga
-to shatter (intr): eribbenzuka/eribbenzukala
-to shatter (tr): eribbenzula
 to break (tr): eribbuna
 to break into many pieces (tr): eribbunanga
 to bifurcate/to spit/to give (a yawn)/to take (a step)/to be sharp: erithwa
@@ -1276,6 +1281,8 @@ to split in two (intr): eribalhuka
 to split in two (tr): eribbalhula/eribbelulha
 to split into many pieces (intr): eribbalanguka
 to split into many pieces (tr): eribbelengula/eribbalangula
+to shatter (intr): eribbenzuka/eribbenzukala
+to shatter (tr): eribbenzula
 to cut for: erisarira
 to have a leak: erithulika
 to make a leak: erithula
@@ -1913,7 +1920,7 @@ you are there (far): wunerya
 I am there (far): nganerya
 you (pl) are there (far): munerya
 near/close: hakuhi
-beside/where there is: ahali
+beside/next to/where there is: ahali
 
 Esipatara
 doctor: omunganga/omuthahwa
@@ -2141,7 +2148,8 @@ sack: eguthiha
 secret: embitha
 rubbish: oburofu/akasasiro
 studying: emisomere
-prayer: emisabire/esara
+prayer (uncountable): emisabire
+prayer (countable): esara
 step: entambu
 announcement: ekirango/tangazu
 burn: olhuhya
@@ -2212,12 +2220,6 @@ story: omughanighani
 fable: endekerano
 struggle: ekithabule
 means: emibere
-when he/when she: abere
-when you: wubere
-when I: ngabere
-when they: babere
-when we: thubere
-when you (pl): mubere
 sign/proof: ekimanyisyo
 wisdom: amenge
 thought: ekirengekania
