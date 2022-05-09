@@ -438,8 +438,8 @@ forehead: embumu
 foreheads: esyombumu
 eyelash: ekikoherya
 eyelashes: ebikoherya
-tongue/tribe: olhulimi
-tongues/tribes: esyonlimi
+tongue/language/tribe: olhulimi
+tongues/languages/tribes: esyonlimi
 eye: eriso
 eyes: ameso
 body/work/skin: omubiri/ekipandi
@@ -617,7 +617,7 @@ what were you going to do?: wulyakolayaki?
 was again: inina
 OK, now _: tha_
 not _: si_
-he (verb) (past)/she (verb) (past): inia
+he _ (verb) (past)/she _ (verb) (past): inia_
 I _: nga_
 I do not _/I don't _: sindi_/singali_
 I am _ing: nganemu_
@@ -632,7 +632,7 @@ I have not _: singatha_
 I have not yet _: singalinga_
 I have not ever _: singanalingatha_
 I used to _: ngabya nga_
-I used to not _: singabya nga _
+I used to not _/I didn't use to: singabya nga_
 do you _ (surprised): wukatha_
 after I _: nganasya_
 before I _: ngathenga_
@@ -663,12 +663,12 @@ if you hadn't _: kumwatha_
 if he hadn't _/if she hadn't _: kwatha_
 I would not _/I can't _: sinanga_
 I will _: ngendi_
-I won't _: singendi_
+I won't _/I  will not _: singendi_
 if I don't _: namatha_
 if I don't _ (future): namathendi_/ngathatha_
 I am still _ (adjective)/I am still (noun): ngakine _
 I still _/I am still _ (verb): ngakina_
-I no longer_/I am no longer _ (verb): singaki_
+I no longer _/I am no longer _ (verb): singaki_
 if I were: kunangabere/ngalyabya
 that is: ku
 the one who _ (distant past): eyiwo_
@@ -1569,7 +1569,7 @@ to love each other: eryanzangana
 to settle (person)/to be calm (person): erithekana
 to tell: eribwira/erithulira
 to see/to look at/to watch: erilebya/erisamalira/erilangera/erithungerera
-to be seen: erilangerwa
+to be seen/to be looked at/to be watched: erilangerwa
 to face: erisamalirana
 to surrender (tr): erisamula
 to surrender to: erisamulira
@@ -1979,7 +1979,7 @@ how much/how many: ngahi
 why: habwaki
 where: hayi/hi
 who is/is who: nindi
-who is (pl)/is who (pl): nibahi/nibahayi
+who are/are who: nibahi/nibahayi
 who/other: ndi
 who (pl): bahi/bahayi
 what: ki
@@ -2187,7 +2187,7 @@ poverty: obunaku/obuyasi
 floating burnt trash: embulhulhukira
 collected burnt stuff: olhuhindi
 steering wheel: omuthaghala
-half: ekihandi
+half: ekihandi/ekitsweka
 piece: ekitaho
 chunk: ekibbalo/ekipendi
 timber: omwango
