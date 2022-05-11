@@ -193,14 +193,14 @@ meat: enyama
 rice: omuchere/omutsele
 water: amaghetse/amasi
 cold water: omuhu
-tilapia/fish: erihere
-fish (pl)/tilapia (pl): amahere
+fish: erihere
+fish (pl): amahere
+tilapia: engege
 preserved fish: ekikwara
-roasted Nile perch head: embuta
+roasted Nile perch head/lungfish: embuta
 mudfish: omukolo
 scaly eel: ehondwe
 fish with dotted head: eyisombi
-lungfish: embuta
 cabbage: ekabegyi
 greens: edodo/enakati/esyadodo
 not spinach?: esokumawiki
@@ -275,6 +275,7 @@ sheet: esithi
 Abandu
 embezzler: omulyatsako
 resident: omuomukalani/omutaka
+neighbor: omutaka
 hunter: omuhighi
 prophet: omuminyereri
 disciple: omukwenda/omwigha/omuthuma
@@ -397,7 +398,7 @@ pubic hair: endyo
 pubic hair (pl): esyondyo
 mother's privates: obwanyoko
 penis: obulhume
-rash/planting time: obuhere
+rash: obuhere
 rash dot: akahere
 arm hair: akeya
 wound: ekironda
@@ -605,6 +606,8 @@ drumbeat: ekighasa
 toy: ekidole/edole
 
 Ebiyithawa
+where I am (negative): ngangali hayi
+where I am: ahangali
 _ would happen: kanguli _/anguli _
 someone like _: oyuli ng_
 I doubt: mbanya
@@ -637,15 +640,10 @@ I used to not _/I didn't use to: singabya nga_
 do you _ (surprised): wukatha_
 after I _: nganasya_
 before I _: ngathenga_
-when I _ (past): munabya nga_
+when I was _ing: ngabere nga_
+when I _ (past): munabya nga_/mungabya nga_
 when I _ (recent past)/I'm going to go ahead and _: namabya nga_
 when I _ (future): ngendibya nga_/ngabya nga_
-when he/when she: abere
-when you: wubere
-when I: ngabere
-when they: babere
-when we: thubere
-when you (pl): mubere
 whenever I _: nanabya nama_/ngabya nama_
 I am likely to _: mba_
 I have just _/if I _: nama_
@@ -686,6 +684,7 @@ even if/even though: nomo/nomu/namo/namu
 then: ibwa
 and then/and now/so: neryo/neribwa
 oh/so: kwes
+so: obo
 now: hathia/esaha no/lino
 there is (far)/there are (far): yine/yiri
 far/there is (near)/there are (near): hali/hane
@@ -955,6 +954,8 @@ to be patient: eriwumisirizya
 to choose/to select: erisombola
 to fish: erisoha
 to stir up/to unsettle/to disorganize: erithabula
+to stir: erikorongya
+to shake (liquid): erihungyahungya
 to be sour: erikaliha
 to hurt after being burnt (intr): eribeberera
 to come sit/to come stay: erisikala
@@ -1307,6 +1308,7 @@ to be wet: eritsapa
 to wait/to protect: erilinda
 to wash: eryoya
 to be washed: eryoyibwa
+to rinse: erigyubura
 to plant and harvest well: eryerya
 to show: erikangya
 to be pregnant (animal): erihaka/eryema
@@ -1369,7 +1371,7 @@ to persuade to help/to convince to help: erilembalemba
 to wash (body): erinaba
 to draw (water)/to shovel: eritheha
 to rub: erisimura/erisumura
-to end/thorn: erihwa
+to end: erihwa
 to run out (on): erihwako
 to run out (in): erihwamo
 to fill/to pay for (a person): eripakira
@@ -1568,7 +1570,9 @@ to want/to like/to love: eryanza
 to be wanted/to be liked/to be loved: eryanzwa
 to love each other: eryanzangana
 to settle (person)/to be calm (person): erithekana
-to tell: eribwira/erithulira
+to tell: eribwira
+to tell/to report: erithula
+to tell to/to report to: erithulira
 to see/to look at/to watch: erilebya/erisamalira/erilangera/erithungerera
 to be seen/to be looked at/to be watched: erilangerwa
 to face: erisamalirana
@@ -1788,9 +1792,10 @@ tree vanilla grows on: ekisogasoga
 branch: omuthahi
 decorative plant: ekimole
 flower/flowers: omusanga
+thorn: erihya
+leaf: ekikoma
 banana leaf: olhukoma
 used banana leaf: ekihuku
-leaf: ekikoma
 sweet potato leaf: omuliki
 nature/creation: obuhangwa
 forest/park: omusithu
@@ -2098,7 +2103,7 @@ tan: omusukwe
 brown: eru
 
 Ebindi nebindi
-relation: obuhughu
+relation/relationship: obuhughu
 embezzlement: obulyatsako
 action: ekikorwa
 punch: entomi/engumi
@@ -2143,7 +2148,7 @@ ethadoba: old-fashioned oil lamp
 the one between: akahakathi
 disaster: akahangyi
 imitation: akagherereryo
-a bit of warmth: akabembere
+bit of warmth: akabembere
 tickle: obuyuyu
 sack: eguthiha
 secret: embitha
@@ -2171,6 +2176,7 @@ journey: olhughendo
 clan/rhizome: ekihanda
 something that smells/bad death: olhukabeha
 stop: bungaho
+planting time: obuhere
 harvest time: obuhulhule
 harvest: amahulhule/amaghese
 only (verb): aliwe
@@ -2258,6 +2264,7 @@ tank: ethanga
 clay plate: ekibindi
 whistle: efirimbi
 problem: obutsibo/ekitsibo/obulitho/etabu
+problem (with someone): embugha
 handle: ekirindi
 wish/desire: engumbu/ameru
 until/it must be that/still (despite): paka
@@ -2323,7 +2330,7 @@ bump: ekikungule
 pole: ekikondo
 laughter: amaseka
 question: ekibulyo
-news: amakuru/omwatsi/omuhyaka
+news: amakuru/omwatsi/omuhyaka/engyiri
 message: engulhu
 look!: ohoyi!
 electricity: amasenyerezi
