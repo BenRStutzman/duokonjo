@@ -202,7 +202,7 @@ mudfish: omukolo
 scaly eel: ehondwe
 fish with dotted head: eyisombi
 cabbage: ekabegyi
-greens: edodo/enakati/esyadodo
+greens: edodo/enakati/esyadodo/epinare/enderema
 not spinach?: esokumawiki
 baby green: olhunyinyi
 chest meat: ebanda
@@ -403,7 +403,8 @@ rash dot: akahere
 arm hair: akeya
 wound: ekironda
 scar: engolhu
-snot: ebimira
+snot/blowing one's nose: ebimira
+sneeze: etsihya
 yawn: omwahya
 muscle: omunyoko
 tendon: omusisa
@@ -661,8 +662,9 @@ if I hadn't _: kunda_/kunyitha_/kungatha_
 if you hadn't _: kumwatha_
 if he hadn't _/if she hadn't _: kwatha_
 I would not _/I can't _: sinanga_
-I will _: ngendi_
+I will _: ngendi_/nge_
 I won't _/I  will not _: singendi_
+will I _: nganemwendi_/nganemwe_
 if I don't _: namatha_
 if I don't _ (future): namathendi_/ngathatha_
 I am still _ (adjective)/I am still (noun): ngakine _
@@ -685,7 +687,7 @@ then: ibwa
 and then/and now/so: neryo/neribwa
 oh/so: kwes
 so: obo
-now: hathia/esaha no/lino
+now: hathia/esaha no/lino/leru
 there is (far)/there are (far): yine/yiri
 far/there is (near)/there are (near): hali/hane
 there is (on)/there are (on): kune/kuli
@@ -984,13 +986,13 @@ to coo/to mutter: erilhukuma
 to mix/to confuse: eritabura
 to be mixed up: eritswangana
 to stay longer/to live forever: erikotha
-to sneeze: erimira
+to blow one's nose: erimira
 to ferment (tr): erilobeka
 to be hard (stiff): erikalabasana
 to be soft (squishy): eriloberera
 to be simple/to be nice/to be easy: eryoloba/eriloba
 to scatter (tr)/to spread (tr): eritsatsanga/erilalania
-to base on: erilhusirirya/erilhugirira
+to be based on/to depend on: erilhusirirya/erilhugirira
 to take off/to get out (tr)/to take out: erilhusya
 to have taken off: erilhusyibwa
 to greet for me: erindamukirya
@@ -1042,6 +1044,8 @@ to heal (intr)/to recover (intr): erilama
 to heal (tr)/to save: erilamia
 to save at/to heal (tr) at: erilamirya
 to treat: erithambira
+to take care of (a sick person): erithwanira
+to pamper: eribuyabuya
 to set (a bone)/to sprinkle (salt)/to exchange rings: erilhunga
 to work with wood: eribatsa
 to chop repeatedly/to mow: erithemathema
@@ -1091,7 +1095,7 @@ to be killed: erithibwa
 to accompany/to give a push: erikwamanisya
 to poop: erinia
 to pee: erisubala
-to dodge: erikyanga/eriwepa
+to dodge: erikyanga/eriwepa/eridozya/erisara
 to collect: erisorokya
 to collect (tax): erisorozya
 to collect (firewood): erisenya
@@ -1117,7 +1121,8 @@ to make fail: erilemesya
 to just (only): erilhwaho
 to spear: eritsimitha
 to pay/to be blunt: erithuha
-to be swept away: erisendya
+to flow: erisenda
+to wash away (tr): erisendya
 to go up: erihethuka
 to go up to: erihethukira
 to go down: erindaghala/erikima
@@ -1320,7 +1325,7 @@ to try: erilengesya
 to be sick: erilhwala
 to listen: erihulikirira
 to light/to turn on: eryakya/erihirako
-to shine/to burn (intr) (food): eryaka
+to shine/to burn (intr) (food)/to burn (intr) (fire): eryaka
 to kindle: erithwana
 to feed (fire): erisingania
 to turn off (tr): eririmya
@@ -1844,6 +1849,7 @@ landslide: engwangwa
 flood: olhusi lhwabiribogha
 drought: ekyanda
 stream of excess water: omuyeri
+wave: amayengo
 
 Emyanya
 all of there (close): ahosi
@@ -2068,7 +2074,8 @@ Erithendekero
 break: ekihumuru
 exam: ekizam
 verse: omulondo/omulala
-expert/senior: omusiniya
+senior: omusiniya
+expert: omusiniya/kakesa
 education/service: ekisomo
 higher education: ekisomo kyahiwulhu
 teacher: omuhalimu/omuthendeki/omusomesya/omughesya/omweghesya/omukangirirya
@@ -2103,6 +2110,11 @@ tan: omusukwe
 brown: eru
 
 Ebindi nebindi
+arrangement: erithondekania
+bless you: bakuleke
+military: obusirikali
+teaching: obuhalimu
+stripe (rank): ekyepa/ekyepe/enyota/eribwe
 relation/relationship: obuhughu
 embezzlement: obulyatsako
 action: ekikorwa
@@ -2160,7 +2172,8 @@ step: entambu
 announcement: ekirango/tangazu
 burn: olhuhya
 ladder: amadara
-rank: eridara
+rung: eridara
+rank: eridara/eranga
 digging: obulime
 trap: omuthegho/ekitegho
 glass: ekirahuli
@@ -2184,8 +2197,8 @@ dead thing: ekiku
 full thing: ekighima
 situation: embera
 is where he is/is where she is: yali
-firstly/first (adverb): ekyokubanza
-lastly/last (adverb): ekyeriwunzerera
+firstly/the first thing: ekyokubanza/ekyembere/ekyelimbere
+lastly/the last thing: ekyeriwunzerera
 tower: omulongothi
 whisper: obuhwehwe
 that small thing there (close): akalya
@@ -2244,6 +2257,7 @@ together: haghuma
 together (at a place): haghumerere
 you and me: thunaghu
 you (pl) and me: thunenyu
+and (them): bana
 togetherness: obughuma
 top: akasweswe
 meaning: omutsowo
