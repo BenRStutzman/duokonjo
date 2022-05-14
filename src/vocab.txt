@@ -273,6 +273,7 @@ bed: engyingo
 sheet: esithi
 
 Abandu
+carpenter: omubatsi
 embezzler: omulyatsako
 resident: omuomukalani/omutaka
 neighbor: omutaka
@@ -445,7 +446,7 @@ tongue/language/tribe: olhulimi
 tongues/languages/tribes: esyonlimi
 eye: eriso
 eyes: ameso
-body/work/skin: omubiri/ekipandi
+body/skin: omubiri
 bodies: emibiri
 eyebrow: olhukigha/olhukiha
 eyebrows: esyongigha
@@ -652,7 +653,7 @@ if I _ (past): ngalhwe nga_/ngalyabya nga_
 even if I _: kunanga_
 if I _ (distant future): namasya_
 if I don't _ (distant future): namathendisya_
-I was _: ngalhwe inga_/indwe inga_
+I was _ing: ngalhwe inga_/indwe inga_
 I would _/I would have _/so I can _: nanga_/nangabere _
 I should have _: nanga_ire
 he should have _/she should have _: endi_
@@ -1395,7 +1396,7 @@ to get used to/to tear off (a piece of food) for: eribeghera
 to tear off (a piece of food)/to apportion: eribegha
 to finish/to be enough: eriwunza
 to finish at: eriwunzira
-to reach/to be correct: erihika
+to reach/to be correct/to fit: erihika
 to arrive: eirkabukala
 to look for: erisondia/erirondia/eribbona
 to look for for: erisonderya/erisondirya
@@ -1941,7 +1942,7 @@ herbalist: omuthahwa wekikonzo
 witch doctor: omuthahwa wekibindi
 needle: engenzo
 malaria: omutsutsa
-medicine/carpenter: omubatsi/obubalya
+medicine: omubatsi/obubalya
 disease/sickness/illness: obulhwere/obukoni
 patient/sick person: omulhwere/omukoni
 syringe: ekirindi ekyengenzo
@@ -2110,6 +2111,7 @@ tan: omusukwe
 brown: eru
 
 Ebindi nebindi
+work: omubiri/ekipandi
 arrangement: erithondekania
 bless you: bakuleke
 military: obusirikali
