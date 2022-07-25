@@ -31,7 +31,7 @@ To add vocab, edit `src/vocab.txt` and then re-build the program with `npm run b
       > Write this in: Escreve isto em<br>
       > Correct: Correto!/Ótimo!/Fixe!<br>
       > Incorrect: Incorreto./Opa./Não.<br>
-      > Try: Tente
+      > Try: Tente<br>
       > Or: ou
 3. Include a blank line after the above header information for each language section.
 4. Within each language section, separate each vocab section (e.g. all the greetings)
